@@ -1,0 +1,1177 @@
+Package: 464xlat
+Version: 6
+Depends: libc, kmod-nat46
+Source: feeds/routing/nat46
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 4032
+Filename: 464xlat_6_ar71xx.ipk
+Size: 4738
+MD5Sum: 35719193cef20defff5608730c3863e9
+SHA256sum: f5c95f214cea583ecae8eed06f82f8a70e2e6444c384c37ab9482c3a84198de7
+Description:  464xlat CLAT support
+
+Package: ahcpd
+Version: 0.53-2
+Depends: libc, kmod-ipv6, ip, librt
+Source: feeds/routing/ahcpd
+License: MIT
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
+Architecture: ar71xx
+Installed-Size: 18800
+Filename: ahcpd_0.53-2_ar71xx.ipk
+Size: 19652
+MD5Sum: a3455ea2f09faefda265809088d25edb
+SHA256sum: 12928e4cb3c0728be38c6d3955777b402b47aafded3df66fa354ae527e5bdd66
+Description:  Ahcpd is a daemon for configuring an IPv6 network using the Ad-Hoc
+ Configuration Protocol (AHCP).  AHCP is designed for wireless mesh
+ networks, where IPv6 autoconfiguration and DHCPv6 do not work, but may
+ also be used on wired networks.
+
+Package: alfred
+Version: 2014.4.0-0
+Depends: libc, kmod-ipv6, librt
+Source: feeds/routing/alfred
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 18088
+Filename: alfred_2014.4.0-0_ar71xx.ipk
+Size: 19186
+MD5Sum: 34e787001050e47465f082400e4b5515
+SHA256sum: 0181b2ab2033fb5522805fa710b1703a24d0347546748d96d5279ce3df364488
+Description:  alfred is a user space daemon for distributing arbitrary local information over
+ the mesh/network in a decentralized fashion. This data can be anything which
+ appears to be useful - originally designed to replace the batman-adv
+ visualization (vis), you may distribute hostnames, phone books, administration
+ information, DNS information, the local weather forecast ...
+ 
+ alfred runs as daemon in the background of the system. A user may insert
+ information by using the alfred binary on the command line, or use special
+ programs to communicate with alfred (done via unix sockets). alfred then takes
+ care of distributing the local information to other alfred servers on other
+ nodes. This is done via IPv6 link-local multicast, and does not require any
+ configuration. A user can request data from alfred, and will receive the
+ information available from all alfred servers in the network.
+
+Package: babel-pinger
+Version: 0.1-1
+Depends: libc, librt
+Source: feeds/routing/babel-pinger
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
+Architecture: ar71xx
+Installed-Size: 3587
+Filename: babel-pinger_0.1-1_ar71xx.ipk
+Size: 4400
+MD5Sum: 56c7db18c391f22b02ed3e182ee8e3bb
+SHA256sum: c00723e834a29bffe0c68becba92890bed6cb495f34537c3b4c5bcf00c1493a4
+Description:  Babel-pinger is a hack to export a default route into Babel for people
+ using DHCP to configure their routers rather than speaking to their
+ upstream provider with a proper routing protocol.
+
+Package: babeld
+Version: 1.7.1-1
+Depends: libc, kmod-ipv6
+Source: feeds/routing/babeld
+License: MIT
+Section: net
+Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
+Architecture: ar71xx
+Installed-Size: 46049
+Filename: babeld_1.7.1-1_ar71xx.ipk
+Size: 47120
+MD5Sum: 7c4ba0aebcb72012d76662ce179dc8f1
+SHA256sum: 1e99f40afdbbe062e1b46da001189067e4b5fce2b3c040c08554fbdbff134c66
+Description:  Babel is a loop-avoiding distance-vector routing protocol roughly based
+ on DSDV and AODV, but with provisions for link cost estimation and
+ redistribution of routes from other routing protocols.
+ While it is optimised for wireless mesh networks, Babel will also work
+ efficiently on wired networks. It will generate between 1.2 and 2.4 times
+ the amount of routing traffic that RIPng would generate, while
+ never counting to infinity.
+
+Package: batctl
+Version: 2016.1-1
+Depends: libc, kmod-batman-adv, libnl-tiny
+Source: feeds/routing/batctl
+License: GPL-2.0
+Section: net
+Maintainer: Marek Lindner <mareklindner@neomailbox.ch>
+Architecture: ar71xx
+Installed-Size: 21536
+Filename: batctl_2016.1-1_ar71xx.ipk
+Size: 22359
+MD5Sum: 72c03914aa438f1238e76118905b1e32
+SHA256sum: e199ccec7a078c51e89572e77155b893a5dda5c95478f3af216c56d624fc532c
+Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
+ It is an easier method for configuring batman-adv and provides some
+ additional tools for debugging as well. This package builds
+ version 2016.1 of the user space utility.
+
+Package: bird4-uci
+Version: 0.2
+Depends: libc, bird4, libuci, uci
+Source: feeds/routing/bird-openwrt/bird4-openwrt
+License: GPL-3.0+
+Section: net
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: ar71xx
+Installed-Size: 4054
+Filename: bird4-uci_0.2_ar71xx.ipk
+Size: 4858
+MD5Sum: 52ed2302ad0a35b57439f0b83dca6c04
+SHA256sum: 70d6cbacd983e3884bd7bb5ba0c60bbccb7a6e7676595bb121b63131e145d0a8
+Description:  bird4 UCI integration module
+
+Package: bird4
+Version: 1.4.5-2
+Depends: libc, libpthread
+Source: feeds/routing/bird
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 150402
+Filename: bird4_1.4.5-2_ar71xx.ipk
+Size: 151539
+MD5Sum: 7a17420e1305722a4f23b450c5cd72df
+SHA256sum: fc360e1408ac560c687f2ceedc483f8eaacd78ddd8a41858bd19f7e27e0a6cd5
+Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
+ with support of modern routing protocols, easy to use configuration
+ interface and powerful route filtering language. It is lightweight and
+ efficient and therefore appropriate for small embedded routers.
+ 
+ This is IPv4 version of BIRD, it supports OSPFv2, RIPv2 and BGP
+ protocols.
+ 
+ In BGP, BIRD supports communities, multiprotocol extensions, MD5
+ authentication, 32bit AS numbers and could act as a route server or a
+ route reflector. BIRD also supports multiple RIBs, multiple kernel
+ routing tables and redistribution between the protocols with a powerful
+ configuration syntax.
+ 
+
+Package: bird6-uci
+Version: 0.2
+Depends: libc, bird6, libuci, uci
+Source: feeds/routing/bird-openwrt/bird6-openwrt
+License: GPL-3.0+
+Section: net
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: ar71xx
+Installed-Size: 4207
+Filename: bird6-uci_0.2_ar71xx.ipk
+Size: 5023
+MD5Sum: acadf2e7701e2697260c9636e913354b
+SHA256sum: 6bb815ea278e492d7c1c943d117e0e497af132969e75463cc9103edeb490ea0c
+Description:  bird6 UCI integration module
+
+Package: bird6
+Version: 1.4.5-2
+Depends: libc, libpthread
+Source: feeds/routing/bird
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 169100
+Filename: bird6_1.4.5-2_ar71xx.ipk
+Size: 170142
+MD5Sum: c24bb4c67064d8eedbde5abc01ff10df
+SHA256sum: 748bb96f52cd0c4beac36c8d9071ed6eef9cd6ffbb61305398bd28c302dd2b64
+Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
+ with support of modern routing protocols, easy to use configuration
+ interface and powerful route filtering language. It is lightweight and
+ efficient and therefore appropriate for small embedded routers.
+ 
+ This is IPv6 version of BIRD, it supports OSPFv3, RIPng and BGP
+ protocols.
+ 
+ In BGP, BIRD supports communities, multiprotocol extensions, MD5
+ authentication, 32bit AS numbers and could act as a route server or a
+ route reflector. BIRD also supports multiple RIBs, multiple kernel
+ routing tables and redistribution between the protocols with a powerful
+ configuration syntax.
+ 
+
+Package: birdc4
+Version: 1.4.5-2
+Depends: libc, libreadline, libncurses, bird4
+Source: feeds/routing/bird
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 9897
+Filename: birdc4_1.4.5-2_ar71xx.ipk
+Size: 10929
+MD5Sum: bf38f418abf69659a11d4b0098c4ee26
+SHA256sum: 9def2440491faf7005158c0974b1603ad1e9ca8529ecb85cf904e1b8d1686d7b
+Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
+ with support of modern routing protocols, easy to use configuration
+ interface and powerful route filtering language. It is lightweight and
+ efficient and therefore appropriate for small embedded routers.
+ 
+ This is a BIRD command-line client. It is used to send commands to BIRD,
+ commands can perform simple actions such as enabling/disabling of
+ protocols, telling BIRD to show various information, telling it to show
+ a routing table filtered by a filter, or asking BIRD to reconfigure.
+ 
+ Unless you can't afford dependency on ncurses and readline, you
+ should install BIRD command-line client together with BIRD.
+ 
+
+Package: birdc6
+Version: 1.4.5-2
+Depends: libc, libreadline, libncurses, bird6
+Source: feeds/routing/bird
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 10811
+Filename: birdc6_1.4.5-2_ar71xx.ipk
+Size: 11843
+MD5Sum: 3396f651d15a95c77c3bbcf0e7757b07
+SHA256sum: fb3ebb596e3f3ea504d2e4cfa8a03b75bce35c37e1ab1694a3df3bbd18e50b36
+Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
+ with support of modern routing protocols, easy to use configuration
+ interface and powerful route filtering language. It is lightweight and
+ efficient and therefore appropriate for small embedded routers.
+ 
+ This is a BIRD command-line client. It is used to send commands to BIRD,
+ commands can perform simple actions such as enabling/disabling of
+ protocols, telling BIRD to show various information, telling it to show
+ a routing table filtered by a filter, or asking BIRD to reconfigure.
+ 
+ Unless you can't afford dependency on ncurses and readline, you
+ should install BIRD command-line client together with BIRD.
+ 
+
+Package: birdcl4
+Version: 1.4.5-2
+Depends: libc, bird4
+Source: feeds/routing/bird
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 9235
+Filename: birdcl4_1.4.5-2_ar71xx.ipk
+Size: 10190
+MD5Sum: 04199be7bc0be00cdca3a08aa86a42a6
+SHA256sum: 796313b63e6d0c36f10c1fc56aac0c125ca297bcf73e9e82fbc8dc9f1a17d3a4
+Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
+ with support of modern routing protocols, easy to use configuration
+ interface and powerful route filtering language. It is lightweight and
+ efficient and therefore appropriate for small embedded routers.
+ 
+ This is a BIRD lightweight command-line client. It is used to send commands to BIRD,
+ commands can perform simple actions such as enabling/disabling of
+ protocols, telling BIRD to show various information, telling it to show
+ a routing table filtered by a filter, or asking BIRD to reconfigure.
+ 
+
+Package: birdcl6
+Version: 1.4.5-2
+Depends: libc, bird6
+Source: feeds/routing/bird
+License: GPL-2.0
+Section: net
+Architecture: ar71xx
+Installed-Size: 10159
+Filename: birdcl6_1.4.5-2_ar71xx.ipk
+Size: 11109
+MD5Sum: abf321832bf5155ee1e0419ae02a1fec
+SHA256sum: 9f423d6ddcd49e343eb647995dd1b6fd549618699d905731733aa0fc62d33d4e
+Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
+ with support of modern routing protocols, easy to use configuration
+ interface and powerful route filtering language. It is lightweight and
+ efficient and therefore appropriate for small embedded routers.
+ 
+ This is a BIRD lightweight command-line client. It is used to send commands to BIRD,
+ commands can perform simple actions such as enabling/disabling of
+ protocols, telling BIRD to show various information, telling it to show
+ a routing table filtered by a filter, or asking BIRD to reconfigure.
+ 
+
+Package: bmx6-json
+Version: r2015080701-4
+Depends: libc, bmx6, libjson-c
+Source: feeds/routing/bmx6
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 6016
+Filename: bmx6-json_r2015080701-4_ar71xx.ipk
+Size: 6738
+MD5Sum: 45aaf33587647c26278a863fcafde019
+SHA256sum: efd3f5025043ff803c09d7424cca830d1e05197450dc9512ae2c3a922b17da77
+Description:  json plugin based on json-c
+
+Package: bmx6-sms
+Version: r2015080701-4
+Depends: libc, bmx6
+Source: feeds/routing/bmx6
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 4920
+Filename: bmx6-sms_r2015080701-4_ar71xx.ipk
+Size: 5625
+MD5Sum: ad961f81213bfa001995b5587c12cb59
+SHA256sum: 5addd2303af34e9fcf8ac8c24ff03f851497656c13fb4d62ac5460f3a76c9a0f
+Description:  sms plugin
+
+Package: bmx6-table
+Version: r2015080701-4
+Depends: libc, bmx6
+Source: feeds/routing/bmx6
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 8237
+Filename: bmx6-table_r2015080701-4_ar71xx.ipk
+Size: 8981
+MD5Sum: e810b4d0e372ef1f363d56ea498c1c88
+SHA256sum: b68898a6adbacd8a67f6c45d82b8ad02e11aadf0d1488bab35feae2e109d9a50
+Description:  bmx6 table plugin to automatic announce routing-table routes via ip6ip tunnels
+
+Package: bmx6-uci-config
+Version: r2015080701-4
+Depends: libc, bmx6, libuci
+Source: feeds/routing/bmx6
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 8325
+Filename: bmx6-uci-config_r2015080701-4_ar71xx.ipk
+Size: 9112
+MD5Sum: 3fcd1c99ce8aa92b2be2cb953ee30f46
+SHA256sum: b5fccdc2538a2c1b026beb8ded9224a5d5b57da7eccd28f12717f10b3d67fbc0
+Description:  configuration plugin based on uci (recommended!)
+
+Package: bmx6
+Version: r2015080701-4
+Depends: libc, kmod-ip6-tunnel, kmod-iptunnel6, kmod-tun
+Source: feeds/routing/bmx6
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 131743
+Filename: bmx6_r2015080701-4_ar71xx.ipk
+Size: 132559
+MD5Sum: d657e14416ad95ecf0ee808cef7a525e
+SHA256sum: 8fd0fa9f222281cb217d99fc3b00744d88dad20c8c8ecd3ca47b824e284803a1
+Description:  BMX6 layer 3 routing daemon supporting IPv4, IPv6, and IPv4 over IPv6
+
+Package: bmx7-iwinfo
+Version: r2016072001-4
+Depends: libc, bmx7, libiwinfo
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 4042
+Filename: bmx7-iwinfo_r2016072001-4_ar71xx.ipk
+Size: 4783
+MD5Sum: bb509c23cac95eb799d9aa0c567862bc
+SHA256sum: 6c20843bcb3cd237185ccf5df55cba6e057d7e5543d68e006daddf82e91d1216
+Description:  link characteristics plugin based on libiwinfo (recommended!)
+
+Package: bmx7-json
+Version: r2016072001-4
+Depends: libc, bmx7, libjson-c
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 5482
+Filename: bmx7-json_r2016072001-4_ar71xx.ipk
+Size: 6220
+MD5Sum: 790abf1695999aff174dfbdfa7cc86b2
+SHA256sum: 2160660fb425ab476d110a79206fd625dcf548b0a5c0e3c62700177b083ad470
+Description:  json plugin based on json-c
+
+Package: bmx7-sms
+Version: r2016072001-4
+Depends: libc, bmx7
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 5358
+Filename: bmx7-sms_r2016072001-4_ar71xx.ipk
+Size: 6077
+MD5Sum: 0fa95b6d05e5f7f2a07af1b833daa912
+SHA256sum: 1f297bc7a4e8d0235d1a39f786900d0114837afda099961825123dd650f269c0
+Description:  sms plugin
+
+Package: bmx7-table
+Version: r2016072001-4
+Depends: libc, bmx7, bmx7-tun
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 8876
+Filename: bmx7-table_r2016072001-4_ar71xx.ipk
+Size: 9631
+MD5Sum: c95059c39e03e7c76b63ded556fd4292
+SHA256sum: 88413f49d5205186b73d84452172f6852d80f33252f1b595a63e2ce5245f1946
+Description:  plugin to announce routes from tables via tunnels
+
+Package: bmx7-topology
+Version: r2016072001-4
+Depends: libc, bmx7
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 5059
+Filename: bmx7-topology_r2016072001-4_ar71xx.ipk
+Size: 5785
+MD5Sum: 93a792e5c204ecbf0df7de4d51e2361d
+SHA256sum: 2ee7f0b6883c9eaab1bc8f55356765e7002dc686fa910bd19c4481feb3746fb7
+Description:  topology plugin
+
+Package: bmx7-tun
+Version: r2016072001-4
+Depends: libc, bmx7, kmod-ip6-tunnel, kmod-iptunnel6, kmod-tun
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 24233
+Filename: bmx7-tun_r2016072001-4_ar71xx.ipk
+Size: 24921
+MD5Sum: b3c8c517f733011bc088cfaba453c4b0
+SHA256sum: ea0e53dc6fc8105046534361f5a67bffc031e0be846e9d0208dab03eb5716ad9
+Description:  ipip-based tunnel plugin (recommended!)
+
+Package: bmx7-uci-config
+Version: r2016072001-4
+Depends: libc, bmx7, libuci
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 8252
+Filename: bmx7-uci-config_r2016072001-4_ar71xx.ipk
+Size: 9035
+MD5Sum: 2a148952f97060d8476161243ce02c21
+SHA256sum: b31a0f2ee659889e0038fb0b706ec84d8c2baaf1327167d8cee6f065543a9c62
+Description:  configuration plugin based on uci (recommended!)
+
+Package: bmx7
+Version: r2016072001-4
+Depends: libc, zlib, libpolarssl, libiwinfo
+Source: feeds/routing/bmx7
+License: GPL-2.0
+Section: net
+Maintainer: Axel Neumann <neumann@cgws.de>
+Architecture: ar71xx
+Installed-Size: 153321
+Filename: bmx7_r2016072001-4_ar71xx.ipk
+Size: 154148
+MD5Sum: e0ad028b26728ee1db5715007fee75d3
+SHA256sum: ffcf2d34e2a2da817f947c8f5e933b22d96872969b570b8b019983d4442279e8
+Description:  BMX7 routing daemon supporting securely-entrusted IPv6 (and IPv4in6) routing
+
+Package: cjdns
+Version: 0.17-2
+Depends: libc, kmod-tun, kmod-ipv6, libnl-tiny, libpthread, librt, libuci-lua, lua-bencode, dkjson, luasocket, lua-sha2
+Source: feeds/routing/cjdns
+License: GPL-3.0
+Section: net
+Maintainer: Lars Gierth <larsg@systemli.org>
+Architecture: ar71xx
+Installed-Size: 276199
+Filename: cjdns_0.17-2_ar71xx.ipk
+Size: 276918
+MD5Sum: ef1159859efba4cb15765c271181d2a8
+SHA256sum: 2f12b2723a89508b554afc4d5e24aa63c73bfa91702bd983767481ebe41a75f4
+Description:  Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. This provides near-zero-configuration networking, and prevents many of the security and scalability issues that plague existing networks.
+
+Package: hnet-full-secure
+Version: 2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1
+Depends: libc, hnetd-openssl, luci-app-hnet, babeld, ohybridproxy, miniupnpd, minimalist-pcproxy
+Source: feeds/routing/hnetd
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 105
+Filename: hnet-full-secure_2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1_ar71xx.ipk
+Size: 901
+MD5Sum: 13883477305352cfd57f296f4084069c
+SHA256sum: bfb17e99e9e5da83c6370cd603bd6358ea8ddfabf65680cd3d543952d312bb48
+Description:  HNCP Homenet metapackage
+
+Package: hnet-full
+Version: 2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1
+Depends: libc, hnetd-nossl, luci-app-hnet, babeld, ohybridproxy, miniupnpd, minimalist-pcproxy
+Source: feeds/routing/hnetd
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 104
+Filename: hnet-full_2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1_ar71xx.ipk
+Size: 897
+MD5Sum: 8fae8fc24a1327415d43f80c8ab7319b
+SHA256sum: 0542d1b9b7610b41c88957d367c83491c6c34504a0ba4553b3be52236c9582e7
+Description:  HNCP Homenet metapackage
+
+Package: hnetd-nossl
+Version: 2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1
+Depends: libc, odhcpd, odhcp6c, netifd, ip
+Source: feeds/routing/hnetd
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 82863
+Filename: hnetd-nossl_2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1_ar71xx.ipk
+Size: 83742
+MD5Sum: 9484fcffc128d05c323b2173ec567945
+SHA256sum: d2603128e9d924a99c09e12bc6b43330da4245afc25fcc1ba7747acb28736af1
+Description:  This package provides a daemon which implementats distributed prefix assignment
+ and service discovery for a home network consisting of multiple routers
+ connected to multiple service providers. It provides a netifd protocol "hnet"
+ for use in /etc/config/network.
+
+Package: hnetd-openssl
+Version: 2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1
+Depends: libc, odhcpd, odhcp6c, netifd, ip, libopenssl
+Source: feeds/routing/hnetd
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 82863
+Filename: hnetd-openssl_2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1_ar71xx.ipk
+Size: 83762
+MD5Sum: bb56fd73346f9391bc78a54065e7e680
+SHA256sum: 86281f7b0d17c7d41803af663f52d57ab33d2c97252966db519d916f134292b1
+Description:  This package provides a daemon which implementats distributed prefix assignment
+ and service discovery for a home network consisting of multiple routers
+ connected to multiple service providers. It provides a netifd protocol "hnet"
+ for use in /etc/config/network.
+
+Package: kmod-batman-adv
+Version: 3.18.45+2016.1-3
+Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-lib-crc16, kmod-crypto-crc32c, kmod-lib-crc32c, kmod-cfg80211
+Source: feeds/routing/batman-adv
+License: GPL-2.0
+Section: kernel
+Maintainer: Marek Lindner <mareklindner@neomailbox.ch>
+Architecture: ar71xx
+Installed-Size: 70904
+Filename: kmod-batman-adv_3.18.45+2016.1-3_ar71xx.ipk
+Size: 71841
+MD5Sum: 021a4420a42c38e084937b72e2a83d2a
+SHA256sum: 0e262ca04de104c266336129446c90f84007f38ee31192a1f88e5a922f9a5f04
+Description:  B.A.T.M.A.N. advanced is a kernel module which allows to
+ build layer 2 mesh networks. This package builds
+ version 2016.1 of the kernel module.
+
+Package: kmod-nat46
+Version: 3.18.45+6-1
+Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-ipv6
+Source: feeds/routing/nat46
+License: GPL-2.0
+Section: kernel
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 14791
+Filename: kmod-nat46_3.18.45+6-1_ar71xx.ipk
+Size: 15622
+MD5Sum: 694cefb70aa2084a69ea450246806ff2
+SHA256sum: 1272a5bc8e59ecd6f99faf41fbcfa97e235f878dad53a9261587ae5511b17794
+Description:  Stateless NAT46 translation kernel module
+
+Package: luci-app-bird4
+Version: 0.2
+Depends: libc, bird4-uci, luci-base
+Source: feeds/routing/bird-openwrt/bird4-openwrt
+License: GPL-3.0+
+Section: luci
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: ar71xx
+Installed-Size: 4265
+Filename: luci-app-bird4_0.2_ar71xx.ipk
+Size: 5027
+MD5Sum: 5b1ec1788ecb31374c65324844287702
+SHA256sum: b5fdee8ed077b8f2bfe900e1a089d4513f6922e0df41dd427cfd3aa616ecf33a
+Description:  bird4 application for LuCI
+
+Package: luci-app-bird6
+Version: 0.2
+Depends: libc, bird6-uci, luci-base
+Source: feeds/routing/bird-openwrt/bird6-openwrt
+License: GPL-3.0+
+Section: luci
+Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
+Architecture: ar71xx
+Installed-Size: 4409
+Filename: luci-app-bird6_0.2_ar71xx.ipk
+Size: 5163
+MD5Sum: cd6fe029c1b9263dbe3e2dbc6a53979e
+SHA256sum: 87c85702fbab519f5870194ee6d6733c5c92546352f07d298b44670fb62e0d49
+Description:  bird6 application for LuCI
+
+Package: luci-app-bmx6
+Version: 3
+Depends: libc, luci-lib-json, luci-mod-admin-full, luci-lib-httpclient, bmx6
+Source: feeds/routing/luci-app-bmx6
+License: GPL-2.0+
+Section: luci
+Maintainer: Pau Escrich <p4u@dabax.net>
+Architecture: ar71xx
+Installed-Size: 81209
+Filename: luci-app-bmx6_3_ar71xx.ipk
+Size: 82125
+MD5Sum: a0385e96f9a29994829a863947661bcf
+SHA256sum: fce87ae765502975fe549463681ea7b37ed35f2be7027e47b93f2b2d9732122f
+Description:  bmx6 web application (status and configuration) for LuCi web interface
+
+Package: luci-app-bmx7
+Version: 0.0-alpha
+Depends: libc, luci-lib-json, luci-mod-admin-full, luci-lib-httpclient, bmx7
+Source: feeds/routing/luci-app-bmx7
+License: GPL-2.0+
+Section: luci
+Maintainer: Roger Pueyo Centelles <roger.pueyo@guifi.net>
+Architecture: ar71xx
+Installed-Size: 14038
+Filename: luci-app-bmx7_0.0-alpha_ar71xx.ipk
+Size: 14819
+MD5Sum: 36cab900fd969a65f28f7a915266a132
+SHA256sum: c8a8bb656379f7bb889b022bd7bd0860a040d6799a429bbb600be6dedf05e73d
+Description:  LuCI application for web-based configuration and visualization of the BMX7 routing daemon
+
+Package: luci-app-cjdns
+Version: 1.3-5
+Depends: libc, cjdns, luci-base
+Source: feeds/routing/luci-app-cjdns
+License: GPL-3.0
+Section: luci
+Maintainer: Lars Gierth <larsg@systemli.org>
+Architecture: ar71xx
+Installed-Size: 5653
+Filename: luci-app-cjdns_1.3-5_ar71xx.ipk
+Size: 6531
+MD5Sum: ae0f4784139162c052a70126155e1995
+SHA256sum: acf37bb1d949f6bd073d7dc4df86386e88d9e3e64567ba344cd39e3cdfb86c86
+Description:  This package allows you to configure and inspect cjdns networking using LuCI.
+ 
+ Cjdns implements an encrypted IPv6 network using public-key cryptography
+ for address allocation and a distributed hash table for routing.
+ This provides near-zero-configuration networking, and prevents many
+ of the security and scalability issues that plague existing networks.
+
+Package: luci-app-hnet
+Version: 2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1
+Depends: libc
+Source: feeds/routing/hnetd
+License: GPL-2.0
+Section: luci
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 56794
+Filename: luci-app-hnet_2016-05-17-9ab71adbf0a7ad2a0964e48641b19b016b37df16-1_ar71xx.ipk
+Size: 57650
+MD5Sum: 8b34bc64d3b77ff0bfe0845b737b3b9a
+SHA256sum: 7d7c198c49d472e59f5a8a1d5c732b466b873b020dc51bd6ddc283218f78ce42
+Description:  HNCP Homenet configuration and visualization
+
+Package: map-t
+Version: 6
+Depends: libc, map, kmod-nat46
+Source: feeds/routing/nat46
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 105
+Filename: map-t_6_ar71xx.ipk
+Size: 820
+MD5Sum: a39540453912076b92dfa910b82d6f46
+SHA256sum: d352c565ec3a3b2ab2da35be2ac6200e99c4fbad2410b892c251448fd3248099
+Description:  MAP-T configuration support
+
+Package: mcproxy
+Version: 2014-12-31-b7bd2d0809a0d1f177181c361b9a6c83e193b79a-2
+Depends: libc, libpthread, libstdcpp
+Source: feeds/routing/mcproxy
+License: GPL-2.0+
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 107890
+Filename: mcproxy_2014-12-31-b7bd2d0809a0d1f177181c361b9a6c83e193b79a-2_ar71xx.ipk
+Size: 108712
+MD5Sum: 1fba8b0dd499c82cad53c77c3a86988c
+SHA256sum: 83e5d854a745e9bb0054a10f22932cea0fee60b8b08a610345e948fc3ad2a4b2
+Description:  mcproxy is a free & open source implementation of the IGMP/MLD proxy function (see  RFC 4605) for Linux systems.
+ It operates on the kernel tables for multicast routing and allows for multiple instantiations,
+ as well as dynamically changing downstream interfaces.
+
+Package: minimalist-pcproxy
+Version: 2015-01-12-2d6d1b0b0a3b79a9b4a9b0a7606a84600a967bcb-1
+Depends: libc, libubox
+Source: feeds/routing/minimalist-pcproxy
+License: GPL-2.0
+Section: net
+Maintainer: Markus Stenberg <fingon@iki.fi>
+Architecture: ar71xx
+Installed-Size: 5311
+Filename: minimalist-pcproxy_2015-01-12-2d6d1b0b0a3b79a9b4a9b0a7606a84600a967bcb-1_ar71xx.ipk
+Size: 6332
+MD5Sum: b0deb963f21102ce9a2a4c2064d96517
+SHA256sum: 2b9a6d17f8c8fc9c13a2cdbb575b0633f7346ec30a6a4dd7c37a59e95e03830e
+Description:  This package contains a daemon which can be used to forward
+ PCP (Port Control Protocol - RFC6887) requests requests to PCP remote servers.
+ 
+ In and of itself, it is not very useful, but combined with hnetd+miniupnpd
+ it allows for control of NAT forwarding and firewall pinholes from multiple
+ hops away.
+
+Package: miniupnpd
+Version: 2.0-1
+Depends: libc, iptables, libip4tc, libip6tc, ip6tables, libuuid
+Source: feeds/routing/miniupnpd
+License: BSD-3-Clause
+Section: net
+Maintainer: Markus Stenberg <fingon@iki.fi>
+Architecture: ar71xx
+Installed-Size: 49294
+Filename: miniupnpd_2.0-1_ar71xx.ipk
+Size: 50214
+MD5Sum: 4c22649a5f33424219f0cf4e88ebb5e1
+SHA256sum: 13d75dd6583a304ffea5d38983da5b0b4604ff4046e52b4ecef19e49ca780f1d
+Description:  Lightweight UPnP IGD, NAT-PMP & PCP daemon
+
+Package: mrd6
+Version: 2013-11-30-c805eb33255dbc0b6647d463c6c67d1c9d3105a0-1
+Depends: libc, libstdcpp
+Source: feeds/routing/mrd6
+License: GPL-2.0+
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 269670
+Filename: mrd6_2013-11-30-c805eb33255dbc0b6647d463c6c67d1c9d3105a0-1_ar71xx.ipk
+Size: 270522
+MD5Sum: ac712f6d57cba5427491c22931f7efd9
+SHA256sum: c690771bb61a51d1f28d66e7ded3a711181384c470d4ebcc4ba73d991a0f9c13
+Description:  Multicast is becoming a major component in next generation networks, used 
+ in several scenarios, from video broadcasting to multimedia conferencing. 
+ In order to be implemented, new technology needs supporting hardware and 
+ software across a set of devices and systems. MRD6 is an implementation of 
+ a modular IPv6 Multicast Routing Framework for the Linux operating system 
+ and provides MLDv2 (as well as MLDv1), PIM-SM and MBGP support.
+
+Package: nodogsplash
+Version: 0.9_beta9.9.9-5
+Depends: libc, libpthread, iptables-mod-ipopt
+Source: feeds/routing/nodogsplash
+License: GPL-2.0+
+Section: net
+Architecture: ar71xx
+Installed-Size: 42754
+Filename: nodogsplash_0.9_beta9.9.9-5_ar71xx.ipk
+Size: 43494
+MD5Sum: a64363fff832862bc598d7b1d1e4002c
+SHA256sum: 0c0509682d078bf3f90108e94600f63f022c0dcb4bc7705c3fc616614fe5a1b7
+Description:  Nodogsplash offers a simple way to open a free hotspot providing
+ restricted access to an internet connection.
+
+Package: ohybridproxy
+Version: 2016-05-17-8a28ae92c97099e771c9ede5641e3782ae809c27-1
+Depends: libc, libubox, mdnsd
+Source: feeds/routing/ohybridproxy
+License: GPL-2.0
+Section: net
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 10546
+Filename: ohybridproxy_2016-05-17-8a28ae92c97099e771c9ede5641e3782ae809c27-1_ar71xx.ipk
+Size: 11392
+MD5Sum: 51e585ad9e211e890c8157bb90a64c3b
+SHA256sum: 3f29ba3abc81ede1e680642a7f88bd038f7143c9f7dacf365a929343e510cd3c
+Description:  This package provides a statically configured daemon for translating DNS
+ requests to Multicast DNS and back again.
+
+Package: olsrd-mod-arprefresh
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 1982
+Filename: olsrd-mod-arprefresh_0.9.0.3-1_ar71xx.ipk
+Size: 2730
+MD5Sum: 2c1281610f80d4b32820090002ea00f6
+SHA256sum: edd9b557c8c14e6549af2c13e5b8dd17042e651428e3813212dfecf8f5881f59
+Description:  Kernel ARP cache refresh plugin
+
+Package: olsrd-mod-bmf
+Version: 0.9.0.3-1
+Depends: libc, olsrd, kmod-tun
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 11187
+Filename: olsrd-mod-bmf_0.9.0.3-1_ar71xx.ipk
+Size: 11931
+MD5Sum: e9cdfa71f56eb98217db9d8328832d32
+SHA256sum: 598916904bda2020fd6650367b71ba1e7133d6318a256ff46f57a6e2ad3a48a0
+Description:  Basic multicast forwarding plugin
+
+Package: olsrd-mod-dot-draw
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 3549
+Filename: olsrd-mod-dot-draw_0.9.0.3-1_ar71xx.ipk
+Size: 4310
+MD5Sum: 2311d2f15868c499d7c8f8b265e7ebca
+SHA256sum: 3a4ef8a7c0b3d853f365b38e0d0b6a97ea2ddcf678a3bd49210a1c70f0992fb4
+Description:  Dot topology information plugin
+
+Package: olsrd-mod-dyn-gw-plain
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 2228
+Filename: olsrd-mod-dyn-gw-plain_0.9.0.3-1_ar71xx.ipk
+Size: 2987
+MD5Sum: 4994fa5759a1bdbcd60e0630d3b70110
+SHA256sum: ca87c74cb77374398aa6fed6cfe2610a0461b9aca826564e1f3da042537a9f48
+Description:  Dynamic internet gateway plain plugin
+
+Package: olsrd-mod-dyn-gw
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 3700
+Filename: olsrd-mod-dyn-gw_0.9.0.3-1_ar71xx.ipk
+Size: 4456
+MD5Sum: 49d358b5b7fbfc6495107b3ee061252d
+SHA256sum: a182b0c02cb6f0578c83e493882bbd4d5e85e6daf29e7649fb5c092ce5e6a98b
+Description:  Dynamic internet gateway plugin
+
+Package: olsrd-mod-httpinfo
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 29459
+Filename: olsrd-mod-httpinfo_0.9.0.3-1_ar71xx.ipk
+Size: 30237
+MD5Sum: 8868d3d83c8237eb8758d06aad9d9342
+SHA256sum: 3ffed5d1b648e296cd3ab699938a5892b443f9742337037d4e98a4ab7bf2208f
+Description:  Small informative web server plugin
+
+Package: olsrd-mod-jsoninfo
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 14679
+Filename: olsrd-mod-jsoninfo_0.9.0.3-1_ar71xx.ipk
+Size: 15423
+MD5Sum: b20c36ed914434d45514f5508fcbe49b
+SHA256sum: 5035c7728c5dd72d85e1fea7392443d29daefecebcf1e131c0515a4376359e05
+Description:  Small informative plugin with JSON output
+
+Package: olsrd-mod-mdns
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 7786
+Filename: olsrd-mod-mdns_0.9.0.3-1_ar71xx.ipk
+Size: 8567
+MD5Sum: 6ff7a31cd4586496c576a29401f974a0
+SHA256sum: 00f79a6144ea93027bca26a472259a5eb1bbe009c2f6f9624974013e7c2cb892
+Description:  MDNS/Zeroconf/Bonjour packet distribution 
+
+Package: olsrd-mod-nameservice
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 10170
+Filename: olsrd-mod-nameservice_0.9.0.3-1_ar71xx.ipk
+Size: 10902
+MD5Sum: 0421c9aeb055ffbae04b60645705a743
+SHA256sum: cf34324c6bd8f44f7564464a803aa7978c4415a883b5359ee1d9d67eaec062a4
+Description:  Lightweight hostname resolver plugin
+
+Package: olsrd-mod-p2pd
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 7204
+Filename: olsrd-mod-p2pd_0.9.0.3-1_ar71xx.ipk
+Size: 7977
+MD5Sum: e2f19df217ce20c6a2f529f451d7e141
+SHA256sum: a7270bb7962f90e0359d6e99d8ffdfe63b4739831dc5c4c3b9c1a412341a0a43
+Description:  Peer to Peer Discovery plugin
+
+Package: olsrd-mod-pgraph
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 2750
+Filename: olsrd-mod-pgraph_0.9.0.3-1_ar71xx.ipk
+Size: 3512
+MD5Sum: fca9f28a5b18303d5385e1e3c04cf03e
+SHA256sum: b325eec24d14f51361b13419e3a865b9c1bd5ff486314b0f12686fedf14df162
+Description:  output network topology for pgraph
+
+Package: olsrd-mod-pud
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 54328
+Filename: olsrd-mod-pud_0.9.0.3-1_ar71xx.ipk
+Size: 55084
+MD5Sum: 7b79462872f227dd425ebef16515cb2d
+SHA256sum: e3f036e9585ff5d481b6c853029cb7bcdaefeaf348d729cbc37245fb0279a1ad
+Description:  Position Update Distribution plugin
+
+Package: olsrd-mod-quagga
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 5313
+Filename: olsrd-mod-quagga_0.9.0.3-1_ar71xx.ipk
+Size: 6048
+MD5Sum: c4a979cfad09df3285dad822ef938400
+SHA256sum: 82e139d7d23d94540ae4dfa566a46561e8f3bed84a9ef34262b9f81b6dbcfb8f
+Description:  Quagga plugin
+
+Package: olsrd-mod-secure
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 9159
+Filename: olsrd-mod-secure_0.9.0.3-1_ar71xx.ipk
+Size: 9958
+MD5Sum: 39f47dd12779395b2c78eeeb9a469009
+SHA256sum: 55057692f95a51426d34e5fd523f956231b723b733ed1a0501d753eecb624f36
+Description:  Message signing plugin to secure routing domain
+
+Package: olsrd-mod-sgwdynspeed
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 4339
+Filename: olsrd-mod-sgwdynspeed_0.9.0.3-1_ar71xx.ipk
+Size: 5115
+MD5Sum: 98cedc3976cad024ec6891e796c23d7f
+SHA256sum: 4dce57cf36259c6c319d185663f62900a77b3570f41c4abefda4e24eea4b570a
+Description:  Smart Gateway dynamic speed plugin
+
+Package: olsrd-mod-txtinfo
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 7031
+Filename: olsrd-mod-txtinfo_0.9.0.3-1_ar71xx.ipk
+Size: 7810
+MD5Sum: 4bb3dd30d6961c50b06aceded04ba53f
+SHA256sum: 36d99e9ef5bd998cea3994e50efd6820544a3fc53486edc8cdafdebd52fbf393
+Description:  Small informative web server plugin
+
+Package: olsrd-mod-watchdog
+Version: 0.9.0.3-1
+Depends: libc, olsrd
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 1774
+Filename: olsrd-mod-watchdog_0.9.0.3-1_ar71xx.ipk
+Size: 2483
+MD5Sum: b362601edadf6e76945563c02f2a8e62
+SHA256sum: e2bcadab0cf4a9547ad94430e00b1f95698c0f4ac6389e3a561e7c9e9e64a087
+Description:  Watchdog plugin
+
+Package: olsrd
+Version: 0.9.0.3-1
+Depends: libc, libpthread
+Source: feeds/routing/olsrd
+License: BSD-3-Clause
+Section: net
+Maintainer: Saverio Proto <zioproto@gmail.com>
+Architecture: ar71xx
+Installed-Size: 121882
+Filename: olsrd_0.9.0.3-1_ar71xx.ipk
+Size: 122720
+MD5Sum: 96ab5a19189c99e1bd2ff769cf5296d9
+SHA256sum: 48a3023afb97a9dcb2c1a58a37b397d94e2986c70f7bcb3f5eea952cae282142
+Description:  OLSR (Optimized Link State Routing) daemon
+
+Package: oonf-dlep-proxy
+Version: 0.13.0
+Depends: libc, librt, libnl-tiny, libuci, oonf-init-scripts
+Source: feeds/routing/oonf-dlep-proxy
+Section: net
+Maintainer: Henning Rogge <hrogge@gmail.com>
+Architecture: ar71xx
+Installed-Size: 84948
+Filename: oonf-dlep-proxy_0.13.0_ar71xx.ipk
+Size: 85764
+MD5Sum: b27ba87e8d34bdf4a64d6b47f0f56ab4
+SHA256sum: fd3461bc580e563f0909fd648fb4b6279bf08da2aab8eb7830d518bcd178710f
+Description:  Build DLEP Radio+Router Agent
+
+Package: oonf-dlep-radio
+Version: 0.13.0
+Depends: libc, librt, libnl-tiny, libuci, oonf-init-scripts
+Source: feeds/routing/oonf-dlep-radio
+Section: net
+Maintainer: Henning Rogge <hrogge@gmail.com>
+Architecture: ar71xx
+Installed-Size: 82157
+Filename: oonf-dlep-radio_0.13.0_ar71xx.ipk
+Size: 83002
+MD5Sum: 36df53b2e4629d3283b3c93861051021
+SHA256sum: 48c5d4a4e89ae69e94d82ef1ec000972bc79882292c0e627c70d4eb3738fd6f5
+Description:  Build DLEP Radio Agent
+
+Package: oonf-init-scripts
+Version: 0.9.1-r3
+Depends: libc
+Source: feeds/routing/oonf-init-scripts
+Section: net
+Maintainer: Henning Rogge <hrogge@gmail.com>
+Architecture: ar71xx
+Installed-Size: 1394
+Filename: oonf-init-scripts_0.9.1-r3_ar71xx.ipk
+Size: 2117
+MD5Sum: d9bc79028919f38ce8b215bee098a797
+SHA256sum: c0935bcc7118911a02f8da821bf8ea834f8ff23d2a8dc9f909e9a91c754b7d74
+Description:  Common OONF startup scripts
+
+Package: oonf-olsrd2
+Version: 0.13.0
+Depends: libc, librt, libnl-tiny, libuci, oonf-init-scripts
+Source: feeds/routing/oonf-olsrd2
+Section: net
+Maintainer: Henning Rogge <hrogge@gmail.com>
+Architecture: ar71xx
+Installed-Size: 135315
+Filename: oonf-olsrd2_0.13.0_ar71xx.ipk
+Size: 136148
+MD5Sum: 0fb8bc5577325521b91b830f04d5ea1e
+SHA256sum: 7230583a2ccbd921cb0eb69c3f2a460f45f4ee6c55019d164790d1cd14836f2b
+Description:  Build Olsrd V2 Routing Agent
+
+Package: prince
+Version: v0.3.1-1
+Depends: libc, libjson-c, libpthread
+Source: feeds/routing/poprouting
+Section: net
+Architecture: ar71xx
+Installed-Size: 32814
+Filename: prince_v0.3.1-1_ar71xx.ipk
+Size: 33824
+MD5Sum: daa4f7848d49b1d07a101e2c4348fd28
+SHA256sum: e380b5f85130683d40efe74951845070d6c22728a4a9e3d0e2cdb4d836b4799d
+Description:  Prince is an open source implementation of the PopRouting Algorithm.
+ It has been developed as a Google Summer of Code Project in collaboration with Freifunk and the University of Trento.
+ 
+ It work by fetching topology data from a Link State routing demon(OONF, OLSR, OSPF, etc),
+ calculating the betweenness centrality using the topology, then using these data
+ the timer's value are optimized. Finally the timers are pushed back to the routing demon.
+ Currently it only supports OLSRd2 (aka OONF).
+
+Package: smcroute
+Version: 2.0.0-1
+Depends: libc
+Source: feeds/routing/smcroute
+License: GPL-2.0+
+Section: net
+Maintainer: Leonardo Brondani Schenkel <leonardo@schenkel.net>
+Architecture: ar71xx
+Installed-Size: 11723
+Filename: smcroute_2.0.0-1_ar71xx.ipk
+Size: 12454
+MD5Sum: 41061f3702d5e8eb955ebaba3554f171
+SHA256sum: ad23ab6e21bebd467c42b7c3354cd61db6b713d5bc8d7d6268f733852da22e25
+Description:  SMCRoute is a command line tool to manipulate the multicast routes of the Linux kernel.
+

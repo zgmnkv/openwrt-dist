@@ -1,0 +1,121 @@
+Package: freenetconfd-plugin-examples
+Version: 2015-06-28-4a5dd9be91aae502b3f6a930558159d4ee6a775a
+Depends: libc, freenetconfd
+Source: feeds/management/freenetconfd-plugin-examples
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 8466
+Filename: freenetconfd-plugin-examples_2015-06-28-4a5dd9be91aae502b3f6a930558159d4ee6a775a_ar71xx.ipk
+Size: 9233
+MD5Sum: e9255fdd7f8f4b77fe9180c0ca25bab5
+SHA256sum: 6db3f02aa9aa03d52ba66a301bfeb060d2a56f5f72e8008923d281f982a2e162
+Description:  freenetconfd example plugins
+
+Package: freenetconfd
+Version: 2015-11-12-9b4dc3f45982ac9ede2db2218f5578f7268528ba
+Depends: libc, libuci, libubox, libubus, libroxml
+Source: feeds/management/freenetconfd
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 13013
+Filename: freenetconfd_2015-11-12-9b4dc3f45982ac9ede2db2218f5578f7268528ba_ar71xx.ipk
+Size: 13790
+MD5Sum: 0ee9ce8b26f27b30ef9c8e837249dc25
+SHA256sum: 70da82405b7441242a9f75e140b9f4bf68656a87d2edf19a60570b6abfb29c0e
+Description:  netconf server
+
+Package: freesub
+Version: 2014-12-03-a1a38e80c6642af723d6aa65f64910dcf27cb3da
+Depends: libc, libubox
+Source: feeds/management/freesub
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 2600
+Filename: freesub_2014-12-03-a1a38e80c6642af723d6aa65f64910dcf27cb3da_ar71xx.ipk
+Size: 3383
+MD5Sum: c455604854ac85724b898d9dfecdbdec
+SHA256sum: 9570b8fe32d241e51450f8e73db19e577ae097dbc80c45a1a03efcd007a42277
+Description:  SSH subsystem helper
+
+Package: libssh
+Version: 2014-07-10-59a179950150d0305d6189ce9c126a9a0c5f6ab4
+Depends: libc, libpthread, librt, zlib, libopenssl
+Source: feeds/management/libssh
+License: LGPL-2.1+ BSD-2-Clause
+Section: lib
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 99660
+Filename: libssh_2014-07-10-59a179950150d0305d6189ce9c126a9a0c5f6ab4_ar71xx.ipk
+Size: 100575
+MD5Sum: c556c889b2f50b586f54099007a2b4ae
+SHA256sum: 724a8aa3215d478d0b8b2d3b5fbe91e5c1ea7f5c7ab63cd37789446e125f6ec2
+Description:  libssh is a mulitplatform C library implementing the SSHv2 and SSHv1 protocol
+ for client and server implementations.
+
+Package: libyang
+Version: 0.4.6-fcd305267837985c718890931433f35b4ffca567
+Depends: libc, libpcre
+Source: feeds/management/libyang
+License: GPL-2.0+
+Section: libs
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 125950
+Filename: libyang_0.4.6-fcd305267837985c718890931433f35b4ffca567_ar71xx.ipk
+Size: 126794
+MD5Sum: aacd90999f42bd123797fbdb359613b8
+SHA256sum: 648e2d101c4f94429117f7e906b058ab35a2e88d4a27a4443f48841eabb98722
+Description:  YANG data modeling language library
+
+Package: shflags
+Version: 2012-06-11-c12b30cebb92b49c5edb6df255c0952c65b4ddc6
+Depends: libc, getopt
+Source: feeds/management/shflags
+License: LGPL-2.1
+Section: libs
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 4298
+Filename: shflags_2012-06-11-c12b30cebb92b49c5edb6df255c0952c65b4ddc6_ar71xx.ipk
+Size: 5055
+MD5Sum: bd47f08a38e9d3cdd93dbcdb6183ad59
+SHA256sum: d974bd3c0ef8a02215f792b4ad228a36bb2356ff4631a5f7f3dea6566b09bc01
+Description:  command-line flags module for Unix shell scripts
+
+Package: shtool
+Version: 2.0.8-1
+Depends: libc
+Source: feeds/management/shtool
+License: GPL-2.0+
+Section: utils
+Architecture: ar71xx
+Installed-Size: 33547
+Filename: shtool_2.0.8-1_ar71xx.ipk
+Size: 34387
+MD5Sum: ee23756fd2644fadd4dd3ec91b4be59c
+SHA256sum: 2c820bc29676250d089a5e6cff0ddab64abc24c87645bf32b29e9c24451670bc
+Description:  GNU shtool is a compilation of small but very stable and portable shell
+ scripts into a single shell tool.
+
+Package: yanglint
+Version: 0.4.6-fcd305267837985c718890931433f35b4ffca567
+Depends: libc, libyang
+Source: feeds/management/libyang
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 12597
+Filename: yanglint_0.4.6-fcd305267837985c718890931433f35b4ffca567_ar71xx.ipk
+Size: 13371
+MD5Sum: bf710edbbabed54616d15894868e809e
+SHA256sum: b6f19588290fec3651edf390443154e25870480ea090fb40df7d972d4a2483b6
+Description:  YANG data modeling language utility
+

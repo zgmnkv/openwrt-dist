@@ -1,0 +1,3618 @@
+Package: baresip-mod-alsa
+Version: 0.4.14-1
+Depends: libc, baresip, alsa-lib
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 3309
+Filename: baresip-mod-alsa_0.4.14-1_ar71xx.ipk
+Size: 4052
+MD5Sum: e6e3d5052633a6abb0c775522d2e0c71
+SHA256sum: b21f9352c76374a78325d0d74d8222de6074a8478cef90d4b6247f602ae60183
+Description:  baresip ALSA audio driver module
+
+Package: baresip-mod-avcodec
+Version: 0.4.14-1
+Depends: libc, baresip, libffmpeg-full
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7340
+Filename: baresip-mod-avcodec_0.4.14-1_ar71xx.ipk
+Size: 8149
+MD5Sum: 5d134fde9491c4c43dd054b2437a7787
+SHA256sum: 1d6e1ce65ea0dbfca0dfac85f0c1176865bd09036bd11ef1d580b3945d558f71
+Description:  baresip FFmpeg video codecs module
+
+Package: baresip-mod-avformat
+Version: 0.4.14-1
+Depends: libc, baresip, libffmpeg-full
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 3157
+Filename: baresip-mod-avformat_0.4.14-1_ar71xx.ipk
+Size: 3950
+MD5Sum: d3b7cc5e92845e948d43c35e9874573a
+SHA256sum: b7b1aa2eaafb903b84342bdef568cd3cd0c51a4ed6df02fa2450c609f47f039d
+Description:  baresip FFmpeg video source module
+
+Package: baresip-mod-cons
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2467
+Filename: baresip-mod-cons_0.4.14-1_ar71xx.ipk
+Size: 3239
+MD5Sum: 8ac818b5f95210e86c8068add1c9b90e
+SHA256sum: 6f5c9066d6954bd63c414cf276d15deae9cc43facb46802dbeacb029ee75bb2e
+Description:  baresip console UI module
+
+Package: baresip-mod-evdev
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6750
+Filename: baresip-mod-evdev_0.4.14-1_ar71xx.ipk
+Size: 7525
+MD5Sum: 6ce84721d8fedb26fbb9507d148192ad
+SHA256sum: 9f381b3fecf08e3cf5c2d4eb69ccbc95712feed9deb130ab765ce8abafdb14bf
+Description:  baresip input event device UI module
+
+Package: baresip-mod-g711
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 1705
+Filename: baresip-mod-g711_0.4.14-1_ar71xx.ipk
+Size: 2469
+MD5Sum: 8c58555a29a070c3485b532e75dd3e5c
+SHA256sum: 44bd9300a4c4929c7a1c69a4b57faa41eaf02b5fa14a1249b940cda006d25643
+Description:  baresip G.711 audio codec module
+
+Package: baresip-mod-g722
+Version: 0.4.14-1
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 1712
+Filename: baresip-mod-g722_0.4.14-1_ar71xx.ipk
+Size: 2490
+MD5Sum: 5c03afca89776539119a0a96f271d252
+SHA256sum: a3d8660a5d59692cd93b2642d6be80470be34c1b71b364637095360f10b72981
+Description:  baresip G.722 audio codec module
+
+Package: baresip-mod-g726
+Version: 0.4.14-1
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 1872
+Filename: baresip-mod-g726_0.4.14-1_ar71xx.ipk
+Size: 2654
+MD5Sum: 22dd04cfd80a16b226d55c87ff0e51b1
+SHA256sum: abeb9de1a477ee547cd6fc2ab1b26d14e8902ce2e10b7667596a7995a30021ee
+Description:  baresip G.726 audio codec module
+
+Package: baresip-mod-httpd
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2175
+Filename: baresip-mod-httpd_0.4.14-1_ar71xx.ipk
+Size: 2955
+MD5Sum: 25c52e4c8611146e25fad1a7c688997d
+SHA256sum: bf68a50038700d457b46521f8e5cee4d1ea1910655ad321ca1cece25d8e7644b
+Description:  baresip Webserver UI module module
+
+Package: baresip-mod-oss
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2617
+Filename: baresip-mod-oss_0.4.14-1_ar71xx.ipk
+Size: 3385
+MD5Sum: a55ab4532dc79ab210b7cc363c7f93fc
+SHA256sum: 7f366a22541b6a862bdb211f1cba491db7b7c19fc724589a9f6bd3d886e759b6
+Description:  baresip OSS audio driver module
+
+Package: baresip-mod-speex-aec
+Version: 0.4.14-1
+Depends: libc, baresip, libspeex
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2195
+Filename: baresip-mod-speex-aec_0.4.14-1_ar71xx.ipk
+Size: 2983
+MD5Sum: 2d8d72dbc67c92d002cc0c086ec59f38
+SHA256sum: 873cfe1802375787fd9acd4aa28a644c2d0a35c8239740cf97866946d73e49c8
+Description:  baresip Speex Acoustic Echo Cancellation module
+
+Package: baresip-mod-speex-pp
+Version: 0.4.14-1
+Depends: libc, baresip, libspeex
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 1991
+Filename: baresip-mod-speex-pp_0.4.14-1_ar71xx.ipk
+Size: 2777
+MD5Sum: 753ec753bff7b5aea1051840596d94a9
+SHA256sum: 291e9242c84ccea82720adec42543564d114c527fa5655037b4610fd87712d7a
+Description:  baresip Speex Pre-processor module
+
+Package: baresip-mod-speex
+Version: 0.4.14-1
+Depends: libc, baresip, libspeex
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 3980
+Filename: baresip-mod-speex_0.4.14-1_ar71xx.ipk
+Size: 4700
+MD5Sum: f1adcb63b56dcca0576c970f47f3e5e8
+SHA256sum: e04ec164a2142efbfb9b475917cfc7dd23ca0dc24d90a0c6deae6e4e8f32868a
+Description:  baresip Speex audio codec module
+
+Package: baresip-mod-stdio
+Version: 0.4.14-1
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2147
+Filename: baresip-mod-stdio_0.4.14-1_ar71xx.ipk
+Size: 2927
+MD5Sum: d1121ffb45beb580898d59e12b076827
+SHA256sum: 719005e8d29d87151ae0150d59c18243ae9912641feee5fca41b72f2f8989abf
+Description:  baresip standard I/O UI module
+
+Package: baresip-mod-v4l2
+Version: 0.4.14-1
+Depends: libc, baresip, libv4l
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 3465
+Filename: baresip-mod-v4l2_0.4.14-1_ar71xx.ipk
+Size: 4241
+MD5Sum: 2a0fa2be16a5b0d0b8eb6bedab073d3c
+SHA256sum: 70216e429a11cba0a19a9252452641d8ae010c9fd1804e0eebb20487f182e81a
+Description:  baresip Video4Linux2 video source module
+
+Package: baresip-mod-v4l
+Version: 0.4.14-1
+Depends: libc, baresip, libv4l
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2496
+Filename: baresip-mod-v4l_0.4.14-1_ar71xx.ipk
+Size: 3279
+MD5Sum: b7a6d7facd95461a9ccbe6e6b72c2ebe
+SHA256sum: 0b616baa665e7f3cd8114d70cbe17a35a07a4b8fccbea3e04197e3dd6bfc4407
+Description:  baresip Video4Linux video source module
+
+Package: baresip
+Version: 0.4.14-1
+Depends: libc, libre, librem, libpthread
+Source: feeds/telephony/net/baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 207219
+Filename: baresip_0.4.14-1_ar71xx.ipk
+Size: 207912
+MD5Sum: c9492a1f0a0b71250796f0ebe39638eb
+SHA256sum: 3c80c0ae2cf84ba087206fcb2914037480bab79bf34e3d3d99da7e0424f74620
+Description:  Portable and modular SIP User-Agent with A/V support
+
+Package: bcg729
+Version: 1.0.0-1
+Depends: libc
+Source: feeds/telephony/libs/bcg729
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Alex Samorukov <samm@os2.kiev.ua>
+Architecture: ar71xx
+Installed-Size: 20533
+Filename: bcg729_1.0.0-1_ar71xx.ipk
+Size: 21446
+MD5Sum: 4ff971355990a9c60cb9cbd536ce293a
+SHA256sum: 4d7f7105907ffffda6b19404912162fabbf6fc5a9ce52164420dee924d1dc278
+Description:  Bcg729 is a software G729A encoder and decoder library written in C, developed
+ by Belledonne Communications, the company supporting the Linphone project.
+ It was written from scratch and is NOT a derivative work of ITU reference
+ source code in any kind.
+
+Package: dahdi-cfg
+Version: 2.10.2-1
+Depends: libc, kmod-dahdi, libpthread
+Source: feeds/telephony/libs/dahdi-tools
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 34270
+Filename: dahdi-cfg_2.10.2-1_ar71xx.ipk
+Size: 34880
+MD5Sum: 91d4907302b031885425c057eca11bd5
+SHA256sum: 2cafe8e54f7c50f073ea8dbf1affc800ff7bb14fe3651b8486bb6a8ebf98d681
+Description:  DAHDI tools dahdi_cfg, dahdi_scan and fxotune
+
+Package: dahdi-monitor
+Version: 2.10.2-1
+Depends: libc, kmod-dahdi
+Source: feeds/telephony/libs/dahdi-tools
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 10430
+Filename: dahdi-monitor_2.10.2-1_ar71xx.ipk
+Size: 11238
+MD5Sum: 9454e2a5e1a4757b6d1f801562335ac9
+SHA256sum: 2c61a114a69d3e53b63e7e90ca61ceed66233d721dc1eb18adc3fc8d606bcbc9
+Description:  DAHDI tools dahdi_monitor, dahdi_speed and dahdi_test
+
+Package: dahdi-tools-libtonezone
+Version: 2.10.2-1
+Depends: libc, kmod-dahdi
+Source: feeds/telephony/libs/dahdi-tools
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 9602
+Filename: dahdi-tools-libtonezone_2.10.2-1_ar71xx.ipk
+Size: 10282
+MD5Sum: db45076f5d15b70ffe335e28f1cd68c8
+SHA256sum: a7401b2d7564453f9b9f732d91c377204f2f3e0da579f878a01f998552369e0e
+Description:  DAHDI tonezone library
+
+Package: kamailio3-mod-acc
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 20545
+Filename: kamailio3-mod-acc_3.3.7-9_ar71xx.ipk
+Size: 21312
+MD5Sum: d793d50b25e95a80abed34425ab05bb1
+SHA256sum: ab1dec8f9cd858405e53c86c8ad56a34ec7dd770f5db2d8a2482a8932402b060
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-alias-db
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-db-sqlite
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 4879
+Filename: kamailio3-mod-alias-db_3.3.7-9_ar71xx.ipk
+Size: 5651
+MD5Sum: 23251bf10add3019ff25d15490d0f25c
+SHA256sum: 06b34a9d8b5f2048e7bd2d2c1636d671e78f2bd92112e4227246d884abf161fa
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-auth-db
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-auth, kamailio3-mod-db-sqlite
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8555
+Filename: kamailio3-mod-auth-db_3.3.7-9_ar71xx.ipk
+Size: 9359
+MD5Sum: 6e7d88682503f92127cc606e3417d3bb
+SHA256sum: 2f1e7a28798214fc7aa398d90ee3c764207462c3a0c12ba272ed335f86b56a9a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-auth-diameter
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 17767
+Filename: kamailio3-mod-auth-diameter_3.3.7-9_ar71xx.ipk
+Size: 18578
+MD5Sum: be183be51a7d6a03558b27335fd311dc
+SHA256sum: 3929e43ef8acd436956d38a64b2fc5a6a8a73ac22414e849475ad8d5814e4de4
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-auth
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 19020
+Filename: kamailio3-mod-auth_3.3.7-9_ar71xx.ipk
+Size: 19833
+MD5Sum: 9b9f3107a7182460411e59f9c9982399
+SHA256sum: 277df8445a0aa61726d8660fc825fef37e59fcfb6754158b2afb36f86c62d826
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-avpops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 29409
+Filename: kamailio3-mod-avpops_3.3.7-9_ar71xx.ipk
+Size: 30186
+MD5Sum: 946d840d9c8797bd5778eb6fe0e7f37d
+SHA256sum: b621a6be910ec059f5d66c3a464f6fad51a085a147e82819f095142592c98576
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-benchmark
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6593
+Filename: kamailio3-mod-benchmark_3.3.7-9_ar71xx.ipk
+Size: 7409
+MD5Sum: c60b38fd1bf5ae8abaab7931b7bd7bfe
+SHA256sum: c5ee89dfe299939166d94a252b84e7de2228374c545b06656da31b67810b01fa
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-cfg-db
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-db-sqlite
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6675
+Filename: kamailio3-mod-cfg-db_3.3.7-9_ar71xx.ipk
+Size: 7469
+MD5Sum: 16ce41cdd0a9bd25a1153baa9d9e650a
+SHA256sum: 9f8efc0ac7cbd45f7311e0d98237a410a0e5d41a4922fd2f06b7f41d74df3e61
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-cfg-rpc
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 4738
+Filename: kamailio3-mod-cfg-rpc_3.3.7-9_ar71xx.ipk
+Size: 5502
+MD5Sum: 87d792a02ac39c23d20f8736486f96e0
+SHA256sum: d2e1e57c623141084ab096d4fe4011152a4bdfdff2e88cc4bed3d4097148a105
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-cfgutils
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 9655
+Filename: kamailio3-mod-cfgutils_3.3.7-9_ar71xx.ipk
+Size: 10441
+MD5Sum: 110ddb571c54ad90921cb8e129b34421
+SHA256sum: 58f426e626cb42a9233c8a0c0a4f3902bf5ee0a9f206317d8cfa7275f6fd7667
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ctl
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 40634
+Filename: kamailio3-mod-ctl_3.3.7-9_ar71xx.ipk
+Size: 41520
+MD5Sum: afce50d7565613b8096ca5700e5a649e
+SHA256sum: b1057b800b32f4b51294d0bcd85f56ea2a26486abd69e7f430342997eb4d9b20
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-flatstore
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12451
+Filename: kamailio3-mod-db-flatstore_3.3.7-9_ar71xx.ipk
+Size: 13254
+MD5Sum: ef869a069408a3aef0aac85f62ef4d33
+SHA256sum: 2f5690902f6febfcc28494df733aac57378c92e458597d16a4e2c7ead303595f
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-mysql
+Version: 3.3.7-9
+Depends: libc, kamailio3, libmysqlclient
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 27646
+Filename: kamailio3-mod-db-mysql_3.3.7-9_ar71xx.ipk
+Size: 28462
+MD5Sum: 804ba24f7be8bacc82bde0a1dccc63a6
+SHA256sum: 0a20aa05e2a31164d5921aa2b659a611c583aa1d66209877a971b371a829e6ae
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-postgres
+Version: 3.3.7-9
+Depends: libc, kamailio3, libpq
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 34675
+Filename: kamailio3-mod-db-postgres_3.3.7-9_ar71xx.ipk
+Size: 35525
+MD5Sum: 10f4693a2da3279ba3395a8ea3a064fc
+SHA256sum: 09aaf2ad4fd40a062121e7afe08fd2b84bd4e05200ed8560c5fbadec06321ed5
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-sqlite
+Version: 3.3.7-9
+Depends: libc, kamailio3, libsqlite3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11934
+Filename: kamailio3-mod-db-sqlite_3.3.7-9_ar71xx.ipk
+Size: 12716
+MD5Sum: 2591623cd89ed8de37ea908dae3f7a01
+SHA256sum: ba511724547c47830054b9d6b82279de5ed0360ccf4daeec045708143661863c
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-text
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 26450
+Filename: kamailio3-mod-db-text_3.3.7-9_ar71xx.ipk
+Size: 27165
+MD5Sum: 51fb768dff5af01bfe6477d178caaafc
+SHA256sum: 51328b6038977101f2c48131fd9b4c893b68c9250989172e34b44565da420e4b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-db-unixodbc
+Version: 3.3.7-9
+Depends: libc, kamailio3, unixodbc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 13556
+Filename: kamailio3-mod-db-unixodbc_3.3.7-9_ar71xx.ipk
+Size: 14326
+MD5Sum: 059007ba3b3619751ec109d1a748df7b
+SHA256sum: cfd6e60f02a7e0ae0703856145126409d7aac35487c62bc63b7455bbb10a17f5
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-dialog
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-rr, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 64086
+Filename: kamailio3-mod-dialog_3.3.7-9_ar71xx.ipk
+Size: 64943
+MD5Sum: 8c76e7ce7c5747896da17352c8416a8e
+SHA256sum: d6939bbf1f19f4b9dae08d8062dfabd2dcf3578d0438eefceca9c1d4bafd09a7
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-dialplan
+Version: 3.3.7-9
+Depends: libc, kamailio3, libpcre
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 19243
+Filename: kamailio3-mod-dialplan_3.3.7-9_ar71xx.ipk
+Size: 20041
+MD5Sum: d78e52cfd1bbbce8abd1b947c3bbb391
+SHA256sum: 0093fdffcfe45c0a8c4d82805173b6d822142d4b73d7fa9f5acb6185714f2d30
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-dispatcher
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10816
+Filename: kamailio3-mod-dispatcher_3.3.7-9_ar71xx.ipk
+Size: 11598
+MD5Sum: d2af943495d57707339c7e2993521726
+SHA256sum: f50556dbe6c54014b8b5392eeb6de7e5b8e4ab5d07e03f3f1b2fad320305fa5e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-diversion
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2748
+Filename: kamailio3-mod-diversion_3.3.7-9_ar71xx.ipk
+Size: 3526
+MD5Sum: 9e37af00b473d54444d15ca859a4764c
+SHA256sum: 489faf73e46c574b0824a988cf4e8ae699fe5080a2e47e21c86ef5b51c74c0b6
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-domain
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12143
+Filename: kamailio3-mod-domain_3.3.7-9_ar71xx.ipk
+Size: 12934
+MD5Sum: 063eb38c8efa92df3f89c2595f77420d
+SHA256sum: 28fc3c6bf6c81dd9a1a9f0b68a3c87813c48e24938967cacb298ec6471513b16
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-domainpolicy
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 14042
+Filename: kamailio3-mod-domainpolicy_3.3.7-9_ar71xx.ipk
+Size: 14818
+MD5Sum: 6871da12c15b37cfd68e6cb2f79bce4d
+SHA256sum: 5bc203b8e4e09de1f5721f8f076cbd5e2f8a48e700aba5d9207db68bc199d96d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-drouting
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 28643
+Filename: kamailio3-mod-drouting_3.3.7-9_ar71xx.ipk
+Size: 29423
+MD5Sum: f3b67e392b84c119049645ee818ceb5e
+SHA256sum: 520a9b6451e71416f7e93ecc5608e6d027ed3f8c12b6601974ba6e917ba62062
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-enum
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11289
+Filename: kamailio3-mod-enum_3.3.7-9_ar71xx.ipk
+Size: 12020
+MD5Sum: cd4ef5bdf7b2ac31e2a6bd524e663706
+SHA256sum: 843c517603bae20620ccbd3ea0f4559ccfd688adb6975ee15b1382cf386adee5
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-exec
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12266
+Filename: kamailio3-mod-exec_3.3.7-9_ar71xx.ipk
+Size: 13059
+MD5Sum: 4f87515afe3b6dbef73153007b1bc033
+SHA256sum: 148371abc464db06a815c1eaa3062ee3dbef4c244f1ef75f3282f735d723ecd0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-group
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7736
+Filename: kamailio3-mod-group_3.3.7-9_ar71xx.ipk
+Size: 8535
+MD5Sum: 66b5c3df1ff1fd08eaf59510ec065709
+SHA256sum: b572a14063147cc48b058674f4f61c08aec6cdf77251a1b99699a758f661f0f0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-h350
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-ldap, libopenldap
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7359
+Filename: kamailio3-mod-h350_3.3.7-9_ar71xx.ipk
+Size: 8174
+MD5Sum: f734d8e96dcd1d92e2ef30b93e4044a0
+SHA256sum: a2e13207f0f38c3d3578b18f791d8086d111b89b49e46f743a1e427b6ecc967b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-htable
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21835
+Filename: kamailio3-mod-htable_3.3.7-9_ar71xx.ipk
+Size: 22596
+MD5Sum: 89fd211be77a5da4552c3c04f13554b7
+SHA256sum: 14b30543e378bf69e7f2c08da9bc611a21594ef2042476a40f07d95925cfe52d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-imc
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-db-mysql, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 22592
+Filename: kamailio3-mod-imc_3.3.7-9_ar71xx.ipk
+Size: 23364
+MD5Sum: a0d3fbaa4c2ce01513f0718c41c1258e
+SHA256sum: 0389636f897705ef0b5dcf85a2861ccadf8f0a7b39663c955abffe1121726748
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ipops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 13097
+Filename: kamailio3-mod-ipops_3.3.7-9_ar71xx.ipk
+Size: 13817
+MD5Sum: 1691f7b7a5d8117bd51d4bb62ee4d51a
+SHA256sum: 5227baa3e15078c89b44e1e5d85d4181b76a3b0449bb856f7fbf8a59be535f5d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-kex
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 13160
+Filename: kamailio3-mod-kex_3.3.7-9_ar71xx.ipk
+Size: 13954
+MD5Sum: 6177cb90603116ad54dc3741f30f907b
+SHA256sum: 46ab9533c1b937d113249883dca322ccd6075c5a73954659df69f2cea0a4432b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-lcr
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm, libpcre
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 29949
+Filename: kamailio3-mod-lcr_3.3.7-9_ar71xx.ipk
+Size: 30715
+MD5Sum: e133251ef0e4c0d6713746d6b3275e80
+SHA256sum: 8f12972970cf6312a74f14fac7e1d572e6ccddfced35ee7e148ed017a685c24a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ldap
+Version: 3.3.7-9
+Depends: libc, kamailio3, libopenldap
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 16553
+Filename: kamailio3-mod-ldap_3.3.7-9_ar71xx.ipk
+Size: 17380
+MD5Sum: 4a8632da882ca398e49f3ce8d1082541
+SHA256sum: 6f6c2b69e4723473a09fe8e94ce2ed58188f8556d2af697b00874acc608b68e1
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-maxfwd
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 4782
+Filename: kamailio3-mod-maxfwd_3.3.7-9_ar71xx.ipk
+Size: 5542
+MD5Sum: 335fe008ce3dd3d15d323b5f2c39a3ef
+SHA256sum: baa0f413241bef7272554c132b0538deb33bd2eb8565d8d55b39bdbd75aabbdc
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mediaproxy
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18933
+Filename: kamailio3-mod-mediaproxy_3.3.7-9_ar71xx.ipk
+Size: 19725
+MD5Sum: 2bca5834cf7a18f44ba32146a5fbb6ec
+SHA256sum: 88db0692ae39df8e967ce9955434d3eb82c62105e15c9ed9624357a455bb25dc
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mi-datagram
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 17965
+Filename: kamailio3-mod-mi-datagram_3.3.7-9_ar71xx.ipk
+Size: 18789
+MD5Sum: 1ced67af4d75b308b6d031cafb17c57e
+SHA256sum: adc7f8741bdf5282b5b6255f60d9ca5cf044393292dc4cd4195f9fdb864c5415
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mi-fifo
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 14444
+Filename: kamailio3-mod-mi-fifo_3.3.7-9_ar71xx.ipk
+Size: 15193
+MD5Sum: b9337374d06b690f25d908ff201e7cf4
+SHA256sum: 9c9458f3cae63ca4b943e159c9f3ec0b5715b5d11099e3360e5df4fe7b1b48cb
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-mi-rpc
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6436
+Filename: kamailio3-mod-mi-rpc_3.3.7-9_ar71xx.ipk
+Size: 7247
+MD5Sum: 1685f3a1e2e4d85083fea21683608536
+SHA256sum: 423f00ec434db4ce57f280e207aaff2dfbecf3bc4e1a2e8a5d2a494be280d083
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-msilo
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21241
+Filename: kamailio3-mod-msilo_3.3.7-9_ar71xx.ipk
+Size: 22031
+MD5Sum: 7268844408614fb6891c9f5d53a99b29
+SHA256sum: 0f32753704e339326d36b991dcdc611b510c9afec491d0b6576a74b83bab2a89
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-nat-traversal
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog, kamailio3-mod-sl, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 17430
+Filename: kamailio3-mod-nat-traversal_3.3.7-9_ar71xx.ipk
+Size: 18226
+MD5Sum: 386bfbededaec2ce9ef9366ebd554425
+SHA256sum: 118964d693cafddcf8a5a725fe960f4af0fe5ca9c23479d35c57b4d5771668c3
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-nathelper
+Version: 3.3.7-9
+Depends: libc, kamailio3, rtpproxy
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21657
+Filename: kamailio3-mod-nathelper_3.3.7-9_ar71xx.ipk
+Size: 22405
+MD5Sum: fb4c79309b6d62644b7a6804cf6fb4d5
+SHA256sum: c51f5bfccdcb1993de5a15061eeeef684a5f90da44bb96932baed347969bef5e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-path
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-rr
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5018
+Filename: kamailio3-mod-path_3.3.7-9_ar71xx.ipk
+Size: 5778
+MD5Sum: 8565305e8b97f47d0658c9721e04682b
+SHA256sum: 53fb9cb2d54bedc25dae7fe04f61010bf2498ab8bb461bb8a6eaf79920e5c25d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pdt
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 13480
+Filename: kamailio3-mod-pdt_3.3.7-9_ar71xx.ipk
+Size: 14246
+MD5Sum: 8721606fafa0d98d4e56b894224e6741
+SHA256sum: 02ee53cb08dd97ad1e1c8ecd8399b7721fbd5fd6eedd939ea52fe9e12f2c0b4d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-permissions
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 28536
+Filename: kamailio3-mod-permissions_3.3.7-9_ar71xx.ipk
+Size: 29346
+MD5Sum: 8f3d83958f4b25fbf07e6504925f8984
+SHA256sum: 7b3dca752fa48e21d513d2b7d940cfaba1c41e38f5e54797d8ff4fc37e43071b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pike
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10472
+Filename: kamailio3-mod-pike_3.3.7-9_ar71xx.ipk
+Size: 11268
+MD5Sum: bb63d4f86618cd4fb0e68ec48dc88058
+SHA256sum: 0e2ab37c810a8f5fefe8877b4774201805cff621f605433fac90f0ead7ed2842
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence-dialoginfo
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6996
+Filename: kamailio3-mod-presence-dialoginfo_3.3.7-9_ar71xx.ipk
+Size: 7778
+MD5Sum: 5af06010745599fa0e11196a71b35d5c
+SHA256sum: f0ecebbd9dfa7b4c537f2fbca162914739a72b4bd5fb40addd891bcc902b5a47
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence-mwi
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 3342
+Filename: kamailio3-mod-presence-mwi_3.3.7-9_ar71xx.ipk
+Size: 4094
+MD5Sum: 53b8d3ecd4fcf68c88fb3dc529a82bf9
+SHA256sum: 48711a9e1ce42e7824bc89ac4c27c3a2ed3dc9b1e6a27d737af2c9527475e0be
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence-xml
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-xcap-client
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21687
+Filename: kamailio3-mod-presence-xml_3.3.7-9_ar71xx.ipk
+Size: 22457
+MD5Sum: 49897184c360f3531afbd3b999d33854
+SHA256sum: ed95008012330ff58dc3d39ecf4d6c235e4a1ef52f4378f37749f4cabf2d52a8
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-presence
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl, kamailio3-mod-tm, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 86166
+Filename: kamailio3-mod-presence_3.3.7-9_ar71xx.ipk
+Size: 86963
+MD5Sum: 745213cb7b08c22f07f703768ca45ef5
+SHA256sum: 75cb969ad3071d8e336c0bc5dcad767fbae4f719a650cf9050877997ebfe0305
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-bla
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-pua, kamailio3-mod-usrloc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7106
+Filename: kamailio3-mod-pua-bla_3.3.7-9_ar71xx.ipk
+Size: 7913
+MD5Sum: f73d3ac629d12ec54cce6eab9c800090
+SHA256sum: 4d475bec916711ba5f934438cd133cce6ec39556b9b0ee40c14f58a027d54310
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-dialoginfo
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog, kamailio3-mod-pua
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10275
+Filename: kamailio3-mod-pua-dialoginfo_3.3.7-9_ar71xx.ipk
+Size: 11052
+MD5Sum: f4681e6babcb4ebf90863ef2528317ce
+SHA256sum: 103a8dc7e5564a2d394a28a48a07b16e3d0d5059684fabc229ce79fd520f8c2e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-mi
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-pua
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6499
+Filename: kamailio3-mod-pua-mi_3.3.7-9_ar71xx.ipk
+Size: 7305
+MD5Sum: 91c20c25b52dcc9822ded7984cbd80cf
+SHA256sum: 72e5477717477c0e0fb6c87b547cd7912c1eb382a36f78c7cbfba8b56f10f436
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-usrloc
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-pua, kamailio3-mod-usrloc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6822
+Filename: kamailio3-mod-pua-usrloc_3.3.7-9_ar71xx.ipk
+Size: 7608
+MD5Sum: d656bf7eb8684af5d0c41dbf4ed4af50
+SHA256sum: 4f9194d2feaba6ac0fe84bcc98cf7858fbba5fccc2504ac8638b7d6cb0b45c2e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua-xmpp
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-pua, kamailio3-mod-xmpp
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 17868
+Filename: kamailio3-mod-pua-xmpp_3.3.7-9_ar71xx.ipk
+Size: 18648
+MD5Sum: 2bc266af7571968de926370f8d785e6a
+SHA256sum: e2eaeb6600931f099e7ec90ac397a61704f164d936d6a555f2514aba764b7dca
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pua
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 46763
+Filename: kamailio3-mod-pua_3.3.7-9_ar71xx.ipk
+Size: 47587
+MD5Sum: dcde1397d846011353cef6975a01b80c
+SHA256sum: c8d9c5a24826084a75fe2badc1dfc0efbc11d293813b45e2113dda160d406498
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-pv
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 51866
+Filename: kamailio3-mod-pv_3.3.7-9_ar71xx.ipk
+Size: 52566
+MD5Sum: 79377fafa7927704c748aede2c1e8254
+SHA256sum: 5450ee9bd8e5ee2b6c8314cbbb66c232a1e3dd07f0ee9422acd71da8bfd4ad14
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-qos
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 15039
+Filename: kamailio3-mod-qos_3.3.7-9_ar71xx.ipk
+Size: 15807
+MD5Sum: 1eb7382300db7b9f22a91511c756ff88
+SHA256sum: fc6649c1f4d988c3afb948931ff550092181b253d334b030fe911439477bd151
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-ratelimit
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 14285
+Filename: kamailio3-mod-ratelimit_3.3.7-9_ar71xx.ipk
+Size: 15039
+MD5Sum: 15886821db61317040db019faf5a69f1
+SHA256sum: 709f8f8e4a2108a18c3172aa4b79aaba12de25066f4e37f1961bdb6ff16c97a9
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-regex
+Version: 3.3.7-9
+Depends: libc, kamailio3, libpcre
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8311
+Filename: kamailio3-mod-regex_3.3.7-9_ar71xx.ipk
+Size: 9113
+MD5Sum: a228859098c2e0b5aa6a7111a7d86465
+SHA256sum: 9f9cfaa3b893a32c888e4bc8988395164b05792bded00a52927001d3b43eae9f
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-registrar
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-usrloc
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 28375
+Filename: kamailio3-mod-registrar_3.3.7-9_ar71xx.ipk
+Size: 29162
+MD5Sum: 27c92d59474014a23f811950afd94db9
+SHA256sum: 5c2ee6dfac8a880da3ece0c9b781f24c0f8076ef03d7e444bf9ba376924f1884
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rls
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-presence, kamailio3-mod-pua, kamailio3-mod-tm, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 54853
+Filename: kamailio3-mod-rls_3.3.7-9_ar71xx.ipk
+Size: 55689
+MD5Sum: 0ebf8e9f49b395e4434b13dfc9a5c861
+SHA256sum: 220f5d131146b7c6db2a203a5c7e775a31e4f4a65e5765569387c01ee76577e5
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rr
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 15914
+Filename: kamailio3-mod-rr_3.3.7-9_ar71xx.ipk
+Size: 16657
+MD5Sum: 40419c33ecebd0dfa03f22f12ad075e9
+SHA256sum: e7730bddffdffcffc32c397b9a86e74a5a789f34e5be773e832d7285e01e0fc0
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rtimer
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 4212
+Filename: kamailio3-mod-rtimer_3.3.7-9_ar71xx.ipk
+Size: 4964
+MD5Sum: d4e687be554fec2910c037072139e1e6
+SHA256sum: a82ce3b15d9f7779f6c5c86e120bc45a64806c53d153efa61fdf24c607a5c325
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-rtpproxy
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 24658
+Filename: kamailio3-mod-rtpproxy_3.3.7-9_ar71xx.ipk
+Size: 25417
+MD5Sum: 8f7cd89548484ad335040ffadbd89db8
+SHA256sum: 7426be724e625b76115d7e958f7e825cfa459e18d5fe4ff99769ac9b3367922e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sanity
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10912
+Filename: kamailio3-mod-sanity_3.3.7-9_ar71xx.ipk
+Size: 11712
+MD5Sum: e68dddf04968a2da0498465bd87c1975
+SHA256sum: 1ae3489a970bde73c20a44df2fa65e66dc7e8634c2a9731abd8e0867a04c71aa
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sipcapture
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18051
+Filename: kamailio3-mod-sipcapture_3.3.7-9_ar71xx.ipk
+Size: 18832
+MD5Sum: 84d5ee1fbd0fad4d909ec20603d3c63e
+SHA256sum: 34b8e660d7c4af5b7ce36b9a34fd1d0f0fe2ebd732e075815f7925bf35d8d8fe
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-siptrace
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18623
+Filename: kamailio3-mod-siptrace_3.3.7-9_ar71xx.ipk
+Size: 19418
+MD5Sum: c7922e8942982f8673f579fc279cfeb3
+SHA256sum: eb23a60608228474608a862ed7f3fbf85f4ea311c41e46fad9a6c721e426838c
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-siputils
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21071
+Filename: kamailio3-mod-siputils_3.3.7-9_ar71xx.ipk
+Size: 21848
+MD5Sum: 61dd85ae25d58ab01f35ca21f1a46b88
+SHA256sum: eeb292cd16852de0f7eaed381f9ef9fd98e61e4d2a01c13f4ffa27e24838368b
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sl
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12312
+Filename: kamailio3-mod-sl_3.3.7-9_ar71xx.ipk
+Size: 13080
+MD5Sum: 6225f7afcb054ac0e87fa15bfdf49b63
+SHA256sum: 5afe61d2db64f611f782ef76e168fcf3d397e45d6260d085da1201168871ab6d
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sms
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 28421
+Filename: kamailio3-mod-sms_3.3.7-9_ar71xx.ipk
+Size: 29204
+MD5Sum: 9d8bc46cf0f300a945b06de0de0fe640
+SHA256sum: 68a8b1f1b7fdd7d594cfaf9fd1af27f5c17e144cef2b6c34594368d4d2e07d57
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-speeddial
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 4970
+Filename: kamailio3-mod-speeddial_3.3.7-9_ar71xx.ipk
+Size: 5733
+MD5Sum: 6dc8d2bcb7e157fe092728a2bdfc89ae
+SHA256sum: 989e0fb08b1ebc3cb464bc8907e8046c90f4d99a3cdc2abcade231cc145766ac
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sqlops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 13985
+Filename: kamailio3-mod-sqlops_3.3.7-9_ar71xx.ipk
+Size: 14758
+MD5Sum: 3621c2407793574d595fef643f8d7b09
+SHA256sum: 3845e94d4f95703afd7fb74b807977385bd0b8debf79cf13235ee38e28cc1004
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-sst
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-dialog, kamailio3-mod-sl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10000
+Filename: kamailio3-mod-sst_3.3.7-9_ar71xx.ipk
+Size: 10783
+MD5Sum: 0ff3ebcd1f8c40342951cd4f0d44e651
+SHA256sum: 516043c589c67509322eb1974449dad923f942ac46d3cd8f6be7608d64f89b5c
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-statistics
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 4157
+Filename: kamailio3-mod-statistics_3.3.7-9_ar71xx.ipk
+Size: 4913
+MD5Sum: 13e5661559bcd05cc35c4c30fb8669f6
+SHA256sum: 12cecd4a41e8b3c99a366537305a5376bfbc704785343acb308fe70bcf19b013
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-textops
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21565
+Filename: kamailio3-mod-textops_3.3.7-9_ar71xx.ipk
+Size: 22330
+MD5Sum: c625e8aafb0c6f14e81240544ef6c148
+SHA256sum: dc3e4abf32ef805f087c35da7417760f6fc024c9c35d2eda3e0f5596f5b222fb
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-tls
+Version: 3.3.7-9
+Depends: libc, kamailio3, libopenssl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 55591
+Filename: kamailio3-mod-tls_3.3.7-9_ar71xx.ipk
+Size: 56061
+MD5Sum: f74ed21fdd9a0bc101df7a3006e809f6
+SHA256sum: be271358bef44309819cfd31b20d108cd131dd2df347d18fb634925cc99f048a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-tm
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 130053
+Filename: kamailio3-mod-tm_3.3.7-9_ar71xx.ipk
+Size: 130854
+MD5Sum: f450e797525f0d8377b89859457a0cac
+SHA256sum: 9ffcb99bb4f483857098e4086705d6fe43adebfb7459481b437c9b2c6271a75a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-tmx
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 14814
+Filename: kamailio3-mod-tmx_3.3.7-9_ar71xx.ipk
+Size: 15557
+MD5Sum: 9d3c86a644711d20659151bad502c80d
+SHA256sum: dcd406b41c28596bc6be0e30382d65aa6167d7794299bcbe44f142e86abff8b1
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-uac-redirect
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7685
+Filename: kamailio3-mod-uac-redirect_3.3.7-9_ar71xx.ipk
+Size: 8485
+MD5Sum: 0141c55bcd37d78b658a5878dbcd6c4e
+SHA256sum: ac247550af737ee1e5a3c602eade4273a3cd1120f5a7e961fceaa8e7aea86a03
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-uac
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 32081
+Filename: kamailio3-mod-uac_3.3.7-9_ar71xx.ipk
+Size: 32928
+MD5Sum: 4787df6b72c2cc977dc5213cc00950bf
+SHA256sum: 534cf90ec24f66c0db792a7247fc3c20108b298d2df6b1d51501b5652ad3aa00
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-uri-db
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5608
+Filename: kamailio3-mod-uri-db_3.3.7-9_ar71xx.ipk
+Size: 6327
+MD5Sum: 9319b4c5c5f8c8b3d8021b9caef6edb8
+SHA256sum: 857f693ce74fecee4b941fc4c756bddb8b05f13545f79522a4d5bfd7cabf10eb
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-userblacklist
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 9583
+Filename: kamailio3-mod-userblacklist_3.3.7-9_ar71xx.ipk
+Size: 10358
+MD5Sum: 51663efe09a6894bc05a4690bdde166e
+SHA256sum: d24bf5f868c7b25b7b9022c5cc434e604a2ea5bbeb69cbe4e7474ba926144a40
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-usrloc
+Version: 3.3.7-9
+Depends: libc, kamailio3, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 90936
+Filename: kamailio3-mod-usrloc_3.3.7-9_ar71xx.ipk
+Size: 91756
+MD5Sum: c5bd363f52662c18e98cf72021842c95
+SHA256sum: f91fc6ef5b12a62a44397cf738974cc438fd040b2f93c87096831dafa143f05a
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-utils
+Version: 3.3.7-9
+Depends: libc, kamailio3, libcurl, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 17261
+Filename: kamailio3-mod-utils_3.3.7-9_ar71xx.ipk
+Size: 18047
+MD5Sum: 1f7419db4f435496efc67ea8a092fe29
+SHA256sum: cdded393fed414efb74beab200ad721f1191250e2eb1b19d89f092d24aeb162e
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xcap-client
+Version: 3.3.7-9
+Depends: libc, kamailio3, libcurl
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10611
+Filename: kamailio3-mod-xcap-client_3.3.7-9_ar71xx.ipk
+Size: 11371
+MD5Sum: fa9ed7d86eefd1dd30d331dc704d4f2b
+SHA256sum: 12fd5b7c9cd5e30071aff7b22dde5d6e51ec47f8db4b9cafde1aa00bf4dec6e3
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xlog
+Version: 3.3.7-9
+Depends: libc, kamailio3
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7277
+Filename: kamailio3-mod-xlog_3.3.7-9_ar71xx.ipk
+Size: 8060
+MD5Sum: fa1b54cc64d71e8215649c284e509982
+SHA256sum: 671372c64cc44d6f90fdd91a7b2c134bb67c8372733d9b1904b7f761104a59a8
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xmlrpc
+Version: 3.3.7-9
+Depends: libc, kamailio3, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18034
+Filename: kamailio3-mod-xmlrpc_3.3.7-9_ar71xx.ipk
+Size: 18842
+MD5Sum: 4cdfe3612a9b26fb4144202715129435
+SHA256sum: 361a9c0550b3fef33f93a5e631c9377269ca43699c6e3caa66f809b7c89530fa
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3-mod-xmpp
+Version: 3.3.7-9
+Depends: libc, kamailio3, kamailio3-mod-tm, libexpat, libxml2
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 46179
+Filename: kamailio3-mod-xmpp_3.3.7-9_ar71xx.ipk
+Size: 47028
+MD5Sum: 477d4a2342502dba8805711dac4f47a9
+SHA256sum: b60d5c04253f74e7c63ac6c35dfb8f3d451de16b403e2b93a668a8167518d241
+Description:  This package provides support for  in Kamailio.
+
+Package: kamailio3
+Version: 3.3.7-9
+Depends: libc, libncurses, libpthread, libreadline
+Source: feeds/telephony/net/kamailio-3.x
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 758792
+Filename: kamailio3_3.3.7-9_ar71xx.ipk
+Size: 757149
+MD5Sum: d2b6a3a905f6fc03d6a567d43288ad09
+SHA256sum: df2513c92e7d5e15f18460e8802691d56941c5ce775cf862eb24a8076c1c5081
+Description:  Mature and flexible open source SIP server, v3.3.7
+
+Package: kmod-dahdi-dummy
+Version: 3.18.45+2.10.2-2
+Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-dahdi
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 2259
+Filename: kmod-dahdi-dummy_3.18.45+2.10.2-2_ar71xx.ipk
+Size: 3154
+MD5Sum: 1c5619adbc5917731c7148dc7f916383
+SHA256sum: 67e313e030c08f893715d80ef0603126be0333534fbfad06c507be661a00597d
+Description:  This package contains the dummy DAHDI driver providing only DAHDI timing
+ without any real telephony hardware.
+
+Package: kmod-dahdi-echocan-oslec
+Version: 3.18.45+2.10.2-2
+Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-dahdi, kmod-echo
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 1464
+Filename: kmod-dahdi-echocan-oslec_3.18.45+2.10.2-2_ar71xx.ipk
+Size: 2377
+MD5Sum: b812c4ef0c6f7d596b0087649f283cda
+SHA256sum: 13185ac86cd23416de02141517e92f460507829261a61c422bc2f51854dff156
+Description:  This package contains DAHDI OSLEC echo canceller support.
+
+Package: kmod-dahdi-hfcs
+Version: 3.18.45+2.10.2-2
+Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-dahdi
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 9865
+Filename: kmod-dahdi-hfcs_3.18.45+2.10.2-2_ar71xx.ipk
+Size: 10772
+MD5Sum: b5686c837ff453495e962f05b4e5c640
+SHA256sum: 882385a0da5eae91ca03c7fc396723f6eee35cb3856ff8434bdf68f0b515fd69
+Description:  This package contains DAHDI driver for HFC-S based PCI BRI adapters.
+
+Package: kmod-dahdi
+Version: 3.18.45+2.10.2-2
+Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-lib-crc-ccitt
+Source: feeds/telephony/libs/dahdi-linux
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
+Architecture: ar71xx
+Installed-Size: 57733
+Filename: kmod-dahdi_3.18.45+2.10.2-2_ar71xx.ipk
+Size: 58420
+MD5Sum: f32c74d292d28edb12dd2fa11ebf3bdf
+SHA256sum: f4ecfc6b3ebe1fe79debe076951857a427c6ac15d532f6e9092400ac29a526c4
+Description:  This package contains DAHDI basic infrastructure.
+
+Package: libiksemel
+Version: 1.4-1
+Depends: libc, libgnutls, libtasn1, libgcrypt, libgpg-error
+Source: feeds/telephony/libs/iksemel
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18294
+Filename: libiksemel_1.4-1_ar71xx.ipk
+Size: 19231
+MD5Sum: 2e993500783ae44d7d994dae4c84ad54
+SHA256sum: 402428aa0747d2626bf7853327c506eb6112645185b0770af5c49f184a9a2b2f
+Description:  Iksemel is an XML parser library mainly designed for Jabber applications.
+ It provides SAX, DOM, and special Jabber stream APIs. Library is coded
+ in ANSI C except the network code (which is POSIX compatible), thus
+ highly portable.
+
+Package: libortp
+Version: 0.23.0-1
+Depends: libc, libpthread, librt
+Source: feeds/telephony/libs/ortp
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Nicolas Thill <nico@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 46880
+Filename: libortp_0.23.0-1_ar71xx.ipk
+Size: 47731
+MD5Sum: 1fbfc2b7a1f11b784846fc3b90e30541
+SHA256sum: a01f216a1cb22c561262d4e0899a249f6e1bd764b6de0843e04937efc2c98923
+Description:  Real-time Transport Protocol (RTP) library
+
+Package: libosip2
+Version: 4.1.0-1
+Depends: libc, librt
+Source: feeds/telephony/libs/libosip2
+License: LGPL-2.1+
+LicenseFiles: COPYING
+Section: libs
+Architecture: ar71xx
+Installed-Size: 57443
+Filename: libosip2_4.1.0-1_ar71xx.ipk
+Size: 58247
+MD5Sum: bd842344d9c86dfd11d28d405c8ffb82
+SHA256sum: 63e618d55ae8bd6396c2af4ce85f6b1de6430d62758d08224b1f306d135360a9
+Description:  GNU oSIP library, a Session Initiation Protocol (SIP) implementation.
+
+Package: libpj
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, librt
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 90789
+Filename: libpj_2.4-1_ar71xx.ipk
+Size: 91606
+MD5Sum: cf9d31964de399ff63e92b1f3442f5f1
+SHA256sum: 9d929ab514ed97e305447ed9ecc6ff6e6239ba826a2680c59f02e2cb75783a1f
+Description:  libpj library
+
+Package: libpjlib-util
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, librt
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 124397
+Filename: libpjlib-util_2.4-1_ar71xx.ipk
+Size: 125198
+MD5Sum: a924af630c5cbec030f22938c3f98f02
+SHA256sum: c07330e72efbbc608aca249a59e366d4aab93411dd293c971ac31e8f59d9789d
+Description:  libpjlib-util library
+
+Package: libpjmedia
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, libpjnath, libresample, librt, libspeex, libsrtp
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 225320
+Filename: libpjmedia_2.4-1_ar71xx.ipk
+Size: 225422
+MD5Sum: 2f4732c0f4c62d09d7331aa14b51f45e
+SHA256sum: 6439b1d48fe7562f670fcc15cb7d79b0026aa56cafa3df5a4e54f948dd2f7771
+Description:  libpjmedia library
+
+Package: libpjnath
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, librt
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 111411
+Filename: libpjnath_2.4-1_ar71xx.ipk
+Size: 111885
+MD5Sum: 5bfe25a8500c9eb676f6bf8f0d2824a6
+SHA256sum: 3b4a1460223947446c89b4d26b1cba29bc1bc3ac4c4818aac2426abf2f8e2f7a
+Description:  libpjnath library
+
+Package: libpjsip-simple
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, libpjsip, libresample, librt, libspeex, libsrtp
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 51065
+Filename: libpjsip-simple_2.4-1_ar71xx.ipk
+Size: 51201
+MD5Sum: d5e4af3161fb614fea5907f7ad596072
+SHA256sum: 6c699b34dcd4eeb5c84e1af264b0f9deacebb86e4eeb9b160d14de2f3fcd0c2f
+Description:  libpjsip-simple library
+
+Package: libpjsip-ua
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, libpjmedia, libpjsip-simple, libpjsip, libresample, librt, libspeex, libsrtp
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 72948
+Filename: libpjsip-ua_2.4-1_ar71xx.ipk
+Size: 73778
+MD5Sum: 4d1da09e6140ed04552cc380cc2f6f0f
+SHA256sum: f0242730b524755b8becb456cbdd03ac8a0bf57d4c0581b2159979126265b603
+Description:  libpjsip-ua library
+
+Package: libpjsip
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, libresample, librt, libspeex, libsrtp
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 186074
+Filename: libpjsip_2.4-1_ar71xx.ipk
+Size: 186616
+MD5Sum: 50f10382b33c7a26e529271db74fab83
+SHA256sum: 83cfb82900f662ae59206bc758072104def119274ffad51480837c74116f6b9e
+Description:  libpjsip library
+
+Package: libpjsua2
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsip, libresample, librt, libspeex, libsrtp, libpjsua
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 200247
+Filename: libpjsua2_2.4-1_ar71xx.ipk
+Size: 201040
+MD5Sum: f46d4022ba72b051a217ed5821543ed0
+SHA256sum: be9214901a6afca27f4e637c40befcebff5f934b5bf28b172a414efb4a4e35a7
+Description:  libpjsua2 library
+
+Package: libpjsua
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread, libpj, libpjlib-util, libpjmedia, libpjnath, libpjsip-simple, libpjsip-ua, libpjsip, libresample, librt, libspeex, libsrtp
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 181591
+Filename: libpjsua_2.4-1_ar71xx.ipk
+Size: 181916
+MD5Sum: 4a65962a16900e1367a3d6f6938b6555
+SHA256sum: 6b951ae9bbb629e5ace8d71330c54becbd0320a0e153526c8ed0a52785f821c4
+Description:  libpjsua library
+
+Package: libre
+Version: 0.4.13-1
+Depends: libc, libopenssl, libpthread
+Source: feeds/telephony/libs/re
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 138751
+Filename: libre_0.4.13-1_ar71xx.ipk
+Size: 139582
+MD5Sum: f7848754e3ec683a22c71a97f8a418a3
+SHA256sum: 2eeff1d71157662ad59ea2777ab958ddba201d7993d051e9e1ed724701be70f8
+Description:  Generic library for real-time communications with async IO support
+
+Package: librem
+Version: 0.4.6-1
+Depends: libc, libre, libpthread
+Source: feeds/telephony/libs/rem
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 16880
+Filename: librem_0.4.6-1_ar71xx.ipk
+Size: 17686
+MD5Sum: 7f58d8ae9b4084102936b79291ad519f
+SHA256sum: b277f97a49b6d8d5a9e5372e8c0fd13559626055584d57b9a0729dad91907e47
+Description:  Audio and video processing media library
+
+Package: libresample
+Version: 2.4-1
+Depends: libc, libuuid, libstdcpp, libpthread
+Source: feeds/telephony/libs/pjproject
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 36116
+Filename: libresample_2.4-1_ar71xx.ipk
+Size: 36934
+MD5Sum: 3cfbcab5cefbe13f2da3aee90ae0c174
+SHA256sum: 202ec4acb689e4a3a270dd57c6c7f0fd9baa678caebb02daa87e5a1449829afc
+Description:  libresample library
+
+Package: libspandsp
+Version: 0.0.6-2
+Depends: libc, libtiff
+Source: feeds/telephony/libs/spandsp
+License: LGPL-2.1 GPL-2.0
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 271679
+Filename: libspandsp_0.0.6-2_ar71xx.ipk
+Size: 270359
+MD5Sum: 6c0409eefa0df7861e42a7bf71bc52d1
+SHA256sum: 10508682e87f3df49555d64bea5853a08a6de157ef0b0770e10ce57825afe90a
+Description:  spandsp library
+
+Package: libsrtp
+Version: 1.4.4-1
+Depends: libc
+Source: feeds/telephony/libs/libsrtp
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 31452
+Filename: libsrtp_1.4.4-1_ar71xx.ipk
+Size: 31845
+MD5Sum: ceb06a3b7380f97bd390012cc6e566c2
+SHA256sum: 5e2e0fadf98fd5287142c1170acd44678eadfbc839a0d5bfb0aaf0b164053690
+Description:  Open-source implementation of the Secure Real-time Transport
+ Protocol (SRTP) originally authored by Cisco Systems, Inc.
+ It is available under a BSD-style license.
+
+Package: miax
+Version: 1.4-2
+Depends: libc, libpthread
+Source: feeds/telephony/net/miax
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+Architecture: ar71xx
+Installed-Size: 29194
+Filename: miax_1.4-2_ar71xx.ipk
+Size: 29964
+MD5Sum: 3b37775f41df12a074d7304192be1419
+SHA256sum: 2a8ed87c84c06ed3f7a5c105f1b42995df25bfa287006ef958ae5909853ba487
+Description:  miax is a console iax (asterisk) client, it can work with 
+ a soundcard as a normal voip phone, taking input/output from 
+ keyboard or analog/gsm/isdn modem.
+
+Package: pcapsipdump
+Version: 0.2-1
+Depends: libc, libpcap, uclibcxx
+Source: feeds/telephony/net/pcapsipdump
+License: GPL-2.0+
+LicenseFiles: LICENSE
+Section: net
+Architecture: ar71xx
+Installed-Size: 6283
+Filename: pcapsipdump_0.2-1_ar71xx.ipk
+Size: 7134
+MD5Sum: 746ff3db9cee0cc8c5fcd43f3e4950d4
+SHA256sum: ee0052d83656b9cbb3f22a807744646773a58fc56ef23d0c0318cca5449544a2
+Description:  pcapsipdump is a tool for dumping SIP sessions (+RTP traffic, if available) to disk in a
+ fashion similar to "tcpdump -w" (format is exactly the same), but one file per sip session
+ (even if there is thousands of concurrect SIP sessions).
+
+Package: restund-mod-mysql
+Version: 0.4.11-1
+Depends: libc, restund, libmysqlclient
+Source: feeds/telephony/net/restund
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 2605
+Filename: restund-mod-mysql_0.4.11-1_ar71xx.ipk
+Size: 3388
+MD5Sum: a0def5c3083a9bce3f2efa12a11963c1
+SHA256sum: 421dfacc36de61a9740eb991a5e4468e578907f4dd17317dff2fc7ed36ab5372
+Description:  restund MySQL database backend module
+
+Package: restund
+Version: 0.4.11-1
+Depends: libc, libre, libpthread
+Source: feeds/telephony/net/restund
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 26420
+Filename: restund_0.4.11-1_ar71xx.ipk
+Size: 27187
+MD5Sum: 77020ad445c74d2d2679e5199fd14962
+SHA256sum: 884f5ac093ea8d1790e73a21530124d73cfbb15a030b0e6b290cbf451793e4ee
+Description:  Modular STUN/TURN server
+
+Package: rtpproxy
+Version: 2.0.0-1
+Depends: libc, libpthread, librt
+Source: feeds/telephony/net/rtpproxy
+License: BSD-2-Clause
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 35397
+Filename: rtpproxy_2.0.0-1_ar71xx.ipk
+Size: 36033
+MD5Sum: 32f5d0708f495c5450ec8f01a87a8cdf
+SHA256sum: 4f5ffa4cfb94601c7ad3c31d5ae6a1b8cd6b8f1b8efaadf127c5029e97c1d857
+Description:  RTP (Realtime Transport Protocol) proxy
+
+Package: sipp
+Version: 3.3.990-1
+Depends: libc, libncurses, libpthread, uclibcxx
+Source: feeds/telephony/net/sipp
+License: GPL-2.0+ BSD-3-Clause Zlib
+LicenseFiles: LICENSE.txt
+Section: net
+Architecture: ar71xx
+Installed-Size: 130455
+Filename: sipp_3.3.990-1_ar71xx.ipk
+Size: 130940
+MD5Sum: 99a662515674d3dd0481659656066c20
+SHA256sum: a8e82294363607b974617e7a804ca611fdeb2750d220297e8d91732683ab4a34
+Description:  SIPp is a free Open Source test tool / traffic generator for the SIP
+ protocol. It includes a few basic SipStone user agent scenarios (UAC and
+ UAS) and establishes and releases multiple calls with the INVITE and BYE
+ methods.
+
+Package: siproxd-mod-defaulttarget
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 2303
+Filename: siproxd-mod-defaulttarget_0.8.1-4_ar71xx.ipk
+Size: 3041
+MD5Sum: eb779aeaf93889beb228b09606dac318
+SHA256sum: cc09a71b1ac62bb358ebd796a8a59881d42b0d976e479d1cd2f9b9997fb23a8a
+Description:  siproxd defaulttarget plugin
+
+Package: siproxd-mod-demo
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 1709
+Filename: siproxd-mod-demo_0.8.1-4_ar71xx.ipk
+Size: 2434
+MD5Sum: 7f76277b43033dc3ae58a7ff73a1a8e6
+SHA256sum: cf0d6451ef2b4f4dc54aa7547dcb0f894e6a178fad74aa920248409b08779b02
+Description:  siproxd demo plugin
+
+Package: siproxd-mod-fix_bogus_via
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 2298
+Filename: siproxd-mod-fix_bogus_via_0.8.1-4_ar71xx.ipk
+Size: 3034
+MD5Sum: 3fc5f3cb162e0522142fa5bc2a9475ff
+SHA256sum: 924bb56d8ae26461b99e1e8aaf68923263bc68675f51c686b5b15d4884e5e6d1
+Description:  siproxd fix_bogus_via plugin
+
+Package: siproxd-mod-logcall
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 1819
+Filename: siproxd-mod-logcall_0.8.1-4_ar71xx.ipk
+Size: 2542
+MD5Sum: 54ffe54012338cce11f8e1ed89958e96
+SHA256sum: 2eb324c4d8b498fe859227983708bfb67aaebb9986656e14d2417499779571dc
+Description:  siproxd logcall plugin
+
+Package: siproxd-mod-prefix
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 2898
+Filename: siproxd-mod-prefix_0.8.1-4_ar71xx.ipk
+Size: 3629
+MD5Sum: f018f31de2bd71ebd71250a5da164fd4
+SHA256sum: b75ccabe530edec4e23b3eca9fcc43dc813af291a3c5cd95220449aabf6a4a1b
+Description:  siproxd prefix plugin
+
+Package: siproxd-mod-regex
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 4097
+Filename: siproxd-mod-regex_0.8.1-4_ar71xx.ipk
+Size: 4776
+MD5Sum: e1f2c3c8ff0535606b6b7fe4cbb2451c
+SHA256sum: b55e2183cfb7fd2f66126960f3e76f4e5041515c0f7aca0c4462394052f97be4
+Description:  siproxd regex plugin
+
+Package: siproxd-mod-shortdial
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 2782
+Filename: siproxd-mod-shortdial_0.8.1-4_ar71xx.ipk
+Size: 3502
+MD5Sum: 2deee2fcfdb7b7f1790adbf1181fe77d
+SHA256sum: a942725d279e84a2667113d1293999371ec0e7b1de03db02d25cbd69a25b4ced
+Description:  siproxd shortdial plugin
+
+Package: siproxd-mod-stun
+Version: 0.8.1-4
+Depends: libc, siproxd
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 3402
+Filename: siproxd-mod-stun_0.8.1-4_ar71xx.ipk
+Size: 4127
+MD5Sum: 2fef7d545213acdccab75c7e71253d89
+SHA256sum: 9be7915285ec59fb8a54f5908179d8f58218490233a68cb42daf191f60b25f05
+Description:  siproxd stun plugin
+
+Package: siproxd
+Version: 0.8.1-4
+Depends: libc, libltdl, libpthread, libosip2
+Source: feeds/telephony/net/siproxd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Architecture: ar71xx
+Installed-Size: 44509
+Filename: siproxd_0.8.1-4_ar71xx.ipk
+Size: 45008
+MD5Sum: 9e24ac171fda55c59affbd45b793498a
+SHA256sum: ccd1247d59053651ba6686ef50a4bc98cb78291cec6e7273fb3c6ccf327bc086
+Description:  Siproxd is a proxy/masquerading daemon for the SIP protocol.
+
+Package: yate-mod-accfile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7719
+Filename: yate-mod-accfile_5.5.0-1-1_ar71xx.ipk
+Size: 8507
+MD5Sum: 713270f67968eaae97943f673eec1efe
+SHA256sum: 7d325781dac386d5aa4d5cfb7754699742d3639005084751a768141c8a3394b3
+Description:  SIP or H.323 client (from file) module for yate
+
+Package: yate-mod-alsachan
+Version: 5.5.0-1-1
+Depends: libc, yate, alsa-lib
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12511
+Filename: yate-mod-alsachan_5.5.0-1-1_ar71xx.ipk
+Size: 13272
+MD5Sum: 2a3afb7acad74ddd5aadeb31d71ad812
+SHA256sum: 70647a68d85334f3134a96d00e46a43719086878bc0cb98843678103a682f2ff
+Description:  ALSA Sound Channel module for yate
+
+Package: yate-mod-analog
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 33001
+Filename: yate-mod-analog_5.5.0-1-1_ar71xx.ipk
+Size: 33790
+MD5Sum: a9a5d2ae76564e807ae590c2b0ac9376
+SHA256sum: d46b5db99abce37ab27d486d32850bd3c3884ad2b23d74f17fed0acebe07b83d
+Description:  Analog (e.g. POTS) Channel module for yate
+
+Package: yate-mod-analogdetect
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18421
+Filename: yate-mod-analogdetect_5.5.0-1-1_ar71xx.ipk
+Size: 19184
+MD5Sum: a18f5c018ff4f2098600291b0b354048
+SHA256sum: 8b587cee18034ada9d7af3a7dc7bce35e228839aa4659cea203436281c320115
+Description:  Analog Data Detector module for yate
+
+Package: yate-mod-analyzer
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 13030
+Filename: yate-mod-analyzer_5.5.0-1-1_ar71xx.ipk
+Size: 13787
+MD5Sum: 6fd6e24cbb1f82e60ba2f268503752d6
+SHA256sum: 8d2cf92a2343531b64c5dd9958c8417c85f6089577ac82ce781c2c386b2aafe4
+Description:  Test Call Generator and AQ Analyzer module for yate
+
+Package: yate-mod-cache
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 22604
+Filename: yate-mod-cache_5.5.0-1-1_ar71xx.ipk
+Size: 23290
+MD5Sum: 5ef7e375b4501adcecd95b0cbc5c59c8
+SHA256sum: adb625956c08ad1a067d867e1224610c0fa7dc79798b9504578ac722569abc5b
+Description:  CNAM and LNP memory caches module for yate
+
+Package: yate-mod-callcounters
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6260
+Filename: yate-mod-callcounters_5.5.0-1-1_ar71xx.ipk
+Size: 7046
+MD5Sum: fd22d47058e17a47e16a31fa40d2c3ee
+SHA256sum: 88048387715ae0f74b5e0eccd458d31b54609644db9e7385dd1818e4d13f5718
+Description:  Count Active Call Legs module for yate
+
+Package: yate-mod-callfork
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 14566
+Filename: yate-mod-callfork_5.5.0-1-1_ar71xx.ipk
+Size: 15338
+MD5Sum: c3654adf3d1e2563b24a25031cbfbaf2
+SHA256sum: 1b84555cb53c2ddcaf2ce257225076e7d2610f5a107d337709be3be5300916f7
+Description:  Call Forker module for yate
+
+Package: yate-mod-callgen
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12961
+Filename: yate-mod-callgen_5.5.0-1-1_ar71xx.ipk
+Size: 13732
+MD5Sum: c18411873f2bcff4cec0ef68ba994f0d
+SHA256sum: 69b54c897fcf7a1d2900e79c6b8751ad888ad833141cddfce39915ced1a072a3
+Description:  Call Generator module for yate
+
+Package: yate-mod-ccongestion
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5882
+Filename: yate-mod-ccongestion_5.5.0-1-1_ar71xx.ipk
+Size: 6652
+MD5Sum: 0227b1f9fb0924e67466acff3ddc076a
+SHA256sum: 2d575b96563510e15d3d05c7c58f636470d38867dbee6593b939ab4c7b063e8b
+Description:  Accept Status from Installed Engine Monitors module for yate
+
+Package: yate-mod-cdrbuild
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 15696
+Filename: yate-mod-cdrbuild_5.5.0-1-1_ar71xx.ipk
+Size: 16396
+MD5Sum: 1a1a9c589badf95d3327b70493f43ebf
+SHA256sum: 93a7d963d5ae54ea7c2c18ab875ba03274e96112e9a3120b03dba7f305e925b3
+Description:  Call Detail Record Builder module for yate
+
+Package: yate-mod-cdrcombine
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6628
+Filename: yate-mod-cdrcombine_5.5.0-1-1_ar71xx.ipk
+Size: 7425
+MD5Sum: 0db6b8801c17e668b7dbfcd780d45298
+SHA256sum: 4e7b42b5d6b2f94e99bc896ac8fe7b9e2f8b207e4bd93b7fa292a7cbf6827585
+Description:  Call Detail Records per call instead of per call leg module for yate
+
+Package: yate-mod-cdrfile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5372
+Filename: yate-mod-cdrfile_5.5.0-1-1_ar71xx.ipk
+Size: 6130
+MD5Sum: 67b5f2e1b1fc778673ca72fac7c16c0c
+SHA256sum: a4dc41891f54ac86bad1918c6fe16b6a7266ae0d7f3371201f2cb39c2ac57c7a
+Description:  Call Detail Record to File module for yate
+
+Package: yate-mod-ciscosm
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 22276
+Filename: yate-mod-ciscosm_5.5.0-1-1_ar71xx.ipk
+Size: 22982
+MD5Sum: a4826f265d81ecc611672122260edcab
+SHA256sum: 64564c742bf573c311f8eb66aad10b72f0918d45d988a1b8a0c1fbbce2e5360f
+Description:  SS7 Support module for yate
+
+Package: yate-mod-clustering
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7170
+Filename: yate-mod-clustering_5.5.0-1-1_ar71xx.ipk
+Size: 7959
+MD5Sum: 5f52a0c45b554752ef14b641cb840bb6
+SHA256sum: b96b9f362fbe663ee0f0587b6018b0e36892ba57ddf765900a6766faec5828c0
+Description:  Clustering Server Support module for yate
+
+Package: yate-mod-conference
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18778
+Filename: yate-mod-conference_5.5.0-1-1_ar71xx.ipk
+Size: 19498
+MD5Sum: 8cf459f0d0972463cecb9a3ac0b115aa
+SHA256sum: a7d3fef0b2a7f00bed24d7da49a3812d72b3a80e6ae74bbb9d3b4a3d5c382fd6
+Description:  Conference Room Mixer module for yate
+
+Package: yate-mod-cpuload
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12158
+Filename: yate-mod-cpuload_5.5.0-1-1_ar71xx.ipk
+Size: 12906
+MD5Sum: 89cbbb54e7b29beac52d4089c66af7ea
+SHA256sum: ea3aff5db2e9d8e0bb1a9782c96baabf733ec41ea10b228bd71f8fc6fa07c79d
+Description:  Monitor CPU load and Inform Yate module for yate
+
+Package: yate-mod-dbpbx
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 9444
+Filename: yate-mod-dbpbx_5.5.0-1-1_ar71xx.ipk
+Size: 10254
+MD5Sum: b215101922faf45bf8136fc37ac50cab
+SHA256sum: b2452e40a1d37948c5e2f3f672fac5d3c5e0126676556aa7210e7b38e8d9c216
+Description:  PBX IVR and Multi-routing from Database module for yate
+
+Package: yate-mod-dbwave
+Version: 5.5.0-1-1
+Depends: libc, yate, yate-mod-wavefile
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5984
+Filename: yate-mod-dbwave_5.5.0-1-1_ar71xx.ipk
+Size: 6736
+MD5Sum: 762ab1182b5f7f53da8121fa3d1687c3
+SHA256sum: 394954cf3c736a64bdaa8f9182e9cb938289f15a77fe7b02677d02ac33f02da1
+Description:  Wav Media for DB Storage module for yate
+
+Package: yate-mod-dumbchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5999
+Filename: yate-mod-dumbchan_5.5.0-1-1_ar71xx.ipk
+Size: 6730
+MD5Sum: a76e62ed4c5169df7e1485ea1bde2558
+SHA256sum: 4ffea4e068296c562d71243b4427197c5dcd2cef9576b71fc9ed81818717bf60
+Description:  Dummy Channel module for yate
+
+Package: yate-mod-enumroute
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8079
+Filename: yate-mod-enumroute_5.5.0-1-1_ar71xx.ipk
+Size: 8855
+MD5Sum: aa994969823e3a623b5088c4010eced0
+SHA256sum: d7250d9d6b7f110c8c6120d25d10914d10c00d43f5337d0162b8a7e6da048d4e
+Description:  ENUM Routing module for yate
+
+Package: yate-mod-eventlogs
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5724
+Filename: yate-mod-eventlogs_5.5.0-1-1_ar71xx.ipk
+Size: 6490
+MD5Sum: 2d119f74e3c066a09719b9087b363063
+SHA256sum: 550e18bd672137abfe8c41a7de5c424e4f365b6f9a317ba7994d601bf2546931
+Description:  Write events and alarms to log files module for yate
+
+Package: yate-mod-extmodule
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 26034
+Filename: yate-mod-extmodule_5.5.0-1-1_ar71xx.ipk
+Size: 26776
+MD5Sum: 7469410066d3ac3d8a363913d1b495b8
+SHA256sum: 5ab71a455ece672677d6744a74ac3ac7d4249a572a6f02807b84c5e196262476
+Description:  External Module Handler module for yate
+
+Package: yate-mod-faxchan
+Version: 5.5.0-1-1
+Depends: libc, yate, libspandsp
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 15071
+Filename: yate-mod-faxchan_5.5.0-1-1_ar71xx.ipk
+Size: 15760
+MD5Sum: 26901fe753501e5a4a96c00e01695cc2
+SHA256sum: b7f969dadf72f119b6395925415a2ac995487159aef051c6efbd1d39c2369dd3
+Description:  Spandsp Fax Channel module for yate
+
+Package: yate-mod-filetransfer
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 20184
+Filename: yate-mod-filetransfer_5.5.0-1-1_ar71xx.ipk
+Size: 20892
+MD5Sum: 81de11f13fb6cdd59f6ba82923473c94
+SHA256sum: 5adb6b2a7bc7af2e14ed879badebfd9972789d0e0ae474e4e162ecdfd6df90b5
+Description:  File Transfer Driver module for yate
+
+Package: yate-mod-gvoice
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6974
+Filename: yate-mod-gvoice_5.5.0-1-1_ar71xx.ipk
+Size: 7756
+MD5Sum: f10b0a307f235d80c2f68e8dd074362c
+SHA256sum: 4dc5096384bd0a2fe7c326bfe1ab56ae8b9ab550f853c92851af4e8bddf10292
+Description:  Google Voice support module for yate
+
+Package: yate-mod-heartbeat
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8243
+Filename: yate-mod-heartbeat_5.5.0-1-1_ar71xx.ipk
+Size: 9032
+MD5Sum: 121eea9448288e4e2c04c5983f0c5efe
+SHA256sum: 3278184d042bad99840a3e34cc46105f501a6b60c94c94a3113c3ed343072f3e
+Description:  Linux-HA compatible heartbeat module for yate
+
+Package: yate-mod-ilbccodec
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 43366
+Filename: yate-mod-ilbccodec_5.5.0-1-1_ar71xx.ipk
+Size: 44228
+MD5Sum: 36442d24a06e08e5dcecaab39f823bcf
+SHA256sum: 0fef11bd4e065f38656493e59ebad243d6a65ef0771ae1df95e261c9bc1a6d1a
+Description:  iLBC Codec module for yate
+
+Package: yate-mod-ilbcwebrtc
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 37468
+Filename: yate-mod-ilbcwebrtc_5.5.0-1-1_ar71xx.ipk
+Size: 38356
+MD5Sum: b5f6316db2343abf4794a4539e511ee8
+SHA256sum: c16fa172905919896821f527fb196a835bd4a6a325c41d0a618ff587b1754b24
+Description:  iLBC Codec from the WebRTC project module for yate
+
+Package: yate-mod-isaccodec
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 130871
+Filename: yate-mod-isaccodec_5.5.0-1-1_ar71xx.ipk
+Size: 131234
+MD5Sum: 1cb269fa969e78668ee82e395393868e
+SHA256sum: fea3f170b003a4b4c737d233b428f84961317fc6046fc863171c58d789da8f82
+Description:  internet Speech Audio Codec module for yate
+
+Package: yate-mod-isupmangler
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12479
+Filename: yate-mod-isupmangler_5.5.0-1-1_ar71xx.ipk
+Size: 13272
+MD5Sum: 9644d4e5bcedb9fa44f024dc08033b08
+SHA256sum: e85871d8b6b260c742c26d55d383533cd059c37f102bfaf1d12530996dbcac96
+Description:  ISUP parameter mangling in a STP module for yate
+
+Package: yate-mod-jabberclient
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 42950
+Filename: yate-mod-jabberclient_5.5.0-1-1_ar71xx.ipk
+Size: 43787
+MD5Sum: e078e552d2827669f79c1dc9680bc755
+SHA256sum: db321f6c36ecd1cec15fa592398545b0b07ff616ab35cfa8be34d1c7315c8435
+Description:  Jabber Client module for yate
+
+Package: yate-mod-jabberserver
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 53161
+Filename: yate-mod-jabberserver_5.5.0-1-1_ar71xx.ipk
+Size: 53920
+MD5Sum: b9c70eb6eaa09efa5f4dfd00962fbd83
+SHA256sum: cf3a570a7ce4002bc197ff4d19689aa3ddf9dd3259eb79a97589f090f21d8eb2
+Description:  Jabber Server module for yate
+
+Package: yate-mod-javascript
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 53660
+Filename: yate-mod-javascript_5.5.0-1-1_ar71xx.ipk
+Size: 54428
+MD5Sum: 269006b444d013e8e6c2b43ac3715ffd
+SHA256sum: dc3fd0228a93bcfdedc75cd241a43c3a6096800195832f66bb20f44d26cad937
+Description:  Routing using the embedded Javascript language module for yate
+
+Package: yate-mod-jbfeatures
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 15374
+Filename: yate-mod-jbfeatures_5.5.0-1-1_ar71xx.ipk
+Size: 16110
+MD5Sum: 83c8fc8a4395753b81fe7531b85af19f
+SHA256sum: 8b95f86e0d2c333b82cbeb27c4f5adb27d0f1e73474b58aa7f88ad80cf29cad6
+Description:  Jabber Server Features module for yate
+
+Package: yate-mod-lateroute
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5998
+Filename: yate-mod-lateroute_5.5.0-1-1_ar71xx.ipk
+Size: 6762
+MD5Sum: cf34b3cb384adb5bb95a7144c55010d7
+SHA256sum: 29ff38e809e197f642f7f93959c7c21c87b73288875ea90788d46ed176a7e8ad
+Description:  Last Chance Routing module for yate
+
+Package: yate-mod-mgcpca
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 50085
+Filename: yate-mod-mgcpca_5.5.0-1-1_ar71xx.ipk
+Size: 50857
+MD5Sum: f00c3bb959c3b58d161285199f1b840e
+SHA256sum: 2d434079ae9f810c3121602b6736d67952289908661a451177951d00b9e27c01
+Description:  Media Gateway Control Protocol Agent module for yate
+
+Package: yate-mod-mgcpgw
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 34345
+Filename: yate-mod-mgcpgw_5.5.0-1-1_ar71xx.ipk
+Size: 35118
+MD5Sum: 24e059979bf6e38c6f8b5560e83a7725
+SHA256sum: f10187fb8d0b45ffd0766e34efec97a8cea79fc1466dda4881bafc22002f78eb
+Description:  Media Gateway Control Protocol Gateway module for yate
+
+Package: yate-mod-moh
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10574
+Filename: yate-mod-moh_5.5.0-1-1_ar71xx.ipk
+Size: 11332
+MD5Sum: f9e0c93cc5542ac30299207abfc7a0e2
+SHA256sum: fa6415018a342db012349c9b4cfac670d25537ca7f62e0a50afffc561e1a9ec4
+Description:  On Hold (music) Generator module for yate
+
+Package: yate-mod-monitoring
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 32380
+Filename: yate-mod-monitoring_5.5.0-1-1_ar71xx.ipk
+Size: 32744
+MD5Sum: 5892778dbab0524858ed7dc1a61cb57e
+SHA256sum: 174f1f2bc84907cdd508ec3471947b2436a0ac6fd2821f5fc9522fec276edb65
+Description:  Monitoring/gathering Information module for yate
+
+Package: yate-mod-mrcpspeech
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8737
+Filename: yate-mod-mrcpspeech_5.5.0-1-1_ar71xx.ipk
+Size: 9546
+MD5Sum: 71eac9239e4608dde797037a845cf2ab
+SHA256sum: 576c9cd422b1a56fc441a640b16349ffaa85f150245f0b2ff470019bbc972298
+Description:  MRCP v2 Voice/Tone Detector and Synthesizer module for yate
+
+Package: yate-mod-msgsniff
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6768
+Filename: yate-mod-msgsniff_5.5.0-1-1_ar71xx.ipk
+Size: 7540
+MD5Sum: 1da06cf11899a02847772b625d96b509
+SHA256sum: 4940fe9693a8be37999e8cd013847c26033f77823c6429c9a9bb7a33d02dec4a
+Description:  Sample Message Sniffer module for yate
+
+Package: yate-mod-mux
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12946
+Filename: yate-mod-mux_5.5.0-1-1_ar71xx.ipk
+Size: 13702
+MD5Sum: 407206189b5c179ee0289f7c765e5814
+SHA256sum: 81fae79f5c4742824cabd9b2e84074a4ccfe4d0477981f7b27753cb5dbe0b2b3
+Description:  Data Multiplexor module for yate
+
+Package: yate-mod-mysqldb
+Version: 5.5.0-1-1
+Depends: libc, yate, libmysqlclient-r
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12094
+Filename: yate-mod-mysqldb_5.5.0-1-1_ar71xx.ipk
+Size: 12860
+MD5Sum: 26af86c4dbe7d80ac704bd0c05e6419a
+SHA256sum: be292f3810e6cbfd3c5d7aab3381a368cb11f4c5f59aefa4da5964d41d4d1907
+Description:  MySQL Backend DB module for yate
+
+Package: yate-mod-openssl
+Version: 5.5.0-1-1
+Depends: libc, yate, libopenssl
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12417
+Filename: yate-mod-openssl_5.5.0-1-1_ar71xx.ipk
+Size: 13186
+MD5Sum: 45f97b1f52282ac8588b0287cfc57bf9
+SHA256sum: 676be539d1da4ac711c0b8a9e4261881ffdded2a2c994be926b06591adb084fa
+Description:  Encrypted transport (OpenSSL) module for yate
+
+Package: yate-mod-osschan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11142
+Filename: yate-mod-osschan_5.5.0-1-1_ar71xx.ipk
+Size: 11893
+MD5Sum: 9a2dfa41c51d7f88ad0f6e4c94a0a32b
+SHA256sum: b52728f5a5e41eae983a6624d0d7217087d589780a5ce801f9c042ed701e3458
+Description:  OSS Sound Channel module for yate
+
+Package: yate-mod-park
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 6383
+Filename: yate-mod-park_5.5.0-1-1_ar71xx.ipk
+Size: 7116
+MD5Sum: 2f77b6d78619e850f9492880b18748db
+SHA256sum: bcae6a2988c35522d4fd136bd5b268545218b810b04a95dd010122a01225a6c1
+Description:  Call Parking module for yate
+
+Package: yate-mod-pbx
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7186
+Filename: yate-mod-pbx_5.5.0-1-1_ar71xx.ipk
+Size: 7970
+MD5Sum: 1accce0793065193501df72450d57bd5
+SHA256sum: 18d0a8361536295957abd0fc212183897ea1f9b3d3e88b06b0179d9df4a3e247
+Description:  PBX Message Handlers module for yate
+
+Package: yate-mod-pbxassist
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21912
+Filename: yate-mod-pbxassist_5.5.0-1-1_ar71xx.ipk
+Size: 22643
+MD5Sum: 1e1c68847dc1f9f718de5e7d0f5d8e59
+SHA256sum: bfbcc6c78869fe242fa6833336e7685a76462b3ae9b4b13e0b67bd3ad1679bbc
+Description:  Full featured PBX and IVR module for yate
+
+Package: yate-mod-pgsqldb
+Version: 5.5.0-1-1
+Depends: libc, yate, libpq
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11518
+Filename: yate-mod-pgsqldb_5.5.0-1-1_ar71xx.ipk
+Size: 12296
+MD5Sum: 6482abf3decb5db197670be1ac090cf5
+SHA256sum: 0b9950055c0e469e6cb5317485c679c60d91f2245cef3c74a3ba1b574a705290
+Description:  PostgrestSQL Backend DB module for yate
+
+Package: yate-mod-presence
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11540
+Filename: yate-mod-presence_5.5.0-1-1_ar71xx.ipk
+Size: 12308
+MD5Sum: 277df9edd7f53e0335d7919cc2ecf03f
+SHA256sum: 99a4372eec8f32dc2600100742adbef18054c37cfbf548d718552eab4e15e8f4
+Description:  Presence module for yate
+
+Package: yate-mod-queues
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 12315
+Filename: yate-mod-queues_5.5.0-1-1_ar71xx.ipk
+Size: 13090
+MD5Sum: 8e219af1ce21079392c52175616c926b
+SHA256sum: 1de9abd554549f148af363d399530d87541e6ef7bea3905db12f027c1ae701ad
+Description:  Call Distribution and Queues from Database module for yate
+
+Package: yate-mod-queuesnotify
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11456
+Filename: yate-mod-queuesnotify_5.5.0-1-1_ar71xx.ipk
+Size: 12253
+MD5Sum: f6ff661aa393cc7758c78feb65ab6dc0
+SHA256sum: b7c0193697e34f876fd7eb0d3c55ac64779c1186eec4a63ebc4bd00a993d4e56
+Description:  Notify when queued call status changes module for yate
+
+Package: yate-mod-regexroute
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 19491
+Filename: yate-mod-regexroute_5.5.0-1-1_ar71xx.ipk
+Size: 20245
+MD5Sum: 5d32de96507ef753541f4b3635aeaba7
+SHA256sum: a2b243469de295a23db8f6db4b79c4e81ab8aaa22d81137c266eeacab686c31c
+Description:  Regular Expression Based Routing module for yate
+
+Package: yate-mod-regfile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10277
+Filename: yate-mod-regfile_5.5.0-1-1_ar71xx.ipk
+Size: 11014
+MD5Sum: bad40e77e056015d2fcc7f0a2cbf14b3
+SHA256sum: 9babceb882a923984e4af2751eb16c04ed525498356f1de79f85ed6ce7133851
+Description:  Registration based on users in file module for yate
+
+Package: yate-mod-register
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18046
+Filename: yate-mod-register_5.5.0-1-1_ar71xx.ipk
+Size: 18799
+MD5Sum: 85a6044e90f133ffc2076fe85cdfc5cf
+SHA256sum: 67967201052df0bd362d28cadc870073002cb635e7859aa751e3e19168eb71f6
+Description:  Call Detail Record to a database module for yate
+
+Package: yate-mod-rmanager
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 23220
+Filename: yate-mod-rmanager_5.5.0-1-1_ar71xx.ipk
+Size: 23942
+MD5Sum: 005ea05ec7078d9d47638f716dd0cf86
+SHA256sum: ff37d51f441040770908fd8e3870337a043eddc7ecb4a85be219c1f0e982e34a
+Description:  Yate Remote Management module for yate
+
+Package: yate-mod-sigtransport
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21491
+Filename: yate-mod-sigtransport_5.5.0-1-1_ar71xx.ipk
+Size: 22207
+MD5Sum: fab725128ba648cfce1f2a8d8a07cbff
+SHA256sum: c3df3f918259f51721628cb807b5a2026165a54dbf530467bbab800d901377dc
+Description:  SIGTRAN (SS7 over IP) connection provider module for yate
+
+Package: yate-mod-sip_cnam_lnp
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10133
+Filename: yate-mod-sip_cnam_lnp_5.5.0-1-1_ar71xx.ipk
+Size: 10917
+MD5Sum: 210643139c0dade41aab0c9ad5e525d7
+SHA256sum: b8432d9d707ccae00ce7904a2ac8af55d4a5bf9c25b040f7187d871e40afc70c
+Description:  Query CNAM and LNP databases using SIP INVITE module for yate
+
+Package: yate-mod-sipfeatures
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10876
+Filename: yate-mod-sipfeatures_5.5.0-1-1_ar71xx.ipk
+Size: 11637
+MD5Sum: ee864c36b73980e3e73210a76b3747cf
+SHA256sum: 7219c8eaef6e37b43ecfe83f13ab33bea9b251730c3a1bc71285fc7da384a827
+Description:  SIP Features (SUBSCRIBE/NOTIFY) module for yate
+
+Package: yate-mod-speexcodec
+Version: 5.5.0-1-1
+Depends: libc, yate, libspeex
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 5921
+Filename: yate-mod-speexcodec_5.5.0-1-1_ar71xx.ipk
+Size: 6694
+MD5Sum: 5a37f466ca3fbec200f3f6a78eda986e
+SHA256sum: e5ed20d73da0f16216a0669026941a4a8b4b2bb109776038ce1a686f28776dff
+Description:  Speex Codec module for yate
+
+Package: yate-mod-subscription
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 26386
+Filename: yate-mod-subscription_5.5.0-1-1_ar71xx.ipk
+Size: 27101
+MD5Sum: 3b9b0ab0b7b2ce0f1cae931e99be54c9
+SHA256sum: b71f3dcf5c51c4c95ef66cdbf0a119aa28a17ba0923fa4b7abe4dc89008d596c
+Description:  Subcription handler and presence notifier module for yate
+
+Package: yate-mod-tonedetect
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 10655
+Filename: yate-mod-tonedetect_5.5.0-1-1_ar71xx.ipk
+Size: 11404
+MD5Sum: d71108e87ee81422e3a2074774c59775
+SHA256sum: a71e8b8703f6250a5a2fd9a3109cc9372d97a11367cc7e9673c886d197645f18
+Description:  Detectors for Various Tones module for yate
+
+Package: yate-mod-tonegen
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21490
+Filename: yate-mod-tonegen_5.5.0-1-1_ar71xx.ipk
+Size: 22235
+MD5Sum: afa4b5f9e1c3e45030be291ae70d614d
+SHA256sum: b0d3d5bb09319bc6f3bd0f4a6874189d5e087b2ac0ebe44d3b721c5cf8304884
+Description:  Tones Generator module for yate
+
+Package: yate-mod-users
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8434
+Filename: yate-mod-users_5.5.0-1-1_ar71xx.ipk
+Size: 9192
+MD5Sum: c0eb5b44fbbbdb5cc2c2b18498c5648a
+SHA256sum: 401c4861920886f066d3ec83fb6330e4e521f6983210044db2bf959776a10059
+Description:  Users module for yate
+
+Package: yate-mod-wavefile
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 18438
+Filename: yate-mod-wavefile_5.5.0-1-1_ar71xx.ipk
+Size: 19227
+MD5Sum: d07a58d3fd46fc779aeff6a943ed0151
+SHA256sum: d03cece7718c270957137c0f6b9c6fba866ffee310ddadea5650118048540c9a
+Description:  Wav file Record and Playback module for yate
+
+Package: yate-mod-yiaxchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 77784
+Filename: yate-mod-yiaxchan_5.5.0-1-1_ar71xx.ipk
+Size: 78367
+MD5Sum: d6ea68df647a1a821d612df982179023
+SHA256sum: fcaf8cec97685750ed726da547f6d3f7d2d0bbf7d0da2f587f6b1544234d1f97
+Description:  IAX Channel module for yate
+
+Package: yate-mod-yjinglechan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 52033
+Filename: yate-mod-yjinglechan_5.5.0-1-1_ar71xx.ipk
+Size: 52884
+MD5Sum: 3dbc126dd1705aea904faff2fa2a59d4
+SHA256sum: 61bba7b6f674e5f13b3e727a47d86c7ac577cb5900d1c9c0fc85d62025cfcd3f
+Description:  Jingle Channel module for yate
+
+Package: yate-mod-yradius
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 21542
+Filename: yate-mod-yradius_5.5.0-1-1_ar71xx.ipk
+Size: 21879
+MD5Sum: bb7087bf579b88beb7d6cdf227ed0918
+SHA256sum: c16fbfd1a383922e9018e8f6418848be3b3c5cfa0f6aeaa7bc4b983fcc75334f
+Description:  RADIUS Client module for yate
+
+Package: yate-mod-yrtpchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 47289
+Filename: yate-mod-yrtpchan_5.5.0-1-1_ar71xx.ipk
+Size: 48182
+MD5Sum: 62784d4bdb60277a6cbc264bb727100b
+SHA256sum: df3b8c81731688a0bcf62fc341fb96abe558236a059ce15dcf27889d55942485
+Description:  RTP Channel and Other Data Helper module for yate
+
+Package: yate-mod-ysigchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 61853
+Filename: yate-mod-ysigchan_5.5.0-1-1_ar71xx.ipk
+Size: 62417
+MD5Sum: 1ba363007b3be26bad9bf84e700cff88
+SHA256sum: e925c5386ec76411871d2c0877f060da6bbad8ae3a9aa594bcc4e5862973bac8
+Description:  SS7/ISDN Protocols - Yate Signalling Library module for yate
+
+Package: yate-mod-ysipchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 134207
+Filename: yate-mod-ysipchan_5.5.0-1-1_ar71xx.ipk
+Size: 134794
+MD5Sum: a48412029346168f3435c040a8a72dda
+SHA256sum: 066e4c184b381276fedf42d2ea4ea8c30bdce21d662fbac860479fa9b6bb8e8d
+Description:  SIP Channel module for yate
+
+Package: yate-mod-ysnmpagent
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 65033
+Filename: yate-mod-ysnmpagent_5.5.0-1-1_ar71xx.ipk
+Size: 65624
+MD5Sum: 26273c918491a7eec3a9402bd8a2e47c
+SHA256sum: b3ffa9b32354aa6bd3c4a0f8860ff7080f559175d2ab7a3928b3c15660934309
+Description:  SNMP Protocol Agent module for yate
+
+Package: yate-mod-ysockschan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 29901
+Filename: yate-mod-ysockschan_5.5.0-1-1_ar71xx.ipk
+Size: 30583
+MD5Sum: d8337869d8ba741d3749c0290f4562dc
+SHA256sum: 2033ddd1eda14eb29977678cde220a4011f9235c78038a0cc96cc4b879889a77
+Description:  SOCKS Channel module for yate
+
+Package: yate-mod-ystunchan
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 11090
+Filename: yate-mod-ystunchan_5.5.0-1-1_ar71xx.ipk
+Size: 11828
+MD5Sum: 56c1ac65ac5c2fa807614734eb874257
+SHA256sum: 28df5026ebfbd678add063c337f9732ea2498548712372092278d026e3bf1de1
+Description:  STUN Support module for yate
+
+Package: yate-mod-zlibcompress
+Version: 5.5.0-1-1
+Depends: libc, yate, zlib
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 7451
+Filename: yate-mod-zlibcompress_5.5.0-1-1_ar71xx.ipk
+Size: 8230
+MD5Sum: ad39617409377911314ebceec2ecc4ff
+SHA256sum: de80e272aaabee98ea1c99c6265d5ff977f48cdf2fa18dced67f5a6a56533800
+Description:  Zlib Compression module for yate
+
+Package: yate-scripts-perl
+Version: 5.5.0-1-1
+Depends: libc, yate, yate-mod-extmodule, perl
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 8594
+Filename: yate-scripts-perl_5.5.0-1-1_ar71xx.ipk
+Size: 9365
+MD5Sum: 566b6412cdfa4a6f081a0d21670623aa
+SHA256sum: e3b638097fe32522e0aae485cc0b74996d54b5e941b8d479bd421845768414b6
+Description:  Perl module for Yate
+
+Package: yate-sounds
+Version: 5.5.0-1-1
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 141398
+Filename: yate-sounds_5.5.0-1-1_ar71xx.ipk
+Size: 139885
+MD5Sum: 1abe180bc23c6282b0300f1e8beba11e
+SHA256sum: feb566aead3802808cac4b9867278ea4d9f54439de2dda7e2dc09481622dc910
+Description:  Sounds for Yate
+
+Package: yate
+Version: 5.5.0-1-1
+Depends: libc, libpthread, uclibcxx
+Source: feeds/telephony/net/yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <slachta@cesnet.cz>
+Architecture: ar71xx
+Installed-Size: 957486
+Filename: yate_5.5.0-1-1_ar71xx.ipk
+Size: 956274
+MD5Sum: fee99c93b0cbdba5fe6d7de8783e095a
+SHA256sum: d4f0e55bfe111c8f04cd0199995ffabc0a1ea379e989ea5ce64ae89994c7e115
+Description:  Yet Another Telephony Engine
+
