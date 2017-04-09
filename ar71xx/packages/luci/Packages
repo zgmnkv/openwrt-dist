@@ -742,11 +742,11 @@ Depends: libc, lua, libuci-lua, luci-lib-nixio, luci-lib-ip, rpcd, libubus-lua
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: ar71xx
-Installed-Size: 123577
+Installed-Size: 123581
 Filename: luci-base_git-17.013.32081-d89b022-1_ar71xx.ipk
-Size: 124432
-MD5Sum: d0266fa84857fbd33827105e1bd200c1
-SHA256sum: 8ae67c01ec1ee10e5135cecce700c6f47c6c80ffc59dd146dedc5fc022f90a31
+Size: 124440
+MD5Sum: af8985cdda56f930bddc879de4a44db7
+SHA256sum: f6bb1ddb9562652753cb2c052eea83fb28d2c3e1f0237d7f08971aa30e8a3fe7
 Description:  LuCI core libraries
 
 Package: luci-i18n-ahcp-ca
@@ -1405,11 +1405,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 16244
+Installed-Size: 16246
 Filename: luci-i18n-base-ca_git-17.013.32081-d89b022-1_all.ipk
-Size: 17016
-MD5Sum: 4e2dd696f51cebe65ea537b490bbc767
-SHA256sum: d9f7e5c330907190b015aebfc1b670682397232be60a05ed60bea7b85784fe27
+Size: 17015
+MD5Sum: c1642f0041208a47ca280176b12dd885
+SHA256sum: a4a335c301381e35d42012d0b5c04c9ea53c914d8211af9bca752a909d3eb873
 Description:  Translation for luci-base - Català (Catalan)
 
 Package: luci-i18n-base-cs
@@ -1418,11 +1418,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 20473
+Installed-Size: 20475
 Filename: luci-i18n-base-cs_git-17.013.32081-d89b022-1_all.ipk
-Size: 21282
-MD5Sum: f6bc0cd90e809d7367d873848ccbdf61
-SHA256sum: f27eadb7c5b502a82da0e41f7fb12cf2f338f91e0825bed6ce705ae15df043bc
+Size: 21295
+MD5Sum: 42a76cb561991a72314f193a5ab6ca3a
+SHA256sum: df799eb9de10a9ae85b61a965594b1a9fb935e294d03eab208e9d23481634b3b
 Description:  Translation for luci-base - Čeština (Czech)
 
 Package: luci-i18n-base-de
@@ -1433,9 +1433,9 @@ Section: luci
 Architecture: all
 Installed-Size: 20137
 Filename: luci-i18n-base-de_git-17.013.32081-d89b022-1_all.ipk
-Size: 20947
-MD5Sum: 050159744e33dc2156c3ac4f6a0ede38
-SHA256sum: 2895691859afec206f021e7bcd05a908824b44626324c83d45fe93e70764d558
+Size: 20949
+MD5Sum: 6f968e1a0560ff8cd0989a8ecb1b543d
+SHA256sum: 5dcc6beaaa105d7703ca1c30e53f470dc8ed78b85703e90944641fe3fc116dc5
 Description:  Translation for luci-base - Deutsch (German)
 
 Package: luci-i18n-base-el
@@ -1444,11 +1444,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 17255
+Installed-Size: 17253
 Filename: luci-i18n-base-el_git-17.013.32081-d89b022-1_all.ipk
-Size: 18117
-MD5Sum: 17bd00b1241a72a1f2888d2d5a9fc549
-SHA256sum: d3a606e5446f5181483728d1bbfa6e624a84c6a81863bdaefefcd9629bedf97e
+Size: 18106
+MD5Sum: a78589d55a0700adfab7818967e298c9
+SHA256sum: 4e226222ab0e01c61b187b7173691ffde7e03b8323e8b2c106bbe945cfc3ba42
 Description:  Translation for luci-base - Ελληνικά (Greek)
 
 Package: luci-i18n-base-en
@@ -1457,11 +1457,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 722
+Installed-Size: 724
 Filename: luci-i18n-base-en_git-17.013.32081-d89b022-1_all.ipk
-Size: 1503
-MD5Sum: 1c75747a010e5e329cb41d8925364884
-SHA256sum: 78618ec77af20ea01238e5ad90fa88a9ff2c8a5e34e07da2e642ae79691b423a
+Size: 1504
+MD5Sum: 3d7469439bb16cd7865375a1b307b68f
+SHA256sum: 6ffda4e7622f75ecf8af334ba1e392d375be46107f47ac71b40ba90d927acbe9
 Description:  Translation for luci-base - English
 
 Package: luci-i18n-base-es
@@ -1470,11 +1470,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 20709
+Installed-Size: 20701
 Filename: luci-i18n-base-es_git-17.013.32081-d89b022-1_all.ipk
-Size: 21526
-MD5Sum: 5aa7cc58d43d1ff1ea71a791359213a1
-SHA256sum: 2de986aa7b800d7b1ca9e308ec3677ffda41482aa647beefe0c5d0b8cb9c103b
+Size: 21505
+MD5Sum: 22ea81b3388da5abe6aeb9a117da4432
+SHA256sum: a94d493c3b5dfd5841605c826e41831f42517958dd517438d36ee0476ae67743
 Description:  Translation for luci-base - Español (Spanish)
 
 Package: luci-i18n-base-fr
@@ -1483,11 +1483,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 20868
+Installed-Size: 20870
 Filename: luci-i18n-base-fr_git-17.013.32081-d89b022-1_all.ipk
-Size: 21694
-MD5Sum: 26d003fad51ea5d56de771f65169291e
-SHA256sum: 47cfb9cbdb2d5b9a76aa79d94d45faf9ed18414a6fc55ea039187d2ec1df3685
+Size: 21697
+MD5Sum: 32f0f0d2a6d01c1d75ae5269aa54874f
+SHA256sum: 858b950bb7217c8b5b7471f85800475dc40aeebfdbe177f906bb9e600d91f988
 Description:  Translation for luci-base - Français (French)
 
 Package: luci-i18n-base-he
@@ -1496,11 +1496,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 6879
+Installed-Size: 6880
 Filename: luci-i18n-base-he_git-17.013.32081-d89b022-1_all.ipk
-Size: 7734
-MD5Sum: 257bbcc6139f2efdcb1bfdd45b866bc3
-SHA256sum: 75db64c85f8419ba1759fbec6b04f03d49d2430e228ffc61d6627fcf618f1242
+Size: 7741
+MD5Sum: 0e17dc15200e0052d0d071d404c1601e
+SHA256sum: fd89d31c71b0f471959952a8d27ed6d5fbce0d1e0c94b135545241f3e9d9bd9d
 Description:  Translation for luci-base - עִבְרִית (Hebrew)
 
 Package: luci-i18n-base-hu
@@ -1509,11 +1509,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 21493
+Installed-Size: 21494
 Filename: luci-i18n-base-hu_git-17.013.32081-d89b022-1_all.ipk
-Size: 22310
-MD5Sum: 9331a0988dc3df4247f192fb82552732
-SHA256sum: aad6e20ae719b704ba8fa37842f98867d0ef93f5ee36972daf9756df391e4ab3
+Size: 22303
+MD5Sum: 8ca7bf5708b6ba9535da529f80134819
+SHA256sum: 3b54456780f1f214afd7af483bd812031e7570d26509e083bc8d6e28c14099d2
 Description:  Translation for luci-base - Magyar (Hungarian)
 
 Package: luci-i18n-base-it
@@ -1522,11 +1522,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 16524
+Installed-Size: 16526
 Filename: luci-i18n-base-it_git-17.013.32081-d89b022-1_all.ipk
-Size: 17333
-MD5Sum: 9a3a8d164ecb4401667b8eac5b418636
-SHA256sum: 848f97373b0c31163092a329ef21d30ad344ab8c023f6a9b7da13e6536bfb175
+Size: 17337
+MD5Sum: b8816c9f58fed8ddef63a55c656c9b9c
+SHA256sum: 9e7b5eac168643cf49ea7b41ada52d1d3e141d05a4f165fb518585dc52b95748
 Description:  Translation for luci-base - Italiano (Italian)
 
 Package: luci-i18n-base-ja
@@ -1535,11 +1535,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 20201
+Installed-Size: 20204
 Filename: luci-i18n-base-ja_git-17.013.32081-d89b022-1_all.ipk
-Size: 21007
-MD5Sum: 299c6003a6c1ca7d9db56ed47b11b41d
-SHA256sum: c6817b1e3bb81a5f3dde4fa5d8bb933e52cf49815c6ad00c7b03d6adea90995a
+Size: 21019
+MD5Sum: f4fe2bd28f007a96b54382dda0bf9c29
+SHA256sum: ac07ae017ff9f6a89769d7335b3710b82e14aa358e91fcdb5cb4d2bc74efd197
 Description:  Translation for luci-base - 日本語 (Japanese)
 
 Package: luci-i18n-base-ms
@@ -1548,11 +1548,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 7427
+Installed-Size: 7428
 Filename: luci-i18n-base-ms_git-17.013.32081-d89b022-1_all.ipk
-Size: 8270
-MD5Sum: 868470f3afdc846f41e13969abc613ec
-SHA256sum: 35b5be77aa9e3292b8f3fe8f741245ba2f09417e7b2bb8b4c80b363f395fccd0
+Size: 8272
+MD5Sum: b735ab53ffdf143a46b757dacee7146a
+SHA256sum: 8e09c325eb0ce64ee6f0bde623e5e43c5de093599ef6e0f60be847983dc96653
 Description:  Translation for luci-base - Bahasa Melayu (Malay)
 
 Package: luci-i18n-base-no
@@ -1561,11 +1561,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 20114
+Installed-Size: 20116
 Filename: luci-i18n-base-no_git-17.013.32081-d89b022-1_all.ipk
-Size: 20907
-MD5Sum: 503ec71688729eba3fd54056a36cf632
-SHA256sum: 57d53d7701a2a57f0b30e09bdd78e4384cfbcdb4f6f127801e40ef3b6aa2e9de
+Size: 20908
+MD5Sum: 8d1bcccbef18fb07b443cee2c272e0d5
+SHA256sum: bde44c5b2d9dcf340beaf3653c00bb6fd6dc5908835066729639faf506c01a93
 Description:  Translation for luci-base - Norsk (Norwegian)
 
 Package: luci-i18n-base-pl
@@ -1574,11 +1574,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 21323
+Installed-Size: 21331
 Filename: luci-i18n-base-pl_git-17.013.32081-d89b022-1_all.ipk
-Size: 22128
-MD5Sum: ed9a7ffdd346070d8fce86bd06a09782
-SHA256sum: b45a881fd004beb3cd0722279874a7279a2ec073401e43bcf4341b342441d450
+Size: 22140
+MD5Sum: 3db19df16b8d4e251f4a124dfd1c56fd
+SHA256sum: 3d6553b9f7790d4b793fa9214aa728137a0ff95f49c78585ec3460f420eb63b5
 Description:  Translation for luci-base - Polski (Polish)
 
 Package: luci-i18n-base-pt-br
@@ -1587,11 +1587,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 21410
+Installed-Size: 21408
 Filename: luci-i18n-base-pt-br_git-17.013.32081-d89b022-1_all.ipk
-Size: 22260
-MD5Sum: e9bc5035c172394dede30698a7bd7e84
-SHA256sum: 7f0cdd9431d965d8470361e9d2bf8cd26bfdecb6c1fde2f0375020577b6a011b
+Size: 22262
+MD5Sum: 3541fd2a216b9ab694e9a09c43ebfcea
+SHA256sum: ed91886d02ab51cab54d9c48b7a298f119ccd76db78a7fd7d349112387d2ff1f
 Description:  Translation for luci-base - Português do Brasil (Brazialian Portuguese)
 
 Package: luci-i18n-base-pt
@@ -1600,11 +1600,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 18570
+Installed-Size: 18586
 Filename: luci-i18n-base-pt_git-17.013.32081-d89b022-1_all.ipk
-Size: 19348
-MD5Sum: f7543051a16671b4aa9e85fe02800fd1
-SHA256sum: 7f5464be4ea6cfdb2844db74cf3070841c9628a7bc0b9729f867aa6ca9d43302
+Size: 19366
+MD5Sum: 81c2389e93178b818fa384fc74917980
+SHA256sum: aa56c6e05c8625e1f22eb07a0751396742beb8a90d975b61d404dea210cc3eb9
 Description:  Translation for luci-base - Português (Portuguese)
 
 Package: luci-i18n-base-ro
@@ -1613,11 +1613,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 10317
+Installed-Size: 10324
 Filename: luci-i18n-base-ro_git-17.013.32081-d89b022-1_all.ipk
-Size: 11116
-MD5Sum: a3f254769571005bf1df8864a002aa92
-SHA256sum: f5da217b937a086bc462f639318375b090eaf0fc389693507fa98f9e9c1999eb
+Size: 11121
+MD5Sum: f749584c0ca73761141aed14fd39901f
+SHA256sum: 9486369538aa2d6b18799e16f5bd149ae859474f2133caa762573b892dfc8cd1
 Description:  Translation for luci-base - Română (Romanian)
 
 Package: luci-i18n-base-ru
@@ -1626,11 +1626,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 24013
+Installed-Size: 24024
 Filename: luci-i18n-base-ru_git-17.013.32081-d89b022-1_all.ipk
-Size: 24832
-MD5Sum: 57ec622bf2836a41b900cac7ab42364e
-SHA256sum: 9752ad5c6e965eefea448463a5df7dda05f0ca8d9a17d9627e6f9c79b2086c53
+Size: 24835
+MD5Sum: 25bff7d67fd244455db9600545038073
+SHA256sum: 477327f4844f8764f91797daa035b74454887c76326f4059f5adb21cf7c92fdd
 Description:  Translation for luci-base - Русский (Russian)
 
 Package: luci-i18n-base-sk
@@ -1642,8 +1642,8 @@ Architecture: all
 Installed-Size: 320
 Filename: luci-i18n-base-sk_git-17.013.32081-d89b022-1_all.ipk
 Size: 1106
-MD5Sum: f972a45c2c60c38efa4d19ef18c653ff
-SHA256sum: 61c7cd5c1565fa459b678c5f612cbcbe06951c6900c9c6d55f037ecfdddba44f
+MD5Sum: 023de83a15c4a922c71d658ae1f40fda
+SHA256sum: 467e3ae1d4e88413deb34976576d5345559d569f7a3cce58d63487b8ed068050
 Description:  Translation for luci-base - Slovenčina (Slovak)
 
 Package: luci-i18n-base-sv
@@ -1652,11 +1652,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 841
+Installed-Size: 830
 Filename: luci-i18n-base-sv_git-17.013.32081-d89b022-1_all.ipk
-Size: 1645
-MD5Sum: 950a78e426483f90e64d2554040587ab
-SHA256sum: 508909fc6e3430591b93bf5670291c12fe83ee25498c454b52dcb23ff5aae730
+Size: 1624
+MD5Sum: 9af273f356ed318af68aed468465c5e1
+SHA256sum: 5b39772e518d6179e59960683b8f910bc4642709ef3a9c3c97d99caf9b945524
 Description:  Translation for luci-base - Svenska (Swedish)
 
 Package: luci-i18n-base-tr
@@ -1665,11 +1665,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 2792
+Installed-Size: 2793
 Filename: luci-i18n-base-tr_git-17.013.32081-d89b022-1_all.ipk
 Size: 3577
-MD5Sum: 29701ccab991296c4514dc6a74ef043c
-SHA256sum: bf6502f82b8fabdd0da7c5966bce66c973f0ee1cb8ccf80ff5f1d18e7c659fab
+MD5Sum: aff55417feb5e9a80827950f29a2fb59
+SHA256sum: cb79c45a70a13c6a9a9a473b0be2c05ce7f3e3e2cb9cb088ba8052283ab2b856
 Description:  Translation for luci-base - Türkçe (Turkish)
 
 Package: luci-i18n-base-uk
@@ -1678,11 +1678,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 24515
+Installed-Size: 24517
 Filename: luci-i18n-base-uk_git-17.013.32081-d89b022-1_all.ipk
-Size: 25355
-MD5Sum: 8b12f8b257cadcd008a5c57ae4ccd598
-SHA256sum: 2e5eb2f1377428184725617bf1fe8c10b444ad36e5bf75baa73e8b744256a9b4
+Size: 25354
+MD5Sum: e9c3c54c79aa7a923157faab147d3fad
+SHA256sum: bc1fa660e9e848ebe4e285af56e50369fa37a7fe1e2b49f1abbf5c2c0f30af1f
 Description:  Translation for luci-base - украї́нська (Ukrainian)
 
 Package: luci-i18n-base-vi
@@ -1693,9 +1693,9 @@ Section: luci
 Architecture: all
 Installed-Size: 6517
 Filename: luci-i18n-base-vi_git-17.013.32081-d89b022-1_all.ipk
-Size: 7365
-MD5Sum: c272d00b83fd6f3a15835a242e83dedc
-SHA256sum: 3b5b4bbc68ddf1a97d53b025222c72f52130bb360039a6ed9e51cc2660d19b96
+Size: 7360
+MD5Sum: 60a82601d5c6c52242359b8cdbaa1d8a
+SHA256sum: 53e4b49c370a51c84c0477fe5984fdc8a4d5eaddbf9e1a348502b1fcdbec67d5
 Description:  Translation for luci-base - Tiếng Việt (Vietnamese)
 
 Package: luci-i18n-base-zh-cn
@@ -1704,11 +1704,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 21410
+Installed-Size: 21416
 Filename: luci-i18n-base-zh-cn_git-17.013.32081-d89b022-1_all.ipk
-Size: 22199
-MD5Sum: 50f67b041590d569dc66f2abe1147e45
-SHA256sum: f088d224bdb03a92a9172b3e3d62a9a21dce7b644ae9154c8ea53c335cef8349
+Size: 22200
+MD5Sum: f1f5adc4dfcfb63b3e3cf9b3ca1598db
+SHA256sum: ce5ac2d35047c7bf4cdeaaf67944adcd0d7b2c9539aeb8a55e205c761d22d409
 Description:  Translation for luci-base - 普通话 (Chinese)
 
 Package: luci-i18n-base-zh-tw
@@ -1717,11 +1717,11 @@ Depends: libc, luci-base
 Source: feeds/luci/modules/luci-base
 Section: luci
 Architecture: all
-Installed-Size: 21109
+Installed-Size: 21110
 Filename: luci-i18n-base-zh-tw_git-17.013.32081-d89b022-1_all.ipk
-Size: 21910
-MD5Sum: 61a61a3b2a5da276f906748090eaf24b
-SHA256sum: 10bf11dea06894f21c7a54af4ea27893837355dbe172fe683ac8528c3896a978
+Size: 21912
+MD5Sum: 42b493938898ce57168f8b76ef89a466
+SHA256sum: e95d1a849f66512f53f2e5aac1118f131a0a6084b6939013dc085d6bedcacd79
 Description:  Translation for luci-base - 臺灣華語 (Taiwanese)
 
 Package: luci-i18n-commands-ca
@@ -12255,9 +12255,9 @@ Section: luci
 Architecture: ar71xx
 Installed-Size: 8899
 Filename: luci-lib-ip_git-17.013.32081-d89b022-1_ar71xx.ipk
-Size: 9617
-MD5Sum: 692114219131ad7aae9270c83ae2efee
-SHA256sum: 997d3bec84bafa260b66fef901bd24fde51156609a18a077ea3a04db0374fc5e
+Size: 9619
+MD5Sum: 385a6654ad302afc910e35fbe0195fe3
+SHA256sum: 7b4adbd41debd3e23d7982c2d6ea11611de2e2670359c0c7f244ed7c10dca728
 Description:  Lua library for IP calculation and routing information
 
 Package: luci-lib-json
@@ -12279,11 +12279,11 @@ Depends: libc, liblua, libjson-c
 Source: feeds/luci/libs/luci-lib-jsonc
 Section: luci
 Architecture: ar71xx
-Installed-Size: 3801
+Installed-Size: 3811
 Filename: luci-lib-jsonc_git-17.013.32081-d89b022-1_ar71xx.ipk
-Size: 4486
-MD5Sum: a553d3a154c2bc8bc2160235d37c7ddf
-SHA256sum: 1583e908389745f72b5702769cc0404b7c09f223d975d1a0264c5414cfb4631c
+Size: 4503
+MD5Sum: 7cf9ac43062e48b3dc30130509ef1c3b
+SHA256sum: 0cacc16b2783236739751103aa980b7772ccf311a9ad1839d6c54d6815788476
 Description:  Lua binding for JSON-C
 
 Package: luci-lib-luaneightbl
@@ -12292,11 +12292,11 @@ Depends: libc, liblua
 Source: feeds/luci/libs/luci-lib-luaneightbl
 Section: luci
 Architecture: ar71xx
-Installed-Size: 2355
+Installed-Size: 2357
 Filename: luci-lib-luaneightbl_git-17.013.32081-d89b022-1_ar71xx.ipk
-Size: 3087
-MD5Sum: a5bc573cb81068d93fc099882b49ad75
-SHA256sum: a898b69a6aa66bc4bd706782734699373d30bb9305ad2572151bd153f477085e
+Size: 3082
+MD5Sum: feda2b2a234c1dada6a82b4e47f99ca2
+SHA256sum: 1fcdf4e1c2e1e33ac2cf77b01015dbadea7924555f248ce16a37180537e8a2d8
 Description:  neightbl - Lua lib for IPv6 neighbors
 
 Package: luci-lib-nixio
@@ -12305,11 +12305,11 @@ Depends: libc, liblua
 Source: feeds/luci/libs/luci-lib-nixio
 Section: luci
 Architecture: ar71xx
-Installed-Size: 27896
+Installed-Size: 27892
 Filename: luci-lib-nixio_git-17.013.32081-d89b022-1_ar71xx.ipk
-Size: 28305
-MD5Sum: cb875c0dde84491c6bc342115fbb6355
-SHA256sum: 8cf4d6310917e296d4b72e2888fd7d08b6348292ef52274e31a3ffa31de383b1
+Size: 28299
+MD5Sum: 808e8e168df7dd4b77698ec4f5bad83c
+SHA256sum: d05a22a3b7f77899bd6c85764e516c4ba5c95c3541e6116b9f49e565c1266adb
 Description:  NIXIO POSIX library
 
 Package: luci-lib-px5g
@@ -12318,11 +12318,11 @@ Depends: libc, liblua
 Source: feeds/luci/libs/luci-lib-px5g
 Section: luci
 Architecture: ar71xx
-Installed-Size: 28776
+Installed-Size: 28785
 Filename: luci-lib-px5g_git-17.013.32081-d89b022-1_ar71xx.ipk
-Size: 29521
-MD5Sum: b44821c30f489399329dde2a7110a655
-SHA256sum: a4af4d200518facdfc84f5e87f64573e0e77e1c5ff59bbf953f9ec50a8fcfba5
+Size: 29546
+MD5Sum: 9721372442753cb63082ef12199bc4ec
+SHA256sum: 93c98d3dd20aa6bf09250c7cb96a2c44a8b5f51debf7ba1c356d5ef9ed4df80c
 Description:  RSA/X.509 Key Generator (required for LuCId SSL support)
 
 Package: luci-mod-admin-full

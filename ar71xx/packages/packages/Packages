@@ -2114,11 +2114,11 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Imre Kaloz <kaloz@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 225810
+Installed-Size: 225807
 Filename: coova-chilli_1.3.0+20141128-2_ar71xx.ipk
-Size: 226398
-MD5Sum: a68c06aeaf1e27ca1e150888f747ade9
-SHA256sum: cf8ecfb48a666645b4b2fe25bc479fe85a95ba3ed446fd5edfbdc0e67b71b731
+Size: 226386
+MD5Sum: d6823f52c3bc1762ce1d2d04376ba83b
+SHA256sum: 67ade740a6d4fdcf7984ea80f0e496d3f44708abce732672a5e2c6b52df78893
 Description:  CoovaChilli is an open source access controller for wireless LAN
  access points and is based on ChilliSpot. It is used for authenticating
  users of a wireless (or wired) LAN. It supports web based login (UAM)
@@ -8542,6 +8542,21 @@ Description:  JamVM is a new Java Virtual Machine which conforms to the JVM
  support for object finalisation, Soft/Weak/Phantom References, the Java
  Native Interface (JNI) and the Reflection API.
 
+Package: jansson
+Version: 2.7-1
+Depends: libc
+Source: feeds/packages/libs/jansson
+License: MIT
+Section: libs
+Maintainer: Gergely Kiss <mail.gery@gmail.com>
+Architecture: ar71xx
+Installed-Size: 16801
+Filename: jansson_2.7-1_ar71xx.ipk
+Size: 17526
+MD5Sum: c83dc6435beb96120e2eb43d9b08c6db
+SHA256sum: 20fa0d4c77508fadc010b491aa2a13fb140f5ca3aa101f8f62abfaa31f0c5995
+Description:  Jansson is a C library for encoding, decoding and manipulating JSON data
+
 Package: joe
 Version: 3.7-3
 Depends: libc, libncurses
@@ -8664,9 +8679,9 @@ Maintainer: Nikos Mavrogiannopoulos <n.mavrogiannopoulos@gmail.com>
 Architecture: ar71xx
 Installed-Size: 18342
 Filename: kmod-cryptodev_3.18.45+1.7-ar71xx-2_ar71xx.ipk
-Size: 19204
-MD5Sum: 6df190d60af1c3f676865d99e9ca9df6
-SHA256sum: b7027f658ec51d9acca0bb3c44bc6d7fda435830081007fc833f5111b7bf5b89
+Size: 19227
+MD5Sum: ddf8a1896dfaa0a29e5b29cc67a5f70e
+SHA256sum: 28cab3c9deefb719b4029996858383eb9860a02575fd555739d891b46f53c090
 Description:  This is a driver for that allows to use the Linux kernel supported
  hardware ciphers by user-space applications.
 
@@ -8679,11 +8694,11 @@ LicenseFiles: LICENSE
 Section: kernel
 Maintainer: Bruno Randolf <br1@einfach.org>
 Architecture: ar71xx
-Installed-Size: 46397
+Installed-Size: 46400
 Filename: kmod-fs-exfat_3.18.45+git-20150301-1_ar71xx.ipk
-Size: 47130
-MD5Sum: fcc1c19b3a2e5fe962a8efb38a44adaf
-SHA256sum: 5a907c210a59dfff871428a0a66960b3296decb3ac216d2dc64cef862243d0ab
+Size: 47128
+MD5Sum: 0836d545949d14594add41b480d5dde3
+SHA256sum: 72dd71198783376374107b8d1550969d32c2f7ac07cb1ce2970ce870acd46023
 Description:  Kernel module for ExFAT Filesytems
 
 Package: kmod-ipt-coova
@@ -8695,11 +8710,11 @@ LicenseFiles: COPYING
 Section: kernel
 Maintainer: Imre Kaloz <kaloz@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 5024
+Installed-Size: 5021
 Filename: kmod-ipt-coova_3.18.45+1.3.0+20141128-2_ar71xx.ipk
-Size: 5885
-MD5Sum: f10615c8b6d2a2afa59de497e2a2d729
-SHA256sum: ad2385fb480ba7c514372657d2d9ee8bc2133bb8dc6575e1cd8e53c8eeda9db1
+Size: 5883
+MD5Sum: 130a3d3ca02a710c5af4264e90ae82bf
+SHA256sum: 1e3bcd9cef88ce41f7cc3a3d21b28fa4d736fe932deac4534658f2c139452db1
 Description:  Netfilter kernel module for CoovaChilli
  Includes:
  - coova
@@ -8712,11 +8727,11 @@ License: Apache-2.0
 LicenseFiles: COPYING
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 47282
+Installed-Size: 47280
 Filename: kmod-openvswitch_3.18.45+2.3.90-58be9c9fd732b5bdd3d4c2e9b8cc2313f570094d_ar71xx.ipk
-Size: 48025
-MD5Sum: 49cf24f4010258344abf84b542ec10fa
-SHA256sum: 8e581065e2858edefc7b826fc7e1a6ea98e5f129081af1b2e1c8414a41fafd22
+Size: 48039
+MD5Sum: a30eb9592358face7579f63f8f0e5283
+SHA256sum: 3f84a5606fd1796cac31034f5e9f0e0e4d1eb2d04ef87c7e0c38b8a65fa877f6
 Description:  This package contains the Open vSwitch kernel moodule and bridge compat
  module. Furthermore, it supports OpenFlow.
 
@@ -8728,11 +8743,11 @@ License: GPLv2+
 Section: kernel
 Maintainer: Vladimir Ulrich <admin@evl.su>
 Architecture: ar71xx
-Installed-Size: 5122
+Installed-Size: 5123
 Filename: kmod-siit_3.18.45+1.2-1_ar71xx.ipk
-Size: 5963
-MD5Sum: 4bb7d82798d5a89cdf8b8d4594dafff7
-SHA256sum: 3a70fde7089eb364740199d6f58e8fce666dd34cd92c77d01c751be3716ee0a3
+Size: 5955
+MD5Sum: f237fe4eafd533df89dd210494b4fec1
+SHA256sum: 7e34f69601e26358c7b0e1ac4affecc7383e5c17545ed2aeddc86e282198aff9
 Description:  Stateless IP ICMP Translation Algorithm
 
 Package: kmod-usb-serial-dmx_usb_module
@@ -8743,11 +8758,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Martijn Zilverschoon <martijn@friedzombie.com>
 Architecture: ar71xx
-Installed-Size: 4721
+Installed-Size: 4722
 Filename: kmod-usb-serial-dmx_usb_module_3.18.45+0.1.20130818-0.1_ar71xx.ipk
-Size: 5699
-MD5Sum: c349a81120db668e919e7473ccedee80
-SHA256sum: 8129d0817b6a97e221e99a02f2f4bfd64a5b5ea2aa79620eb0733954a81c3b97
+Size: 5689
+MD5Sum: c05d787cf7185432a6272b9395c04281
+SHA256sum: fd5dbe90a4ad39faec43b3509f7c45f9732bdc151c57461d96aabbaa4c64a6e0
 Description:  Open DMX USB is an open USB to DMX dongle hardware design developed by Enttec.
  The Open in Open DMX USB refers to the fact that everybody is free to use the
  design and produce its own USB DMX Dongle without paying any licenses.
@@ -9561,11 +9576,11 @@ License: GPL-2.0 LGPL-2.1
 Section: libs
 Maintainer: Daniel Golle <daniel@makrotopia.org>
 Architecture: ar71xx
-Installed-Size: 91448
+Installed-Size: 91449
 Filename: libdevmapper_2.02.119-2_ar71xx.ipk
-Size: 92381
-MD5Sum: ee33216ff79eea267ab8e9e2b5b05b86
-SHA256sum: aa7ec1f6bc8e7e5f447e20e8478e9ff661fde1bf9a4d9b683f13e5c338ce2349
+Size: 92375
+MD5Sum: 4bcd86952a1e0fe23e16f90fa14d414c
+SHA256sum: 1286c7e5594d6e4499e305351b86aa028823635ee81d974ac27aff7c655179c0
 Description:  The device-mapper is a component of the 2.6 linux kernel that supports logical
  volume management. It is required by LVM2 and EVMS.
 
@@ -9631,11 +9646,11 @@ License: BSD-3-Clause
 Section: libs
 Maintainer: Gergely Kiss <mail.gery@gmail.com>
 Architecture: ar71xx
-Installed-Size: 105437
+Installed-Size: 105436
 Filename: libevhtp_1.2.10-1_ar71xx.ipk
-Size: 104058
-MD5Sum: 2d32b2c1841dbef584b6fedfb00fdaef
-SHA256sum: fef21e533ecf491c2583893ee893fad8b0208681f0e1bf765ae4399fbe5c7720
+Size: 104041
+MD5Sum: d6dcf70bf5d55da97c634a62397041bb
+SHA256sum: 28909e368c64d8506421a9c02ef61047581b078fd77fe6493633c62db02cd119
 Description:  Libevhtp was created as a replacement API for Libevent's current HTTP API.
  The reality of libevent's http interface is that it was created as a JIT server,
  meaning the developer never thought of it being used for creating a full-fledged HTTP service.
@@ -11935,6 +11950,23 @@ Size: 3546
 MD5Sum: e519a80170f0fe4dec22713a4f7bfc2e
 SHA256sum: f43e531a5dece0fa920c1b940f8ca92dd924b66efd6b571da9904ea4ed5163ba
 Description:  SCTP user-land library
+
+Package: libsearpc
+Version: 3.1.7-8998e7b2c5587f0b94c48db24e2952d08def5add
+Depends: libc, glib2, jansson, python
+Source: feeds/packages/libs/libsearpc
+License: GPL-3.0
+Section: libs
+Maintainer: Gergely Kiss <mail.gery@gmail.com>
+Architecture: ar71xx
+Installed-Size: 12408
+Filename: libsearpc_3.1.7-8998e7b2c5587f0b94c48db24e2952d08def5add_ar71xx.ipk
+Size: 13224
+MD5Sum: 15d2f8b96effb4bbf41f95b0f95de69d
+SHA256sum: 29be9b20e7309c7214e04618204ab98febb2f7aa9fa48e7bc15929e4e9897f78
+Description:  Searpc is a simple C language RPC framework based on GObject system.
+ Searpc handles the serialization/deserialization part of RPC,
+ the transport part is left to users.
 
 Package: libseccomp
 Version: 2.2.1-1
@@ -15458,11 +15490,11 @@ License: GPL-2.0 LGPL-2.1
 Section: utils
 Maintainer: Daniel Golle <daniel@makrotopia.org>
 Architecture: ar71xx
-Installed-Size: 473266
+Installed-Size: 473283
 Filename: lvm2_2.02.119-2_ar71xx.ipk
-Size: 472435
-MD5Sum: 3c81185caa5386334ee4a6ac8823ae49
-SHA256sum: fe9d176e52cfd1c37833a264ee95323d353c8aabaf2eccd469ab83e54082d485
+Size: 472482
+MD5Sum: 61dde3d58ae285da32b72618d7507b9b
+SHA256sum: e0bd0fd08c5a0b020fec4e6c06b706b063d46d04eb73bfd9f20c0c2a2f9b885e
 Description:  LVM2 refers to a new userspace toolset that provide logical volume management
  facilities on linux. It is reasonably backwards-compatible with the original
  LVM toolset.
@@ -16090,11 +16122,11 @@ LicenseFiles: gnu-COPYING-GPL
 Section: mail
 Maintainer: Denis Shulyaka <Shulyaka@gmail.com>
 Architecture: ar71xx
-Installed-Size: 9235099
+Installed-Size: 9234973
 Filename: mailman_2.1.20-1_ar71xx.ipk
-Size: 9235926
-MD5Sum: e7e4c979fb747ffd29fd5b74fb46f6f2
-SHA256sum: 1132f3376d3896cc705905dfdbed907456a4b67ef3cdbc558b3affd5928d841f
+Size: 9235907
+MD5Sum: 055fd99415bcb6b661c633b1aadb86bf
+SHA256sum: 75c5b6ce1d2a632bc7f063eb7288b59eb6e3ed630024c976c305c45273eca4af
 Description:  Mailman is free software for managing electronic mail discussion and e-newsletter lists.
 
 Package: mailsend-nossl
@@ -16359,6 +16391,34 @@ MD5Sum: c3004ee9422e11f00ae09bc438b8f38b
 SHA256sum: ad8ef83590a5503264f4d167fb9c58933293c497b530ae3c59ac92d4689bc7bf
 Description:  Utilities to create and check HFS/HFS+ filesystems.
  (mkfs.hfs and mkfs.hfsplus for creating HFS/HFS+ volumes)
+
+Package: mksh
+Version: 50d-1
+Depends: libc
+Source: feeds/packages/utils/mksh
+License: MirOS
+Section: shells
+Maintainer: Thorsten Glaser <tg@mirbsd.org>
+Architecture: ar71xx
+Installed-Size: 90111
+Filename: mksh_50d-1_ar71xx.ipk
+Size: 91515
+MD5Sum: 1ed6534a1c987c2791d0b3637d432153
+SHA256sum: cf95608b96e7cb1a10f188a471b27882e88973eee66d9b6101506428f929a032
+Description:  mksh is the MirBSD enhanced version of the Public Domain Korn
+ shell (pdksh), a Bourne-compatible shell which is largely si-
+ milar to the original AT&T Korn shell; mksh is the only pdksh
+ derivate currently being actively developed.  It includes bug
+ fixes and feature improvements, in order to produce a modern,
+ robust shell good for interactive and especially script use.
+ mksh has UTF-8 support (in substring operations and the Emacs
+ editing mode) and - while R50 corresponds to OpenBSD 5.5-cur-
+ rent ksh (without GNU bash-like PS1 and fancy character clas-
+ ses) - adheres to SUSv4 and is much more robust. The code has
+ been cleaned up and simplified, bugs fixed, standards compli-
+ ance added, and several enhancements (for extended compatibi-
+ lity to other modern shells - as well as a couple of its own)
+ are available. It has sensible defaults as usual with BSD.
 
 Package: mktorrent
 Version: 1.0-1
@@ -20009,11 +20069,11 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: ar71xx
-Installed-Size: 6571
+Installed-Size: 6569
 Filename: openvswitch-benchmark_2.3.90-58be9c9fd732b5bdd3d4c2e9b8cc2313f570094d_ar71xx.ipk
-Size: 7379
-MD5Sum: 5486db1707ab4cbf54db433ec56bb85f
-SHA256sum: 6979966446ae0061bf54c48ff6fe8eaca061caff2ee7ba021c70d61d2151d523
+Size: 7387
+MD5Sum: f092a48508d71529c0bf25a660c92dc6
+SHA256sum: 75c4257c13e9d05e4a574dccc06e2861a08aa747544701b2473b381be80aa06c
 Description:  Utility for running OpenVSwitch benchmarking
 
 Package: openvswitch-ipsec
@@ -20027,9 +20087,9 @@ Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: ar71xx
 Installed-Size: 5412
 Filename: openvswitch-ipsec_2.3.90-58be9c9fd732b5bdd3d4c2e9b8cc2313f570094d_ar71xx.ipk
-Size: 6248
-MD5Sum: 429301ff11d3a0a4cce0adfbf05c633a
-SHA256sum: 90e9833f8de74c2bf7fb37fa16d1b9e4f0a0f4a3f2eacf48492175adc1437c48
+Size: 6238
+MD5Sum: 5842a8d7251a94f86792158e71b5018f
+SHA256sum: 6add51af211bd0703a83069ae2c9322710ec87b4df97a02b69d93b7a4e087933
 Description:  The ovs-monitor-ipsec script provides support for encrypting GRE tunnels with 
  IPsec.
 
@@ -20042,11 +20102,11 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: ar71xx
-Installed-Size: 114634
+Installed-Size: 114639
 Filename: openvswitch-python_2.3.90-58be9c9fd732b5bdd3d4c2e9b8cc2313f570094d_ar71xx.ipk
-Size: 115571
-MD5Sum: 8572419ee9e2b09e221c73f39d651ec6
-SHA256sum: 9a4f79e09c14bd8951d51c75e7c391164dea3fe4ecc8145cc3b62f1724374410
+Size: 115577
+MD5Sum: 7bc1fede92ec12c509aef9040ddc5ee8
+SHA256sum: 3a63be0badee126400c5457bdf614c3fa80baf1a082aeea4528b4ae4bab187eb
 Description:  Provides bindings and libraries for using Python to manipulate/work with Open vSwitch.
 
 Package: openvswitch
@@ -20058,11 +20118,11 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: ar71xx
-Installed-Size: 824751
+Installed-Size: 824757
 Filename: openvswitch_2.3.90-58be9c9fd732b5bdd3d4c2e9b8cc2313f570094d_ar71xx.ipk
-Size: 816686
-MD5Sum: 0fc1bf32053623a07f8b52ffa35964d9
-SHA256sum: f68131e75a3624a051ed5fafc5f4086c01929c20da066e679eea92927c6f8b0d
+Size: 816702
+MD5Sum: 61889d6b0af1fa835ea26b2d9d6e236b
+SHA256sum: f26bdcb15ee8452f954c7341bb36a236437320ec7e578726e1496da48f546a76
 Description:  Provides the main userspace components required for Open vSwitch to function.
 
 Package: oping
@@ -20409,11 +20469,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 963457
+Installed-Size: 963456
 Filename: php5-cgi_5.6.17-1_ar71xx.ipk
-Size: 962238
-MD5Sum: 0e31fd799b747ca1dd896dda84989f57
-SHA256sum: c3a8ff2ffd8d253c8f3708f75df4789bce9049d415d057f41137ef0563535725
+Size: 962299
+MD5Sum: 3df98e2baadbaae6662c4541e29240db
+SHA256sum: 81aa05d9c098dd21f366b3de2d39a726256150ef2d5924e683089730df3c2fdb
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains the CGI version of the PHP5 interpreter.
@@ -20429,9 +20489,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 970325
 Filename: php5-cli_5.6.17-1_ar71xx.ipk
-Size: 969398
-MD5Sum: 236604c5d5c52dda054628fdac306a98
-SHA256sum: 164f501d0cd62a76a9b736a0baf4c574a1d7f7a1a98b47044b5d8f3541d1c37f
+Size: 969443
+MD5Sum: 18468eee797c43b4050056b6fe006590
+SHA256sum: 69318d148d8ace12c0d1b96b69f6d0309305e4749f4cc80cdc1a027ffe8e79c8
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains the CLI version of the PHP5 interpreter.
@@ -20445,11 +20505,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 553
+Installed-Size: 554
 Filename: php5-fastcgi_5.6.17-1_ar71xx.ipk
-Size: 1380
-MD5Sum: 85551b42958eca718a9c685215b72fce
-SHA256sum: 05fd27f2facde516dcdea39a9347d1e599e551408e28499b28ee1fcb5ebd7ed5
+Size: 1379
+MD5Sum: fb374b5e3079a48bf69b8335d37b80b7
+SHA256sum: 5878a60b75f5e6626b00ad1f725c0065c37f36b3cc40ad84b8ff5279db07650e
 Description:  As FastCGI support is now a core feature the php5-fastcgi package now depends
  on the php5-cgi package, containing just the startup script.
 
@@ -20462,11 +20522,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 1005492
+Installed-Size: 1005490
 Filename: php5-fpm_5.6.17-1_ar71xx.ipk
-Size: 1004239
-MD5Sum: 9afc8e32ba9fec8e4dcdb37a6bfe6aa4
-SHA256sum: 965f2df92d9d8845ab9cff459055386478f70ed5457599873158dfb9e27ecac7
+Size: 1004191
+MD5Sum: 7b193d6ff4f1ce54dacfeb9e41dba37a
+SHA256sum: 759c796559e843259c3e98e82b0170fd1fd7786ea6fbd9b89efea92f5616e918
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains the FastCGI Process Manager of the PHP5 interpreter.
@@ -20480,11 +20540,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 9434
+Installed-Size: 9433
 Filename: php5-mod-calendar_5.6.17-1_ar71xx.ipk
-Size: 10131
-MD5Sum: 05e59a1df62c00f4100d4c6c21f45d15
-SHA256sum: da4a69f24b7e3c56079b0df5f1f4c180ec26f652b6554c1bf16c01deafc44f29
+Size: 10135
+MD5Sum: a0466a328c10f6f0f09c1222f64dc2ee
+SHA256sum: 21bda0d7971c8a2944f9496fae2bd56d3b2bfffb90107f94ba57b5e4f67ea7c5
 Description:  Calendar shared module
 
 Package: php5-mod-ctype
@@ -20496,11 +20556,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 2293
+Installed-Size: 2294
 Filename: php5-mod-ctype_5.6.17-1_ar71xx.ipk
-Size: 3066
-MD5Sum: f01b17d1464e029f4b35b252cf4eb4b8
-SHA256sum: fa07428a9dccea2ab0a1aca675e383dd2bf0ad030006f32291036a4efb66ff3f
+Size: 3067
+MD5Sum: d67f52d9e90f84bc99436c66db7bdb2f
+SHA256sum: be56ea02c3d5c780a11c05111a649e737fac9e7504caae1dfd529b09df2ac776
 Description:  Ctype shared module
 
 Package: php5-mod-curl
@@ -20514,9 +20574,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 24871
 Filename: php5-mod-curl_5.6.17-1_ar71xx.ipk
-Size: 25529
-MD5Sum: 9392909db83afd3ffc4cb093f4f5ffdc
-SHA256sum: d60798e19e1ddf965cdea8ae321217f28c4ee45b4ee2f823b291cafbe72f2d28
+Size: 25534
+MD5Sum: f88059d29c088e96e8e78abf7b4c82e5
+SHA256sum: 373820fa831df6cdebf4f0add8cd3a8016518f0a0ed653da7652c494ae9fa9c9
 Description:  cURL shared module
 
 Package: php5-mod-dom
@@ -20528,11 +20588,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 42311
+Installed-Size: 42304
 Filename: php5-mod-dom_5.6.17-1_ar71xx.ipk
-Size: 42826
-MD5Sum: efc4c9b7bd95b57862cbae9465fbb9c4
-SHA256sum: e7af6c48b668ede21a3dbebe5090e0fc0b7236a0f8b42f315cbd456014abcba8
+Size: 42831
+MD5Sum: 431de3a25d71975a51326213edd2edc9
+SHA256sum: 52c75000badd02a7f93f1274e9ca8f23a0eab3408f4b81420554d8e9290c2891
 Description:  DOM shared module
 
 Package: php5-mod-exif
@@ -20546,9 +20606,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 21421
 Filename: php5-mod-exif_5.6.17-1_ar71xx.ipk
-Size: 21453
-MD5Sum: b5b1c176d764a6c24fed93bdb755d5dc
-SHA256sum: 14add8b2469331b1ecf897f89e48d8f9a611c6f388761e336c74faa29c265c54
+Size: 21436
+MD5Sum: 30d1a839e28f4f576146724ed6f1ae83
+SHA256sum: 22b6240a581292918fba944e8f29a91af2520ffad8815a05de24bc32b3e011ae
 Description:  EXIF shared module
 
 Package: php5-mod-fileinfo
@@ -20562,9 +20622,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 243538
 Filename: php5-mod-fileinfo_5.6.17-1_ar71xx.ipk
-Size: 241185
-MD5Sum: ade8f0d67515816e99e376c0291956b1
-SHA256sum: d6a636b88b5a349951acedf633f130ca811b978dc1cd0f9daad75337c98517b9
+Size: 241229
+MD5Sum: cf0d1957e4e252c67364264c88305d79
+SHA256sum: 68a02fec60bc4e8d7cec477731a6d646b4000820480cf92a85290ebe594e2c96
 Description:  Fileinfo shared module
 
 Package: php5-mod-ftp
@@ -20578,9 +20638,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 13801
 Filename: php5-mod-ftp_5.6.17-1_ar71xx.ipk
-Size: 14506
-MD5Sum: faa80b99118ad4c2efb3531c1a35a0d3
-SHA256sum: 9a44552c272b2ccfe1e14c38577754e25c0de1c7fa8edae41d22f5e913fca409
+Size: 14501
+MD5Sum: 493698ac32720aee7d1e006f46561d84
+SHA256sum: 877760bc02b27b6b281b8cafd47e81df328d5ae952d085bc78f7266135e3f3fc
 Description:  FTP shared module
 
 Package: php5-mod-gd
@@ -20592,11 +20652,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 94991
+Installed-Size: 94990
 Filename: php5-mod-gd_5.6.17-1_ar71xx.ipk
-Size: 95347
-MD5Sum: 98ca264ba7f08578c0f1e91029927d5a
-SHA256sum: 932140b0a804e603198cc5a79b34d52b0c24fc1a7fa36e098b8c50fa95947455
+Size: 95368
+MD5Sum: ed716a2860d5bb0850005333f1b8647f
+SHA256sum: 4a2286f18d9c5a9dfef9d0b870c5c3cd53a456619af14f824588513f8a09b307
 Description:  GD graphics shared module
 
 Package: php5-mod-gettext
@@ -20608,11 +20668,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 2597
+Installed-Size: 2603
 Filename: php5-mod-gettext_5.6.17-1_ar71xx.ipk
-Size: 3362
-MD5Sum: f91e0ae668eb57d38ff716373f5dc354
-SHA256sum: 8dafc7bb8aae659c1f3e6fb4d1add4a195bfc445fcbe8fbf2bac99c1c6ba13a7
+Size: 3367
+MD5Sum: 2ebefac2717aae60bcc031d5c946dea6
+SHA256sum: e191712fdcb707f99f7fc2c5a646f0718a9266b91540dc0ad19c2f3c4b1cf49e
 Description:  Gettext shared module
 
 Package: php5-mod-gmp
@@ -20624,11 +20684,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 12713
+Installed-Size: 12716
 Filename: php5-mod-gmp_5.6.17-1_ar71xx.ipk
-Size: 13428
-MD5Sum: 50809ad21f20e9d833a72cf6d0f8b2f7
-SHA256sum: 63296032482aa8195fec8cfe26ae1c88d1734bbfa8e0ccadc46f4fba112b0159
+Size: 13433
+MD5Sum: 0dc2fa3d729a354051dfc1773304d445
+SHA256sum: 8f205f821c98751350b63afee8b1d2bc7653a5edb8b8ee410d4f97b0044b5a3f
 Description:  GMP shared module
 
 Package: php5-mod-hash
@@ -20640,11 +20700,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 91092
+Installed-Size: 91093
 Filename: php5-mod-hash_5.6.17-1_ar71xx.ipk
-Size: 90982
-MD5Sum: 3fca3493ec1c0c667d35083d153bb96a
-SHA256sum: 224ce5ae265415daba88f3af9907e46158719eb9b42c29ba3836b2589ac84360
+Size: 90993
+MD5Sum: fe5c56ba653885ae175d9e283f97210b
+SHA256sum: 6e395e0aa83d915b31f38331e0143cb1d3be133dd15378eee29b113f11468a21
 Description:  Hash shared module
 
 Package: php5-mod-iconv
@@ -20658,9 +20718,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 15199
 Filename: php5-mod-iconv_5.6.17-1_ar71xx.ipk
-Size: 15956
-MD5Sum: 69a86bc7e51a55eb7259797a49e063c4
-SHA256sum: 4fb4f955e51d0abe66b715a877cebefbf6f8c20652f2b53f9263e00883f1c572
+Size: 15943
+MD5Sum: 7fd4e3ade657ee021951c213c850939e
+SHA256sum: 96cc67573ad404dadf6b1b5ffda477cf254865a64e5d0c3c6934f0ab3e49b7bb
 Description:  iConv shared module
 
 Package: php5-mod-json
@@ -20674,9 +20734,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 11492
 Filename: php5-mod-json_5.6.17-1_ar71xx.ipk
-Size: 12255
-MD5Sum: 2f5b4bf6aa8c22e030d9a4c29f5b010a
-SHA256sum: 5eca268ee00cfc15661e146b2f94b9b52f2d2d0b286be30dbe851420dd16037d
+Size: 12263
+MD5Sum: 21cd3d63339d189ab08f509f82706f4b
+SHA256sum: 7e20a5efd1400edd88bc031df51c78b474b41cf7e9b5d57c8c8c50ffbdeedd5b
 Description:  JSON shared module
 
 Package: php5-mod-ldap
@@ -20688,11 +20748,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 18171
+Installed-Size: 18174
 Filename: php5-mod-ldap_5.6.17-1_ar71xx.ipk
-Size: 18840
-MD5Sum: 46ca144f74aeae2304f512a89f3cf550
-SHA256sum: 1dd5d0b35ae9ba02a690de5162cab8ed43a086d07b579c8abc8ce06e0d12d902
+Size: 18843
+MD5Sum: 009720b833cf5df9a464374e6b8c8e40
+SHA256sum: 2a96553b80c1cb04c2a48954384f038f2876bb17da35af2a1342c57ce0229b5d
 Description:  LDAP shared module
 
 Package: php5-mod-mbstring
@@ -20704,11 +20764,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 633731
+Installed-Size: 633741
 Filename: php5-mod-mbstring_5.6.17-1_ar71xx.ipk
-Size: 627950
-MD5Sum: e32350794ef5dda924b617be5dcf90b2
-SHA256sum: 5e9a073ff2bdcabde39312b24b0198baa16cdb19894a6de13073c7811a439ea0
+Size: 627986
+MD5Sum: 8d8c53cac08dfb4858d5d37c3b266e03
+SHA256sum: 68d6a89a74bc4071a47d8fc314f25891ac4a1f894830b119452482fc868a7801
 Description:  MBString shared module
 
 Package: php5-mod-mcrypt
@@ -20720,11 +20780,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 11570
+Installed-Size: 11574
 Filename: php5-mod-mcrypt_5.6.17-1_ar71xx.ipk
-Size: 12277
-MD5Sum: ba6d0eb2d160aa40b8f795ca0c00d81e
-SHA256sum: a7d5efffec4fe4b6f8651e70c9305e16a8ce9a5df5ee31ac39445d8139c1be8b
+Size: 12276
+MD5Sum: 5798920ab347f5577ae8c05e4c012462
+SHA256sum: 51ac3ccae4088462b312082b292f1d802199950b857a628d11d115f8830fd4bd
 Description:  Mcrypt shared module
 
 Package: php5-mod-mysql
@@ -20738,9 +20798,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 14090
 Filename: php5-mod-mysql_5.6.17-1_ar71xx.ipk
-Size: 14753
-MD5Sum: 77ef224c08764e3bbf3ae61a839ec715
-SHA256sum: 4a2c31738d628afdf534c6c80d60f4e2393a3b46f1ee3e09b174d4d1411dc18f
+Size: 14761
+MD5Sum: 4f48a616003bdac55f5e3f8a39b5373b
+SHA256sum: 7f7c8df583c7c4cc7eed9aabe36bd362239bc8fc78280730fa124fd4f556cd06
 Description:  MySQL shared module
 
 Package: php5-mod-mysqli
@@ -20752,11 +20812,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 33774
+Installed-Size: 33769
 Filename: php5-mod-mysqli_5.6.17-1_ar71xx.ipk
-Size: 34155
-MD5Sum: 5516924de6453fe8b8d435a859f35b6a
-SHA256sum: e87d662aa56be133fd6a8db37a13516d8aed1e81de6ff4ad64d1ef4183de332b
+Size: 34135
+MD5Sum: 51368b3baa91e66f315e88f8f419aee9
+SHA256sum: ca8e4d7d355fc830672a3aa96383ecfa82c226cc3420aea3a79ae65baac1a405
 Description:  MySQL Improved Extension shared module
 
 Package: php5-mod-opcache
@@ -20768,11 +20828,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 54484
+Installed-Size: 54482
 Filename: php5-mod-opcache_5.6.17-1_ar71xx.ipk
-Size: 55222
-MD5Sum: e59352782ce4150d72886f6c4eb7773f
-SHA256sum: 09929cd0e8ca228e95dd34593fc150d5f3e157cef7ab8b1f24dc94d0f7effac7
+Size: 55230
+MD5Sum: cda4c38ff78f274ae82d53372781ec08
+SHA256sum: 14c4117dcbcbcc7b4a2156b189e9de92c085f36a33be6902afc8e64d14378c1b
 Description:  OPcache shared module
 
 Package: php5-mod-openssl
@@ -20784,11 +20844,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 43910
+Installed-Size: 43904
 Filename: php5-mod-openssl_5.6.17-1_ar71xx.ipk
-Size: 43966
-MD5Sum: aed3af61df6ab524f2c5943096c95046
-SHA256sum: d46d9294aa8debf6a4efb0d690670e63de0acba5b1275a6deaf68b5f98466834
+Size: 43976
+MD5Sum: 67cc765b0b3c8b840c7abbf4d0a36088
+SHA256sum: 4c7bbe3e69febae7e07ee4a248fcba145e73e18f78c619e4c229f067bab6f4d7
 Description:  OpenSSL shared module
 
 Package: php5-mod-pcntl
@@ -20800,11 +20860,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 8676
+Installed-Size: 8682
 Filename: php5-mod-pcntl_5.6.17-1_ar71xx.ipk
-Size: 9475
-MD5Sum: 2216cfd4a622352ec98e048f3fca4086
-SHA256sum: c16ff332f6333ca98027f33711113b28c748284a704bcbada36035b4566bbe39
+Size: 9479
+MD5Sum: b1e7b6e5d27595d727860343c439aad3
+SHA256sum: aa16765e287b94ebd5cf25478ddcf629324c061a9254f6270608586f457f43b5
 Description:  PCNTL shared module
 
 Package: php5-mod-pdo-mysql
@@ -20816,11 +20876,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 9995
+Installed-Size: 9996
 Filename: php5-mod-pdo-mysql_5.6.17-1_ar71xx.ipk
 Size: 10806
-MD5Sum: ad90fd363a4b5047868a350df9c923df
-SHA256sum: 3f6892eb5817d47cd864f2b3e08880b31c9525517166ee7fa43097c695b3a2a7
+MD5Sum: e5366354a686fc322f141ce7b4af8868
+SHA256sum: e938a1027ce212928613ad5c7ff04ac8d1d4d98b1ab156c108f61970cb24d23a
 Description:  PDO driver for MySQL shared module
 
 Package: php5-mod-pdo-pgsql
@@ -20832,11 +20892,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 13844
+Installed-Size: 13842
 Filename: php5-mod-pdo-pgsql_5.6.17-1_ar71xx.ipk
 Size: 14643
-MD5Sum: bf3ccbda5c91eed20c02b4ebc7690f62
-SHA256sum: f484bbc405cb8ffc3e035334ba921ce46f3f1726f22689bdfba28344e64c0b86
+MD5Sum: 11bf0f800020146749e38dd83701fad7
+SHA256sum: 828420f222142222622f2beca45653d5b8b0621f4ebc3c459bce14398e34e931
 Description:  PDO driver for PostgreSQL shared module
 
 Package: php5-mod-pdo-sqlite
@@ -20848,11 +20908,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 8616
+Installed-Size: 8619
 Filename: php5-mod-pdo-sqlite_5.6.17-1_ar71xx.ipk
-Size: 9433
-MD5Sum: 92c9580d31628b149133e3673e16a60f
-SHA256sum: cad77937501c9dc8b8c452dc6947fe400115c7bb0a2c68346984a01c58f8fdd2
+Size: 9444
+MD5Sum: d0018d6bddb10ded856f5eb9380bff06
+SHA256sum: 47736ee28bd0a91910e3773815711c59535ddae00cbdc3f71acacd72e7bd0fd5
 Description:  PDO driver for SQLite 3.x shared module
 
 Package: php5-mod-pdo
@@ -20866,9 +20926,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 33552
 Filename: php5-mod-pdo_5.6.17-1_ar71xx.ipk
-Size: 33978
-MD5Sum: b357306f8f4684a4dd7e244f227f9e5f
-SHA256sum: 0e8a1e46e71100ca407cfbfd0f1d05c24096541adb4e5122edb7684ff72c7f3b
+Size: 33965
+MD5Sum: a003f03d413e2335b1eba6de573777d7
+SHA256sum: 6e8807e55fbb170666f424b187fbc524e55974a9c8cce5bdcdd39cfe4a89bf3c
 Description:  PHP Data Objects shared module
 
 Package: php5-mod-pgsql
@@ -20880,11 +20940,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 35534
+Installed-Size: 35535
 Filename: php5-mod-pgsql_5.6.17-1_ar71xx.ipk
-Size: 35933
-MD5Sum: 64d415bb986ad7972e45c9f278bb9537
-SHA256sum: 826c31e8cd9a4617e644160590b9cfef01d385e52f9f23d7423d8443f82cd970
+Size: 35928
+MD5Sum: 2ca445b7c15f1fc4e99b13c338045718
+SHA256sum: 58720db1ac8e7f56469d4402a1983fd8accc0c50ea353fb81fd9d9c2ae84239c
 Description:  PostgreSQL shared module
 
 Package: php5-mod-session
@@ -20898,9 +20958,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 25027
 Filename: php5-mod-session_5.6.17-1_ar71xx.ipk
-Size: 25761
-MD5Sum: 8986b69673aa46038871d90d56642955
-SHA256sum: c121c6a4f9f21f4738531f53f0d8a4a6243261ee7454120ab837315a3e31710f
+Size: 25768
+MD5Sum: 0b90204a9bcac3a716cf3fed95025850
+SHA256sum: c8d29c47cab54d085f55c4dc2e2ea8568b94eb4f27bb0fb9ea985b8f4c73655f
 Description:  Session shared module
 
 Package: php5-mod-shmop
@@ -20912,11 +20972,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 3277
+Installed-Size: 3275
 Filename: php5-mod-shmop_5.6.17-1_ar71xx.ipk
-Size: 4027
-MD5Sum: 9151eb866b5a6ed791d125e9c80ae65b
-SHA256sum: bff40248bb04e34fb3e8b44bc99a0da5cc72ce60aa9da10dbefb9e3a3ca3f70e
+Size: 4023
+MD5Sum: c49e679a73e9ba5d465228ee489446d3
+SHA256sum: 20825ee52aecd7ebb83af101c18f3b0757e021acbd443eae56c6d0a1161992c2
 Description:  Shared Memory shared module
 
 Package: php5-mod-simplexml
@@ -20928,11 +20988,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 15861
+Installed-Size: 15865
 Filename: php5-mod-simplexml_5.6.17-1_ar71xx.ipk
-Size: 16580
-MD5Sum: fbf42ab2e6136bcaa2337063e3686f84
-SHA256sum: 07b189e5f374fa758b5c5e338d84fa5833adc23f4553b8ce755d764d75465ab6
+Size: 16573
+MD5Sum: c61412002e7304d8b707f99f1c0e0edd
+SHA256sum: 9983c3b5aef6fe5f704b95ea9b39c9ad168caadc5b620b14bc9350a1612c082c
 Description:  SimpleXML shared module
 
 Package: php5-mod-soap
@@ -20944,11 +21004,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 103868
+Installed-Size: 103866
 Filename: php5-mod-soap_5.6.17-1_ar71xx.ipk
-Size: 104305
-MD5Sum: 19fec66b8d03a691ca9ba3853281f83b
-SHA256sum: 04b595188b56f0314c680e8a6aef50058d68b3e6bcc25528bd1572b547ecd136
+Size: 104308
+MD5Sum: 88cd7cdf30131a643752879491aa22f3
+SHA256sum: a668cce357a43bf8a126d3bb669eae920df75a6f1a7c37c0d1c1e086352bf201
 Description:  SOAP shared module
 
 Package: php5-mod-sockets
@@ -20960,11 +21020,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 26322
+Installed-Size: 26320
 Filename: php5-mod-sockets_5.6.17-1_ar71xx.ipk
-Size: 27013
-MD5Sum: f0ef1feeddb267bdac25095ce99cfedb
-SHA256sum: b150cfb0d148b60753712ef48b94812eae2f30ec0096556cb8c5addd13549660
+Size: 27001
+MD5Sum: 8454394b690d16801ef4a94de7195ca7
+SHA256sum: 9b07a7e68980a3d43cae493b073c2e3f67914920db00430e5a3b07a6e100a056
 Description:  Sockets shared module
 
 Package: php5-mod-sqlite3
@@ -20976,11 +21036,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 13981
+Installed-Size: 13977
 Filename: php5-mod-sqlite3_5.6.17-1_ar71xx.ipk
-Size: 14711
-MD5Sum: 324ca622ca11232591d7ebe637443094
-SHA256sum: 6cbb1d098d2957fbb911467bf02cb65bd5d393d516ceaa919185286ada7e42ad
+Size: 14688
+MD5Sum: b63dccbc0d1519b71ad937df76b98679
+SHA256sum: a684f7831595dcec3e0398eb06d62f2831a7be66e9ac0e1e05f8f059297976a7
 Description:  SQLite3 shared module
 
 Package: php5-mod-sysvmsg
@@ -20992,11 +21052,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 5036
+Installed-Size: 5040
 Filename: php5-mod-sysvmsg_5.6.17-1_ar71xx.ipk
-Size: 5793
-MD5Sum: 970265acf72ed3072f5c64013b2ed5b9
-SHA256sum: 7efa2560c02887bf16067691d9af39e27bd18461fe2ffb992b7b8074113d3dd0
+Size: 5809
+MD5Sum: 8336a5ee409134fa09a5401d5a366861
+SHA256sum: a8c51d9245c978b177c1d9d2af1c9f09a88459f4c4aba68e509caa6232693c4b
 Description:  System V messages shared module
 
 Package: php5-mod-sysvsem
@@ -21008,11 +21068,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 2997
+Installed-Size: 2999
 Filename: php5-mod-sysvsem_5.6.17-1_ar71xx.ipk
-Size: 3751
-MD5Sum: 28a65dda8f059f21d2ad7dd74aefbfb4
-SHA256sum: ba066fbcb1bea5236a503684ac7cc9ae6c3dd0a674314202e2fc3f58a2f973a1
+Size: 3761
+MD5Sum: 0adcf5e596ad3a54040981a05f917616
+SHA256sum: dbfd27556abbe4d4e470a2f24e01cba379d1802a730b74b67be63efe383284d5
 Description:  System V shared memory shared module
 
 Package: php5-mod-sysvshm
@@ -21026,9 +21086,9 @@ Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.
 Architecture: ar71xx
 Installed-Size: 3948
 Filename: php5-mod-sysvshm_5.6.17-1_ar71xx.ipk
-Size: 4714
-MD5Sum: 7953c6c70f8163361de920dbf196f554
-SHA256sum: 2b090de29862191894e79bebfb5d0f78e435c640bd84ab60ad5ffcb21bc76552
+Size: 4709
+MD5Sum: c62588b3f9e9e04a77be98064ca04b98
+SHA256sum: 1eeceb0fd361b4e3e0486f351065dbe6df496480088cf995edcf88264f371e6b
 Description:  System V semaphore shared module
 
 Package: php5-mod-tokenizer
@@ -21040,11 +21100,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 5098
+Installed-Size: 5094
 Filename: php5-mod-tokenizer_5.6.17-1_ar71xx.ipk
-Size: 5763
-MD5Sum: c71b34de8b3f9f4bb848fa60bab8aa07
-SHA256sum: 4d0e2f7d03ded01505b6d5d0cb93281f4d24c55d29974df3924922f25e4ff1d7
+Size: 5765
+MD5Sum: b3cbc5cd43e892932d2dabb708025a65
+SHA256sum: 4f775525a81e28c5ac0a37d9ef9dadce80b331c348ae792c236cc26cb2e60252
 Description:  Tokenizer shared module
 
 Package: php5-mod-xml
@@ -21056,11 +21116,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 14417
+Installed-Size: 14416
 Filename: php5-mod-xml_5.6.17-1_ar71xx.ipk
-Size: 15078
-MD5Sum: 6ec4740d639a7f7079745b6de9ed9012
-SHA256sum: 1ecdc0be0f210c383bb5260b53e67520aa734ad35aa551f119006ba5b119e443
+Size: 15090
+MD5Sum: 17fa630b986a4de3ecc39c70d82527f5
+SHA256sum: 4b7d59355abe5dbbca43bac4a7cc7ac92432cbcd4eece02a07d74facc887b5dc
 Description:  XML shared module
 
 Package: php5-mod-xmlreader
@@ -21072,11 +21132,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 8481
+Installed-Size: 8482
 Filename: php5-mod-xmlreader_5.6.17-1_ar71xx.ipk
-Size: 9269
-MD5Sum: dee404ea88272be389a56b0344ccd104
-SHA256sum: 6e25015c77491955a54d05f75c1d85a4162849ff2e94011db35e4c644fa3877f
+Size: 9275
+MD5Sum: ab524d5b494887b7893b69fbc42672d7
+SHA256sum: 4c4483187a5e236993e3bfdf793efc6fab9496fbd753cf8a11772fa5ddf2defc
 Description:  XMLReader shared module
 
 Package: php5-mod-xmlwriter
@@ -21088,11 +21148,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 8796
+Installed-Size: 8794
 Filename: php5-mod-xmlwriter_5.6.17-1_ar71xx.ipk
-Size: 9485
-MD5Sum: eb2a829d02e4aea1d7abd263a6a1bc89
-SHA256sum: 52264e0fe2b9262b4045e51555476e79202f3b156460d7eefeabd786582b686b
+Size: 9490
+MD5Sum: 154cf716a23b8f587c836841fcd41039
+SHA256sum: 1909721e9195c9dba1dc96ef18f48fdc94447eb34bb032d33d36eeaa67944ea2
 Description:  XMLWriter shared module
 
 Package: php5-mod-zip
@@ -21104,11 +21164,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 42270
+Installed-Size: 42271
 Filename: php5-mod-zip_5.6.17-1_ar71xx.ipk
-Size: 43007
-MD5Sum: f66dbecb3e9ec4dd4149454edba4f4d7
-SHA256sum: 5da072544d566ceab71276d13b9753e8ddea2806d82384ea51be461224754b99
+Size: 42999
+MD5Sum: 5916af9fcc09258882732c54f0d2b216
+SHA256sum: c3e74d05ef6c75dcb1fdeeb4733e270756f40ef563a7969c9d81e8efe9ce481c
 Description:  ZIP shared module
 
 Package: php5
@@ -21120,11 +21180,11 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: W. Michael Petullo <mike@flyn.org>, Michael Heimpold <mhei@heimpold.de>
 Architecture: ar71xx
-Installed-Size: 3435
+Installed-Size: 3436
 Filename: php5_5.6.17-1_ar71xx.ipk
-Size: 4370
-MD5Sum: a67f51036e3cd28be464ae8120b43705
-SHA256sum: 90444d0556fd67b1fd3c87ef3a625e4f36e456661fb3ea7f66a0e25744180ac5
+Size: 4367
+MD5Sum: f275206360807f111e29a51d9c32be61
+SHA256sum: 055e3059e018d96f99ffc4e09c31d23c7df0a1b74ee514797938a10a3dfd9466
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains only the PHP config file. You must actually choose
@@ -25297,6 +25357,21 @@ MD5Sum: 25d069cc7d1d020541e926ba96a35d89
 SHA256sum: 52be9020dbc56b04c24b03854f0ababb8378f06163712c535d157f822d44f547
 Description:  SCTP user-land (meta)
 
+Package: seafile-ccnet
+Version: 4.1.2-a73109f09af4ecc49cdc4c57cdde51b38e15c31a
+Depends: libc, libsearpc, libevent2, libopenssl, glib2, python, libzdb, libuuid, libpthread, libsqlite3, jansson
+Source: feeds/packages/net/seafile-ccnet
+License: GPL-3.0
+Section: net
+Maintainer: Gergely Kiss <mail.gery@gmail.com>
+Architecture: ar71xx
+Installed-Size: 135037
+Filename: seafile-ccnet_4.1.2-a73109f09af4ecc49cdc4c57cdde51b38e15c31a_ar71xx.ipk
+Size: 135399
+MD5Sum: 5d40e397317c0875d70383d98a2a42d7
+SHA256sum: f71f8f2be2e62c7b3daba682772228fe18be2c43105abb357a64280833d283fe
+Description:  Ccnet is a framework for writing networked applications in C.
+
 Package: seafile-seahub
 Version: 4.1.2-3fb1288f920de03a4e2e6a06b60671ce98971742
 Depends: libc, python, simplejson, python-imglib, python-setuptools
@@ -25314,6 +25389,21 @@ Description:  The web end of seafile server.
  
  NOTE: in order to have better performance, language support is turned off by default.
  Please set 'USE_I18N = True' in seahub_settings.py to support multiple languages.
+
+Package: seafile-server
+Version: 4.1.2-c0166019c712e2e1d5e532fd5f7401b1b72db6d8
+Depends: seafile-ccnet (=4.1.2-a73109f09af4ecc49cdc4c57cdde51b38e15c31a), seafile-seahub (=4.1.2-3fb1288f920de03a4e2e6a06b60671ce98971742), libc, shadow-useradd, libarchive, libopenssl, glib2, libsearpc, seafile-ccnet, seafile-seahub, sqlite3-cli, python-mysql, jansson, libevent2, libevent2-openssl, zlib, libzdb, libsqlite3, libmysqlclient, libevhtp, libpthread, libuuid, bash, sudo, procps, procps-pkill
+Source: feeds/packages/net/seafile-server
+License: GPL-3.0
+Section: net
+Maintainer: Gergely Kiss <mail.gery@gmail.com>
+Architecture: ar71xx
+Installed-Size: 377316
+Filename: seafile-server_4.1.2-c0166019c712e2e1d5e532fd5f7401b1b72db6d8_ar71xx.ipk
+Size: 376973
+MD5Sum: 40688f94141d0f7c2030a613f9acc902
+SHA256sum: 8622663d4d9c10ef08985f5ae3bd359f7ac4d94dc849071c0e0f3f93cacb4507
+Description:  Open source cloud storage with advanced features on privacy protection and teamwork.
 
 Package: ser2net
 Version: 2.10.0-2

@@ -6,11 +6,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 4032
+Installed-Size: 4038
 Filename: 464xlat_6_ar71xx.ipk
-Size: 4738
-MD5Sum: 35719193cef20defff5608730c3863e9
-SHA256sum: f5c95f214cea583ecae8eed06f82f8a70e2e6444c384c37ab9482c3a84198de7
+Size: 4749
+MD5Sum: 4f3dadf6da9da0b6e9ada3b719ada3ba
+SHA256sum: 8d9b296c64288e690adfd8b4e892383ec18f535a0378ee3c617cace5594a62e4
 Description:  464xlat CLAT support
 
 Package: ahcpd
@@ -578,11 +578,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Marek Lindner <mareklindner@neomailbox.ch>
 Architecture: ar71xx
-Installed-Size: 70904
+Installed-Size: 70960
 Filename: kmod-batman-adv_3.18.45+2016.1-3_ar71xx.ipk
-Size: 71841
-MD5Sum: 021a4420a42c38e084937b72e2a83d2a
-SHA256sum: 0e262ca04de104c266336129446c90f84007f38ee31192a1f88e5a922f9a5f04
+Size: 71892
+MD5Sum: b62f2f329d683e7f7c65e824f146355f
+SHA256sum: 3781a3f3c209a0f66b957f89f0c3bb80da9eb4a504bc8a7d0f9c04c2b9557563
 Description:  B.A.T.M.A.N. advanced is a kernel module which allows to
  build layer 2 mesh networks. This package builds
  version 2016.1 of the kernel module.
@@ -595,11 +595,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 14791
+Installed-Size: 14789
 Filename: kmod-nat46_3.18.45+6-1_ar71xx.ipk
-Size: 15622
-MD5Sum: 694cefb70aa2084a69ea450246806ff2
-SHA256sum: 1272a5bc8e59ecd6f99faf41fbcfa97e235f878dad53a9261587ae5511b17794
+Size: 15607
+MD5Sum: dbd89977f37ecdfdff005044b99dcb24
+SHA256sum: 9a044faab76045e851639bc555f96361395312ed967e3d48506e1f31ffda9308
 Description:  Stateless NAT46 translation kernel module
 
 Package: luci-app-bird4
@@ -705,11 +705,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 105
+Installed-Size: 104
 Filename: map-t_6_ar71xx.ipk
-Size: 820
-MD5Sum: a39540453912076b92dfa910b82d6f46
-SHA256sum: d352c565ec3a3b2ab2da35be2ac6200e99c4fbad2410b892c251448fd3248099
+Size: 819
+MD5Sum: 541bd4f2ded979b8041632146849b8b3
+SHA256sum: d001862619d90754d6efd9479c2c0fce5c90d01121e6d945c2b0b17f34b1e630
 Description:  MAP-T configuration support
 
 Package: mcproxy
