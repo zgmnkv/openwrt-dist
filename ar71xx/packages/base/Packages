@@ -1650,11 +1650,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2219
+Installed-Size: 2220
 Filename: iptables-mod-account_2.5-1_ar71xx.ipk
-Size: 2980
-MD5Sum: ab91972feea8585aed9fbc2cc28877e2
-SHA256sum: 99e84cb0d8bfc3fd53c5d11efca7bdc57a548f354c8484411055c3ba0ca437b9
+Size: 2981
+MD5Sum: f3cb9229c6a0d39e47eeea84ab173b04
+SHA256sum: 7572abff9e031ee0b36ca9fc7d5305245c1e491e435677418cc2604149ac368b
 Description:  ACCOUNT iptables extension
 
 Package: iptables-mod-chaos
@@ -1667,9 +1667,9 @@ Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 1694
 Filename: iptables-mod-chaos_2.5-1_ar71xx.ipk
-Size: 2464
-MD5Sum: a9088b68cd6b029345bad224f45cd37a
-SHA256sum: b45cc24ad3c47dc6a4ab5671a621a1968a6dea152ad6c8839e4f80e0699fd379
+Size: 2455
+MD5Sum: 94ff507036893fb17690faefb6c0d097
+SHA256sum: c84fa785c777d10919203073073d35c342af9bcbd478471885813bef37dd061b
 Description:  CHAOS iptables extension
 
 Package: iptables-mod-cluster
@@ -1730,11 +1730,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1807
+Installed-Size: 1806
 Filename: iptables-mod-condition_2.5-1_ar71xx.ipk
-Size: 2574
-MD5Sum: e52461795d175d3c3c4ddfa052669323
-SHA256sum: b557566af158bd4dacb0a21a9336f11f53ace8ab03d79db8d7d2c9e633a036a6
+Size: 2571
+MD5Sum: 00ed8a92de0348d0565d715ed7b1a765
+SHA256sum: 5667f080197609a33870df14d2601d3a0d879b7a62d5ee31827a041ee6a05e3d
 Description:  Condition iptables extension
 
 Package: iptables-mod-conntrack-extra
@@ -1770,11 +1770,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1367
+Installed-Size: 1368
 Filename: iptables-mod-delude_2.5-1_ar71xx.ipk
-Size: 2127
-MD5Sum: dc909a791a230174bfeeae4826e4c153
-SHA256sum: 62aa5757e13c14f577031a7cab0e65a471d6fad39f266ce0c48368f865c09ac3
+Size: 2129
+MD5Sum: 3e47b4ac3059d2ceb43ecb339b749cb2
+SHA256sum: 4f2ae08e55f1896437b7064704809dd2144de7ed76e68ab12765c519382f483f
 Description:  DELUDE iptables extension
 
 Package: iptables-mod-dhcpmac
@@ -1785,11 +1785,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2027
+Installed-Size: 2026
 Filename: iptables-mod-dhcpmac_2.5-1_ar71xx.ipk
-Size: 2790
-MD5Sum: e5c7e13d59d7611293ec519c0674ac8f
-SHA256sum: 0201f0117f7cf11372514039a8963f9c93a154b88dc0b91de20329ce5fa51378
+Size: 2791
+MD5Sum: 4a7809cf3ee971f4718dbf8289058320
+SHA256sum: c8b73d7b4f34ce073485851ad22ce097e9e7206833b3b7c5b67f0f33b72ed537
 Description:  DHCPMAC iptables extension
 
 Package: iptables-mod-dnetmap
@@ -1800,11 +1800,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2789
+Installed-Size: 2792
 Filename: iptables-mod-dnetmap_2.5-1_ar71xx.ipk
-Size: 3559
-MD5Sum: 7f502dfebcda00e424d0c24886d5e5e5
-SHA256sum: d805108256504c8a51622cba99823c34e17fde805d32b05d7cee3e7f87a012c9
+Size: 3554
+MD5Sum: 314773d1c6aec24016c5b65f7928cce4
+SHA256sum: cf309238f32a2f43ac09cba32129f78ee4fcd95ba8dd28ab72c094c4540857ba
 Description:  DNETMAP iptables extension
 
 Package: iptables-mod-extra
@@ -1859,9 +1859,9 @@ Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 1849
 Filename: iptables-mod-fuzzy_2.5-1_ar71xx.ipk
-Size: 2597
-MD5Sum: 0f24f1bd202ade6a94fe8996db51c714
-SHA256sum: 41743d616972a8d24c35d2f39232f1da1bd1357cd7c7e6dbb19ece3bce3c9bdd
+Size: 2609
+MD5Sum: eb31fb530a2a0e8ef34d1df39ee963e1
+SHA256sum: 292dbcf4a1f26c2a08ce7f52fa140634670be51378805d91d7c8c37852b463b4
 Description:  fuzzy iptables extension
 
 Package: iptables-mod-geoip
@@ -1872,11 +1872,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 3155
+Installed-Size: 3159
 Filename: iptables-mod-geoip_2.5-1_ar71xx.ipk
-Size: 3919
-MD5Sum: 6808b1d000b63ae21261fbec018489b1
-SHA256sum: 0c4bfa7f01d7c48b116d97cfaf18054b6876bf049bd2844db34078f17fcc1f91
+Size: 3926
+MD5Sum: afaad8a83e5c20781555226043edd216
+SHA256sum: 1abfdb198af71703b8825ee8ea03bdce347462c8715f31f5c315e6da42e2ae9d
 Description:  geoip iptables extension
 
 Package: iptables-mod-hashlimit
@@ -1905,11 +1905,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2960
+Installed-Size: 2959
 Filename: iptables-mod-iface_2.5-1_ar71xx.ipk
-Size: 3731
-MD5Sum: c9fb266ef99157868251154649afd5aa
-SHA256sum: 7b5f1a919430ea4b485f39d448b52bf48770a4993ccee6eff5df25e810973391
+Size: 3724
+MD5Sum: 35def5fad4fc5dddcc79f98539d8c798
+SHA256sum: 92643f898ac16201df594608318bb16b90151ec0a5241ce300165a48dee88712
 Description:  iface iptables extension
 
 Package: iptables-mod-ipmark
@@ -1920,11 +1920,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2294
+Installed-Size: 2291
 Filename: iptables-mod-ipmark_2.5-1_ar71xx.ipk
-Size: 3068
-MD5Sum: d698dc4f58abb714407beb3158db551d
-SHA256sum: 38f2506b13a97c3f6d062ee5ada9b668cfb8ae5dc1fd5e9d5cc32717aa758c21
+Size: 3053
+MD5Sum: 574834c517da5f75124a78daafa1c24c
+SHA256sum: fd380a2aa7295b766749a4b80dc55632acfd203be8a659379982d49bd90a4b02
 Description:  IPMARK iptables extension
 
 Package: iptables-mod-ipopt
@@ -1967,9 +1967,9 @@ Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 2745
 Filename: iptables-mod-ipp2p_2.5-1_ar71xx.ipk
-Size: 3500
-MD5Sum: be5a71910474f4588cf96030571162d7
-SHA256sum: 5b65037d2172e523762581e0e713a8a1a8a0ecb17cb5b50905482989ef636d49
+Size: 3501
+MD5Sum: 411a9902f5fb685462dad92e27cd2349
+SHA256sum: d522a1de7dd6d7e1905d369cc0a1ee7b4182545540c6610a58363855d839ec3f
 Description:  IPP2P iptables extension
 
 Package: iptables-mod-iprange
@@ -2018,11 +2018,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2280
+Installed-Size: 2279
 Filename: iptables-mod-ipv4options_2.5-1_ar71xx.ipk
-Size: 3045
-MD5Sum: f73eb6002c17d1a731fc53b6ca7fc1f2
-SHA256sum: f8fc72ab685547d4cbc6cff056eaf944175278d81b8bf1c07de40eaa8ab0a313
+Size: 3037
+MD5Sum: cfbbdd184cfc0cb63135b37aea4350c0
+SHA256sum: 9a2b6f2c93544945e4fcf69387c5fa5848cf701d2a4f76e374a78d0213dfde90
 Description:  ipv4options iptables extension
 
 Package: iptables-mod-led
@@ -2051,11 +2051,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2357
+Installed-Size: 2362
 Filename: iptables-mod-length2_2.5-1_ar71xx.ipk
-Size: 3118
-MD5Sum: eba895a8b0cc3afd589bf29b8a5417b7
-SHA256sum: 4fa672bd0fd31dd45101d4c7653dfa211c05839f61011dca8fe992b6272efe74
+Size: 3127
+MD5Sum: 164a6078f5c4e3ceba60956218af91bb
+SHA256sum: 4805fdf03c8aa723ba1a6824685e9cfa1a1aea9a1d597b53d67cbcf983f38a5a
 Description:  length2 iptables extension
 
 Package: iptables-mod-logmark
@@ -2066,11 +2066,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2071
+Installed-Size: 2073
 Filename: iptables-mod-logmark_2.5-1_ar71xx.ipk
-Size: 2832
-MD5Sum: 391d711c53d6185866d76801afb0bf13
-SHA256sum: 097979e5ac396c999f2ce43450bd9d306924f3e00a224560fb3cd19162a886b7
+Size: 2842
+MD5Sum: a948fd9c6b5e45bbcf5e9b2be2829668
+SHA256sum: bf4878bfcaddb40fa7a549364d954f1d6acb4e939bfffec980afd3e0786a916d
 Description:  LOGMARK iptables extension
 
 Package: iptables-mod-lscan
@@ -2081,11 +2081,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1724
+Installed-Size: 1727
 Filename: iptables-mod-lscan_2.5-1_ar71xx.ipk
-Size: 2478
-MD5Sum: 0595ace9ea347de39ca29b173514caf1
-SHA256sum: 2b820b6f898f639dd32b59cc60f233f88f3f69d1414154cb7abb7f04e624e356
+Size: 2485
+MD5Sum: 4a76e5c80a58b79b375c54942407ef54
+SHA256sum: 1729a277faca2fe606c3469ab73d7ee9d944f4ca44839ca6f73429a665250602
 Description:  lscan iptables extension
 
 Package: iptables-mod-lua
@@ -2096,11 +2096,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2686
+Installed-Size: 2687
 Filename: iptables-mod-lua_2.5-1_ar71xx.ipk
-Size: 3448
-MD5Sum: 85ced929739d35999903acd21a4dad99
-SHA256sum: cf9925332f94c586a0a964cbb80da77c234b5accbd876dcd75c328c7140e6267
+Size: 3452
+MD5Sum: d9ce499abaf8a856458ee114388ba13a
+SHA256sum: 4915b6ea22a92e3cf2d3daa078a2b5bb2962413445cb942d41647df1045670a7
 Description:  Lua PacketScript iptables extension
 
 Package: iptables-mod-nat-extra
@@ -2165,11 +2165,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2073
+Installed-Size: 2075
 Filename: iptables-mod-psd_2.5-1_ar71xx.ipk
-Size: 2834
-MD5Sum: d059ea7bcf1b99e40fa3b4bb07bb4ab4
-SHA256sum: 6a7900bd6c1894d3ccbe9cceec363ccf8e7569c6482c3f6234e95ae9829d153f
+Size: 2833
+MD5Sum: 5108228661cc91db7b7628d91e658431
+SHA256sum: f8005b098e8521017c1c50a936ca25a11a05b9df4f74df79903087b40973659b
 Description:  psd iptables extension
 
 Package: iptables-mod-quota2
@@ -2180,11 +2180,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2239
+Installed-Size: 2240
 Filename: iptables-mod-quota2_2.5-1_ar71xx.ipk
-Size: 2994
-MD5Sum: 89b2357fde4cb0d399843ddd08bfdfd2
-SHA256sum: 894c07be872bf61ba42af2aac77c4c852f77902cde79939213b599bcfddb755b
+Size: 3005
+MD5Sum: b0db92ad2654fef4a02e34c06b1f85e0
+SHA256sum: 6188000c5c67fd5080c5a0f433904d6d33c3e4edc5714aa8dc7c375de4038c0a
 Description:  quota2 iptables extension
 
 Package: iptables-mod-sysrq
@@ -2195,11 +2195,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1373
+Installed-Size: 1368
 Filename: iptables-mod-sysrq_2.5-1_ar71xx.ipk
-Size: 2137
-MD5Sum: d3113cf7b409a7f3117ef399a9954a3f
-SHA256sum: 4650caabeb036cba51c22e41ab8dc36971bfbeb7ea9df06f1069b0f42c742a8f
+Size: 2133
+MD5Sum: 123e0db8d7b3c8b797bdee9cc978f4ef
+SHA256sum: ada37a00e3967ac6750e095df10d54f7f2683ac57bf55c280f7a000720bb008e
 Description:  SYSRQ iptables extension
 
 Package: iptables-mod-tarpit
@@ -2210,11 +2210,11 @@ License: GPL-2.0
 Section: net
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1743
+Installed-Size: 1742
 Filename: iptables-mod-tarpit_2.5-1_ar71xx.ipk
-Size: 2501
-MD5Sum: e0c1659d6cd1b819ec6236b24ee84371
-SHA256sum: 8b10fdfa45a926f57b53e98c20129eb361f378440fbfaefc6d587a04d2835f2d
+Size: 2492
+MD5Sum: e79a8212a6aa3bfc94796a85ece86852
+SHA256sum: 5db65b078c3229615c05417f3a5c1ba00063ce6f780e14d843f7fc8eddebd376
 Description:  TARPIT iptables extension
 
 Package: iptables-mod-tee
@@ -2351,9 +2351,9 @@ Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 4715
 Filename: iptaccount_2.5-1_ar71xx.ipk
-Size: 5454
-MD5Sum: b93da6f08078f031ae1d1ce91ff35187
-SHA256sum: afce157782645094511f5f730449c24b830e10fc9ed403b15995424a7e52cba4
+Size: 5457
+MD5Sum: 94dce82a93fe28ed6ca1d5ccf62d6774
+SHA256sum: 828272b142f7baaf7283d6efff4ecb9d871a1b7d63d1cf47b2b35a692ffbde05
 Description:  iptables-mod-account control utility
 
 Package: iputils-arping
@@ -2708,11 +2708,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 12763
+Installed-Size: 12762
 Filename: kmod-adm8211_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 13507
-MD5Sum: 8b3deb98ebeb1bf38e0d2374a0f287da
-SHA256sum: 846f141ae76d2bfe09d9e5c0dd72641edcf775cf0b345675b5c9b3fe72f242b7
+Size: 13498
+MD5Sum: 7acee7d4fb6948e9525671dd969e6673
+SHA256sum: 64599a75f62e8182a6dae8644bf211c02d2cb076393d4a01c7353bb61f3b9ba1
 Description:  ADMTek 8211 support
 
 Package: kmod-aoe
@@ -2921,9 +2921,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 136069
 Filename: kmod-ath10k_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 135941
-MD5Sum: bc01ced22fa4e3a02cb8e1b63d721ab8
-SHA256sum: 71ba1927217aa7bf1a14f6c2a9fb9fc0f37d9d3c33fd55d9f4fe9c3cc2633c21
+Size: 135950
+MD5Sum: ba00c3ee1ce258bf5920b35da3d7de31
+SHA256sum: d3f0e59972f8894d22ab9b907bb781a2b28b03b79b593f959604899914914384
 Description:  This module adds support for wireless adapters based on
  Atheros IEEE 802.11ac family of chipsets. For now only
  PCI is supported.
@@ -2935,11 +2935,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 81003
+Installed-Size: 81004
 Filename: kmod-ath5k_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 81277
-MD5Sum: 7a2e697f15ace05de4835b79bbce1d5c
-SHA256sum: fa4742e336aa40e47627ff32a96cc09c1dac7a29556c9e7d71027910f860ce36
+Size: 81280
+MD5Sum: d0c26f9c5a2308faf0cb8420a06c5cbf
+SHA256sum: fe7a2d8f7e367e4c8c49d52ba2e34a4cf912b111de713f63e8b67cfea781cb71
 Description:  This module adds support for wireless adapters based on
  Atheros 5xxx chipset.
 
@@ -2950,11 +2950,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 128628
+Installed-Size: 128626
 Filename: kmod-ath9k-common_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 126128
-MD5Sum: 1fb4043d902b4efa682e32b0bc84e039
-SHA256sum: 822a7513b357ec797cfe98fbb2a68f8a4295ae1a2200bbde988f9e9d086510d5
+Size: 126088
+MD5Sum: d1bb479ef4cf584799aed42fcac15b1b
+SHA256sum: 669a096ca04170d4c41013e355ccdfde6977c2b1c21314893e5463d06da9448c
 Description:  Atheros 802.11n wireless devices (common code for ath9k and ath9k_htc)
 
 Package: kmod-ath9k-htc
@@ -2964,11 +2964,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 34405
+Installed-Size: 34402
 Filename: kmod-ath9k-htc_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 35280
-MD5Sum: c051f389199e99bcdf1d12880e15ca3b
-SHA256sum: 95e3ca43fd64a7c5eb99d10edfdbbff5f45866950aa0e1d92a26c794056101c9
+Size: 35265
+MD5Sum: 82d0c1c958a1ab360a0d731004a48f7c
+SHA256sum: d74d23d65cdf89bdc94b06761625c867a79841747a8cc19b2984638bd2f36289
 Description:  This module adds support for wireless adapters based on
  Atheros USB AR9271 and AR7010 family of chipsets.
 
@@ -2979,11 +2979,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 56062
+Installed-Size: 56064
 Filename: kmod-ath9k_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 56618
-MD5Sum: 9b6f4722957a032c685df02ea8213a24
-SHA256sum: 1d193e8304e66f31beb84dd9d9b7f40d2325db52224e694e645e173cf49c3a13
+Size: 56644
+MD5Sum: 24f8c4dbd75b458147dba203d05d951c
+SHA256sum: 4d62a1803bf6af5905fab16e08ef760805b72396d1d7546643c38b47bda0eb87
 Description:  This module adds support for wireless adapters based on
  Atheros IEEE 802.11n AR5008 and AR9001 family of chipsets.
 
@@ -2996,9 +2996,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 12811
 Filename: kmod-ath_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 13376
-MD5Sum: 42249184e8d0c515780253bdca99f265
-SHA256sum: 7a0353b3f007ddd12db7be84e6e9a8726ec758ceb0aa2ea5ee92d65b6cf5e5f5
+Size: 13391
+MD5Sum: b33723c2666dcbb116b0cdaa7deb4d4a
+SHA256sum: 612e3ab0c4298d7f8a08e4be8d02a09a9900287f49c187b205e9a923f0c644af
 Description:  This module contains some common parts needed by Atheros Wireless drivers.
 
 Package: kmod-atl1
@@ -3113,11 +3113,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 286109
+Installed-Size: 286105
 Filename: kmod-b43_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 281892
-MD5Sum: a8ab81533fae063bf841cc9243637f31
-SHA256sum: bd944288d596e8ef26f4bf4d990ae8a04e32c54943ef7463d20cffba9b5a39a9
+Size: 281850
+MD5Sum: 14189c2517774d084d5fe47bc601ecb3
+SHA256sum: 85f37e3b7ba7e0e5f4425427a68398c4003fa889853ab15da9eb3c4be26b0634
 Description:  Kernel module for Broadcom 43xx wireless support (mac80211 stack) new
 
 Package: kmod-b43legacy
@@ -3127,11 +3127,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 49465
+Installed-Size: 49468
 Filename: kmod-b43legacy_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 50289
-MD5Sum: 6bff5f76d83929177b402c9d83035757
-SHA256sum: 8c180a662d726954e0f9ea97300d26f3d991df73b6e8febab40adbeb2b239539
+Size: 50285
+MD5Sum: 575d393640d33facd7390a29a796ee62
+SHA256sum: dbe362573085ab59070b6dc49af9d0738284797e02c23d83b660c8c7628ee57a
 Description:  Kernel module for Broadcom 43xx-legacy wireless support (mac80211 stack) new
 
 Package: kmod-b44
@@ -3231,11 +3231,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 93396
+Installed-Size: 93390
 Filename: kmod-brcmfmac_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 93865
-MD5Sum: c75886da6b79ae33c96979c9cec1ef6f
-SHA256sum: 7c43a50ecce277ed7477602c81b85b12101fd593f11d40a96921855828dff4a8
+Size: 93869
+MD5Sum: 09b0b59132efef79ae35af343e843c51
+SHA256sum: 03ac7779d0e33b1a93926409f41883e6d1d497527233b1d9e7210ad29f3f5827
 Description:  Kernel module for Broadcom IEEE802.11n USB Wireless cards
 
 Package: kmod-brcmsmac
@@ -3245,11 +3245,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 221731
+Installed-Size: 221735
 Filename: kmod-brcmsmac_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 218946
-MD5Sum: 67cec1783f933b1a1a78d5221f943548
-SHA256sum: 5e59560678416cc99004eb7a2bde82ca1e89bf7efc76d399e6d932af6b1a84f4
+Size: 219005
+MD5Sum: f6e77506caf2fb1280f150a0a2b2086f
+SHA256sum: a7e8f799a1ec7ffc8e1081f8dbb2aa24a87e497e1c78bfb3469b74719981c6a2
 Description:  Kernel module for Broadcom IEEE802.11n PCIe Wireless cards
 
 Package: kmod-brcmutil
@@ -3259,11 +3259,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 3664
+Installed-Size: 3665
 Filename: kmod-brcmutil_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 4513
-MD5Sum: 135d8953feb07b8dda77ff74850df29d
-SHA256sum: ea83713ccf342ea39007f33d4c02672608290668fba0cbf98bef26206875befd
+Size: 4527
+MD5Sum: dbb106e906d5f15a1744b1ba226fb471
+SHA256sum: d2d9f60fdd10402a70b43bd3867d89af7b5cd32ea55a04f6a900d8263c01721e
 Description:  This module contains some common parts needed by Broadcom Wireless drivers brcmsmac and brcmfmac.
 
 Package: kmod-bridge
@@ -3289,9 +3289,9 @@ Section: kernel
 Architecture: ar71xx
 Installed-Size: 2902
 Filename: kmod-button-hotplug_3.18.45-3_ar71xx.ipk
-Size: 3726
-MD5Sum: f8e1d2b9063eb1b850dbc4d2aa0aec64
-SHA256sum: e4cd92ad94ac5d330d4fb8382ce23a93070c93116baaef73f9fe0dd40b5d9db7
+Size: 3728
+MD5Sum: 13d914c30b7df1d30b5e8758985daa66
+SHA256sum: 0b93c5b35d679da715e7feabef836497bc9209b6082d0c288f56f8d516ae0ac8
 Description:  Kernel module to generate button uevent-s from input subsystem events.
  If your device uses GPIO buttons, see gpio-button-hotplug.
 
@@ -3544,11 +3544,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 49937
+Installed-Size: 49933
 Filename: kmod-carl9170_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 50637
-MD5Sum: c13d1cf6e8c637115f3e94ddd8480740
-SHA256sum: 49b95d627fcf555267c4b973f200cbb624471ed68f929cabbe5414b4389c2fa8
+Size: 50621
+MD5Sum: dc450c8b9826a98ac8f85201b5dc28d1
+SHA256sum: 00cbc98da3b72fae52a5ec00c011bbd578bf102e4e84e241a990c5f07b3653d5
 Description:  Driver for Atheros AR9170 USB sticks
 
 Package: kmod-cfg80211
@@ -3558,11 +3558,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 130867
+Installed-Size: 130866
 Filename: kmod-cfg80211_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 131213
-MD5Sum: 9d3dd6dbc56a2033633ba3409a19fa43
-SHA256sum: 82d3945c4434120364f86cb6ad0bc7a2efc6b791b33441625c6d72f23be529e3
+Size: 131204
+MD5Sum: ffb551a0eeebbd2e6dae988557d2d62b
+SHA256sum: 46b9370385e7876c043fe56bc4cc18b54f3298d944a1a73458026b66163c5837
 Description:  cfg80211 is the Linux wireless LAN (802.11) configuration API.
 
 Package: kmod-crypto-aead
@@ -4915,11 +4915,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4)
 Source: package/kernel/gpio-button-hotplug
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 4498
+Installed-Size: 4493
 Filename: kmod-gpio-button-hotplug_3.18.45-1_ar71xx.ipk
-Size: 5426
-MD5Sum: cbd337a365ab29c9fdfaece8dbd49182
-SHA256sum: 05cf48ef68e91476cc7c65b9891655f459f35c23f2b6069810ac223824b4d313
+Size: 5423
+MD5Sum: f52290dcd100146ea1a7acfd627c9fd2
+SHA256sum: 6ed6198a6bac93bcbd54ca6fed551c48888ff00f812c1c7e72f484f0c7f785c6
 Description:  This is a replacement for the following in-kernel drivers:
  1) gpio_keys (KEYBOARD_GPIO)
  2) gpio_keys_polled (KEYBOARD_GPIO_POLLED)
@@ -5041,11 +5041,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2396
+Installed-Size: 2399
 Filename: kmod-hermes-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 3220
-MD5Sum: fbe211f49afc7dd972c30fcad3c68ef4
-SHA256sum: 80298ac015f999fbf7524c9c5e1fd670a4a073ce9f3fcb19b71905ec1c9a3010
+Size: 3222
+MD5Sum: 4c8b3b7f8f46d3ccae0800c583e2c26b
+SHA256sum: e95bde7dd16798230c88a643acf32fd43c9c38acf8811f8b43ee10a8f4263ebc
 Description:  Kernel modules for Intersil Prism 2.5 PCI support
 
 Package: kmod-hermes-plx
@@ -5055,11 +5055,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2944
+Installed-Size: 2947
 Filename: kmod-hermes-plx_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 3775
-MD5Sum: 0427537d71ed5f403d408616f186481d
-SHA256sum: cb6fcb037f6be7b4197ad67cd06a9ce5c7fad566ff91728d4de08687ada34724
+Size: 3778
+MD5Sum: 9d7a06b52a6df8574874d36985c7f1c5
+SHA256sum: b20b37fa4958ce214ba2c3ae4c8da94f8aa5216e31b5ac11deb06d0d65a15a47
 Description:  Kernel modules for Hermes in PLX9052 based PCI adaptors
 
 Package: kmod-hermes
@@ -5069,11 +5069,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 32087
+Installed-Size: 32133
 Filename: kmod-hermes_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 32950
-MD5Sum: 912ad4b20218802861e89d965bd7ec40
-SHA256sum: fc8bf00ea6ac99a772ccb6eb6a3908d305e5d13b1e22294e904d0b49b70b3736
+Size: 33031
+MD5Sum: 5bc453227d44e19af0cc0c1db96af474
+SHA256sum: 104794f169c0f78480525723bf7d213cf2d1772d7993904749ee8a16f0d68ed0
 Description:  Kernel support for Hermes 802.11b chipsets
 
 Package: kmod-hfcmulti
@@ -5144,11 +5144,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-hostap
 Source: package/kernel/hostap-driver
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 26546
+Installed-Size: 26547
 Filename: kmod-hostap-pci_3.18.45-ar71xx-2_ar71xx.ipk
-Size: 27249
-MD5Sum: 3c893bc2ce9dfb5493894ef2fa2d35a1
-SHA256sum: 76df64214a8ca17fa305f624cdf324a85a151ca5b846ee86f3e5f205ab349951
+Size: 27255
+MD5Sum: 40221553e04d7cb2fa3c34276f71e4bc
+SHA256sum: 21a8a565ed767cb65a75527e4e90a78a37fbe1a541dc8a7e277dd40601c30009
 Description:  Host AP is a driver for 802.11b wireless cards based on Intersil 
  Prism2/2.5/3 chipset. It supports so called Host AP mode that allows the 
  card to act as an IEEE 802.11 access point.
@@ -5160,11 +5160,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-hostap
 Source: package/kernel/hostap-driver
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 28614
+Installed-Size: 28615
 Filename: kmod-hostap-plx_3.18.45-ar71xx-2_ar71xx.ipk
-Size: 29446
-MD5Sum: 35fb5374327b14fc41df74700de4d393
-SHA256sum: 195105efe3b5beae647cc4e5d15b64fe12aa423120b4359422b730a7336f13a8
+Size: 29434
+MD5Sum: 26482a96eaad4bdfda11773a222e077c
+SHA256sum: 9fd74e50854203e3ee00cc3ad469264ed71d8c7ed4161a9a66ad1c8533d0d8ef
 Description:  Host AP is a driver for 802.11b wireless cards based on Intersil 
  Prism2/2.5/3 chipset. It supports so called Host AP mode that allows the 
  card to act as an IEEE 802.11 access point.
@@ -5177,11 +5177,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-lib80211, wi
 Source: package/kernel/hostap-driver
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 58464
+Installed-Size: 58462
 Filename: kmod-hostap_3.18.45-ar71xx-2_ar71xx.ipk
-Size: 59287
-MD5Sum: fe6fa2c464ea64145029e22d9f5587ad
-SHA256sum: f11e42ddffcdee4dbbaf6fa8f84aa8eb167ac7f7f1943e70155561d9b93bf691
+Size: 59264
+MD5Sum: 6da94e8e3c176db6bfb151b3b55115fa
+SHA256sum: 79311fdb2fada0e6d09105bff963ccb7c40c88ef02ba9aa299c6f99ab77b4c06
 Description:  Host AP is a driver for 802.11b wireless cards based on Intersil 
  Prism2/2.5/3 chipset. It supports so called Host AP mode that allows the 
  card to act as an IEEE 802.11 access point.
@@ -5510,11 +5510,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-i2c-core, km
 Source: package/kernel/i2c-gpio-custom
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 1655
+Installed-Size: 1654
 Filename: kmod-i2c-gpio-custom_3.18.45-2_ar71xx.ipk
-Size: 2408
-MD5Sum: 5a16650efb33bd1f268d8da3e5b2afed
-SHA256sum: c0a9d9f14461b793a56a1f2c8f56386171097ecd4769ffeaabe7d7b08563c2be
+Size: 2410
+MD5Sum: 26d48e3a85748800af35d407813ae5d2
+SHA256sum: ba3ddc7e43c80946cf82930848f23fb1c5535f999d9bdb821ce2ad429d8bbf43
 Description:  Kernel module for register a custom i2c-gpio platform device.
 
 Package: kmod-i2c-gpio
@@ -6072,11 +6072,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 6718
+Installed-Size: 6722
 Filename: kmod-ipt-account_3.18.45+2.5-1_ar71xx.ipk
-Size: 7578
-MD5Sum: 721d9de48e5bf7b2ec45488e042156cc
-SHA256sum: 7853d01b76ea1403ccceb45e59281c37b465da41e1071822141574aee461db16
+Size: 7584
+MD5Sum: 7cc1556a4dab62559d7fddf8b28e87e3
+SHA256sum: 953490b34033ead9c73e8fe557720b8721508d1e3c3ee1a3825cff5a1dfa4ed5
 Description:  ACCOUNT netfilter module
 
 Package: kmod-ipt-chaos
@@ -6087,11 +6087,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2323
+Installed-Size: 2322
 Filename: kmod-ipt-chaos_3.18.45+2.5-1_ar71xx.ipk
-Size: 3168
-MD5Sum: d84ff443c992f3b1e0cd510c175e4f8d
-SHA256sum: 2845379d3370a4b4efdf329ab14c4b963e43a2dd8d625672616e7bde0c5e26ea
+Size: 3164
+MD5Sum: a50bd9624a23ab41835f680717382f04
+SHA256sum: d1ca7ace871aac8d5aaee18043d3e8ab0ef308de099516bd6165110fd6bc1fdf
 Description:  CHAOS netfilter module
 
 Package: kmod-ipt-cluster
@@ -6152,11 +6152,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 825
+Installed-Size: 822
 Filename: kmod-ipt-compat-xtables_3.18.45+2.5-1_ar71xx.ipk
-Size: 1693
-MD5Sum: 7d16e68a7c34612ab768b26b54f70f8f
-SHA256sum: 2d68f7a03091c305f56fd4f4030d45efaae203f2ebc468429660154687a1e057
+Size: 1690
+MD5Sum: e95312fcf6a0918c1ca5543fdf5e1bb8
+SHA256sum: 8f4b0624d1c07490dedf68e412beef7d6e9e050b057e9697d811ca16a4f792e0
 Description:  API compatibilty layer netfilter module
 
 Package: kmod-ipt-condition
@@ -6167,11 +6167,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2491
+Installed-Size: 2489
 Filename: kmod-ipt-condition_3.18.45+2.5-1_ar71xx.ipk
-Size: 3326
-MD5Sum: 4187bd5fa2a9ad02c1c437d4aa62c0a8
-SHA256sum: 1eb047bc7b70d4e5c9b98a58a06ea06a33389ae18252baa9864d7dd7d45aa68a
+Size: 3320
+MD5Sum: 98896d9c9026570132635acbcdb69582
+SHA256sum: a6beb1006e84d5aa381ebf81cbe81c009cef5695d2da4d7115a088f990de19bb
 Description:  Condition netfilter module
 
 Package: kmod-ipt-conntrack-extra
@@ -6247,11 +6247,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1933
+Installed-Size: 1934
 Filename: kmod-ipt-delude_3.18.45+2.5-1_ar71xx.ipk
-Size: 2802
-MD5Sum: f745e0a6fe321155a39bbd19ac48e4b0
-SHA256sum: 5a9f076c142c0976bf3591dc8fb6ce11f4f559cb430b6714ebc1e3bb9f4c3ad1
+Size: 2807
+MD5Sum: ef85980e955593351ba54f96f620ba26
+SHA256sum: b8e8ce59e5a5733011147c77efd9e7dcda6fed6a61e16541944f08b0c6f6e93f
 Description:  DELUDE netfilter module
 
 Package: kmod-ipt-dhcpmac
@@ -6264,9 +6264,9 @@ Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 1603
 Filename: kmod-ipt-dhcpmac_3.18.45+2.5-1_ar71xx.ipk
-Size: 2486
-MD5Sum: 6c8711f409419fa613b0e8b74ab98b96
-SHA256sum: a7abb54b22c6b8928ca9f505acfe7eac818eb2637da0ca9eaf3e963cb40ed3f2
+Size: 2478
+MD5Sum: b19c3d92908120c49057354c55094ec8
+SHA256sum: 89d403ee4105cde5cad68add0fa2b3c893a90b9303091d5536f71f071b54bdb7
 Description:  DHCPMAC netfilter module
 
 Package: kmod-ipt-dnetmap
@@ -6277,11 +6277,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 7410
+Installed-Size: 7412
 Filename: kmod-ipt-dnetmap_3.18.45+2.5-1_ar71xx.ipk
-Size: 8279
-MD5Sum: 0e242aaa555f92e62c1536c95946d000
-SHA256sum: 8cfe093c2148b1e3b9d560c8cf01e30dc52d6bfd7771a10f2f78208773832c16
+Size: 8278
+MD5Sum: 4ca5ac10282342006c06d47668f2af0d
+SHA256sum: 848227a363c21da1833b3c89241256a2378f7e1151b50bbe14e4740afd732cc8
 Description:  DNETMAP netfilter module
 
 Package: kmod-ipt-extra
@@ -6330,11 +6330,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1271
+Installed-Size: 1275
 Filename: kmod-ipt-fuzzy_3.18.45+2.5-1_ar71xx.ipk
-Size: 2134
-MD5Sum: 9c0e5c988b2293f6902ab317359dbbbc
-SHA256sum: 7fab9825beb28302535f3fa067f3a4d9e17fab5f826d169f0d2b676d2355db3d
+Size: 2139
+MD5Sum: c5cc66d41e5e4eb1c1b34e3bf06ec7e0
+SHA256sum: a2ca93bf2424060ac4940387f41b37ad187cbbf48c8e12b5d3d7abf9e82c8b44
 Description:  fuzzy netfilter module
 
 Package: kmod-ipt-geoip
@@ -6345,11 +6345,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2823
+Installed-Size: 2825
 Filename: kmod-ipt-geoip_3.18.45+2.5-1_ar71xx.ipk
-Size: 3648
-MD5Sum: 85adaf601c4c259c38dc0270845af85b
-SHA256sum: 2d488510f249d2a55ca79f2fe6f6cda2c366cfa46959a6314a05dbb9956aa781
+Size: 3656
+MD5Sum: 0ea513494cef56975d48d69ef6237efa
+SHA256sum: 1b4b8db619e27acf556f1d29842f6b4af206f522a39a30555ff966a3836115d1
 Description:  geoip netfilter module
 
 Package: kmod-ipt-hashlimit
@@ -6375,11 +6375,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1121
+Installed-Size: 1123
 Filename: kmod-ipt-iface_3.18.45+2.5-1_ar71xx.ipk
-Size: 1976
-MD5Sum: b8ef67646d1c6415c4c35b7606e049b4
-SHA256sum: 3ceb29ed457ae0a629d70f6580b83106af2d51111588b6cff569a8d73bc5b345
+Size: 1971
+MD5Sum: 053bd01296f079be8c0b42798ef0798c
+SHA256sum: ecd42e888efebceda17b699ba3ad714cb859127f77de3c509f5c098763e91366
 Description:  iface netfilter module
 
 Package: kmod-ipt-ipmark
@@ -6390,11 +6390,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1110
+Installed-Size: 1109
 Filename: kmod-ipt-ipmark_3.18.45+2.5-1_ar71xx.ipk
-Size: 1972
-MD5Sum: 493b0b21f196462b51a4d6079de5b025
-SHA256sum: ee486d5ae247d90da6f044362e07163725676ef55ce1768242ee090d982ba704
+Size: 1978
+MD5Sum: 430624210dee5eaaed22d995471393b9
+SHA256sum: c611e9bad83e6dc401dab862c8859ee040a08d89cc4cfdf48ce2bdb4dad7dfa1
 Description:  IPMARK netfilter module
 
 Package: kmod-ipt-ipopt
@@ -6432,11 +6432,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 5125
+Installed-Size: 5127
 Filename: kmod-ipt-ipp2p_3.18.45+2.5-1_ar71xx.ipk
-Size: 5952
-MD5Sum: 1b367c081de2fbaa14777da628f0b00e
-SHA256sum: f1f26b941a1dcdcba4a4626fd7d2c932372c4dffb55729b4cb8d0a4ebcfb9b79
+Size: 5946
+MD5Sum: fdc2b68e5848cd58aad87841b3e2ee8a
+SHA256sum: dcda8e7156855a18827b25ed8d29a70ab06870b242403f7f8a550b4080f3adaf
 Description:  IPP2P netfilter module
 
 Package: kmod-ipt-iprange
@@ -6498,11 +6498,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 955
+Installed-Size: 956
 Filename: kmod-ipt-ipv4options_3.18.45+2.5-1_ar71xx.ipk
 Size: 1812
-MD5Sum: c883598d6111228cb347f03641c1617b
-SHA256sum: 3f3f8f47b7d4b367693b211e4ac635e16b6575b8c1698be75a9681b857835dc4
+MD5Sum: d1ac6e34b0a528b06e2abdb3326986bd
+SHA256sum: 7ea4791f4fca0d4533c8e1da64bf15a59e820799a0abb6fe174fd85f15002de3
 Description:  ipv4options netfilter module
 
 Package: kmod-ipt-led
@@ -6528,11 +6528,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2134
+Installed-Size: 2135
 Filename: kmod-ipt-length2_3.18.45+2.5-1_ar71xx.ipk
-Size: 3011
-MD5Sum: 01d96f8dad472d7e3d2adf16dc3a8113
-SHA256sum: 2c4f478ec0b4bfd52701382729910bc78a81d20b4e3d582246851e54fc63ffb4
+Size: 3007
+MD5Sum: 9cce1c69a59f854310e3108541d104e9
+SHA256sum: e1fd9e12641c3b5c35d3070c9c4efd516da017c7f76808119ccd1f2020520481
 Description:  length2 netfilter module
 
 Package: kmod-ipt-logmark
@@ -6543,11 +6543,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1934
+Installed-Size: 1933
 Filename: kmod-ipt-logmark_3.18.45+2.5-1_ar71xx.ipk
-Size: 2809
-MD5Sum: 9e858714a4a41d55e4ecf595b39a6f29
-SHA256sum: c3d99174021150f1aadbb33e12d242a2876330db95a79539a00ed24093067603
+Size: 2807
+MD5Sum: 414a7dd36e3d303d1718c56002951248
+SHA256sum: 935c901ecd20f94afa160ce6c18fd73a1d30dbe0a1942d9fc3c9721ff70789d2
 Description:  LOGMARK netfilter module
 
 Package: kmod-ipt-lscan
@@ -6558,11 +6558,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2178
+Installed-Size: 2179
 Filename: kmod-ipt-lscan_3.18.45+2.5-1_ar71xx.ipk
-Size: 3004
-MD5Sum: 340481afcd9c8806b373127bbaa8d9e8
-SHA256sum: 6ad857729e6dca1e6cb7387da7ba9ec28c2a5389bfd54389ce50cbc49c6af242
+Size: 3002
+MD5Sum: 7ccf049a997d35f573a09f7abd5b4a6f
+SHA256sum: 0a61aff34087be948765dcdaeb7874df4dc1708cb462d16a04c80b14b07fd114
 Description:  lscan netfilter module
 
 Package: kmod-ipt-lua
@@ -6573,11 +6573,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 71359
+Installed-Size: 71365
 Filename: kmod-ipt-lua_3.18.45+2.5-1_ar71xx.ipk
-Size: 71764
-MD5Sum: db2ebaad8bb2e3b25777e8e1ab54931a
-SHA256sum: ced285f3212d0943c58eaf889a222e7d27e4c732a8718b30ace458d691f1736d
+Size: 71783
+MD5Sum: 41e31de615cdd361e266524e1e8dfa51
+SHA256sum: a806497e7de4dadb6ae64cac67941e31ef45f2228f8a1730f8fb981c34fcd59d
 Description:  Lua PacketScript netfilter module
 
 Package: kmod-ipt-nat-extra
@@ -6640,9 +6640,9 @@ Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 7128
 Filename: kmod-ipt-nathelper-rtsp_3.18.45+2.5-1_ar71xx.ipk
-Size: 7996
-MD5Sum: 3f787f625a1e9e38daa213046116402a
-SHA256sum: 75bbeed975c5231912b2591507c041f13c4c24264875d5c1d4ae1eb4c80a8187
+Size: 7992
+MD5Sum: 1cb4b3c8a2cccc42a88f85580d2cd4c5
+SHA256sum: 817bfd52c9d1f60741ff9047c7dab9e9c6c4413424a61f9a8ff9c631e6d27da3
 Description:  RTSP Conntrack and NAT netfilter module
 
 Package: kmod-ipt-nflog
@@ -6687,11 +6687,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 2704
+Installed-Size: 2701
 Filename: kmod-ipt-psd_3.18.45+2.5-1_ar71xx.ipk
-Size: 3526
-MD5Sum: 0b5889825ad389b25c9b701323b2458c
-SHA256sum: cab3d01bd2fc1baed0e52b62ce5657b684516a7741f361085203d9e39fed00dc
+Size: 3527
+MD5Sum: fed16f2217393be60b0ee1670bac6e0a
+SHA256sum: f0179d74eb755fda0d5e3440f1d38f4d5e1db9e35e960df9fefd1674569fb918
 Description:  psd netfilter module
 
 Package: kmod-ipt-quota2
@@ -6702,11 +6702,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 3044
+Installed-Size: 3041
 Filename: kmod-ipt-quota2_3.18.45+2.5-1_ar71xx.ipk
-Size: 3878
-MD5Sum: 97d3c967397f56556b0400d6faf7d89a
-SHA256sum: 09993e5a57d325f0aca2abb4d1153850105cff9760b09d18dd2e5f0fd9dc0da4
+Size: 3867
+MD5Sum: 6701ade7fe368477a128bd85a8328fef
+SHA256sum: 204f6dfdd7e51c3819f6bd233ccc2ecea28ba9e7d318f0f2c350e51a691aefdd
 Description:  quota2 netfilter module
 
 Package: kmod-ipt-sysrq
@@ -6717,11 +6717,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 3527
+Installed-Size: 3531
 Filename: kmod-ipt-sysrq_3.18.45+2.5-1_ar71xx.ipk
-Size: 4355
-MD5Sum: 424fdd72f94f2e6b9001744c9d2efc17
-SHA256sum: e654d3a8c8b309bcf6497770bedd193342f122f4634f090dbe0c6cd92ae2bc0b
+Size: 4345
+MD5Sum: ebb99c482adb70b85119b9708ebf82a0
+SHA256sum: 63fe7f007eb59a7dbabaf398c62ed811da5fc8311026536777372ff656e51e61
 Description:  SYSRQ netfilter module
 
 Package: kmod-ipt-tarpit
@@ -6732,11 +6732,11 @@ License: GPL-2.0
 Section: kernel
 Maintainer: Jo-Philipp Wich <jow@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 3521
+Installed-Size: 3522
 Filename: kmod-ipt-tarpit_3.18.45+2.5-1_ar71xx.ipk
-Size: 4365
-MD5Sum: b7cea7782a6ee0974a2614b96d143be7
-SHA256sum: c2fff8feff55f7a9aec928505daf72bc0f9f91803bf2b36db65cf5effd898e50
+Size: 4369
+MD5Sum: 3b193baaa4eb2233878918eafe3a904b
+SHA256sum: 161bea75f401b87cedd93e3dc2f2ed3ee2d9d03c3aafa5bae914a71f0b9e9f0d
 Description:  TARPIT netfilter module
 
 Package: kmod-ipt-tee
@@ -6898,11 +6898,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 26045
+Installed-Size: 26046
 Filename: kmod-iwl-legacy_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 26596
-MD5Sum: df8f9203464f5baaaab9707a20911c8e
-SHA256sum: 243026309ca976451299e438526246c9a43231915332525424b85ccd9b2e26d0
+Size: 26600
+MD5Sum: 601e30e4bc4455bba26d8d16eb867e3b
+SHA256sum: f7aec4f4166db5a6d9ec4c612f96870438dfec92b0d981a505fe57effc924d82
 Description:  iwl-legacy kernel module for legacy Intel wireless support
 
 Package: kmod-iwl3945
@@ -6912,11 +6912,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 31808
+Installed-Size: 31809
 Filename: kmod-iwl3945_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 32704
-MD5Sum: 8b1fd8373b3f2dc33001e7f3454ddbdf
-SHA256sum: 30943ddfe3bbb4bece19b5e96e229fd481614361c901cf9ce5791822369d121e
+Size: 32708
+MD5Sum: 7a5b2d43e445536a40cc64cf6a2bfc37
+SHA256sum: a8f256b678f55e02da431e3568857466b2fb2f05311edaf08f54d7fac2015dab
 Description:  iwl3945 kernel module for Intel 3945 support
 
 Package: kmod-iwl4965
@@ -6926,11 +6926,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 52031
+Installed-Size: 52032
 Filename: kmod-iwl4965_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 52804
-MD5Sum: ddbc09b55bc75b003dfb06d007b3b36b
-SHA256sum: 15a907d4380fa4fd75945b538ae719b904aecde3081fc2e34da5965c0212be1f
+Size: 52812
+MD5Sum: 35dc75650fa2373a8b948fb790dcab7d
+SHA256sum: 62336170f2a25bc793e55138baf9a91c0ac15230069d910d9e460a1efcce4482
 Description:  iwl4965 kernel module for Intel 4965 support
 
 Package: kmod-iwlwifi
@@ -6942,9 +6942,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 232547
 Filename: kmod-iwlwifi_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 232275
-MD5Sum: 8a398f6a56ac4f9757948981a29bc97d
-SHA256sum: ba6f31854cbbdb80388b1a5f26874150731c33dd4b9c8c33af4855dfc75a6c1f
+Size: 232280
+MD5Sum: 77e021a7f37363a790bf6005fbbeb8a4
+SHA256sum: 2577e2f3c92f1c8057e7d4237632881db450353d47adee4f9c0f6d1c3c8aeb45
 Description:  iwlwifi kernel module for
  Intel Wireless WiFi Link 6250AGN Adapter
  Intel 6000 Series Wi-Fi Adapters (6200AGN and 6300AGN)
@@ -7426,11 +7426,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 10420
+Installed-Size: 10418
 Filename: kmod-lib80211_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 11286
-MD5Sum: df7d81925dd50091d4bd5497d05d35da
-SHA256sum: 13d31cfbec503b61ce6a48caa7d95201b30467399666c5e940eda11964ef2f8b
+Size: 11275
+MD5Sum: 9d0b7b9ac72ee4c5b5727333c6231039
+SHA256sum: 20203589ac3604ab1bc3b09dae7169536622f65e8ea01b10632239c5718967d8
 Description:  Kernel modules for 802.11 Networking stack
  Includes:
  - lib80211
@@ -7445,11 +7445,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 33427
+Installed-Size: 33431
 Filename: kmod-libertas-sdio_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 34295
-MD5Sum: cc0ff2fd742a179d6a1ae3e016732281
-SHA256sum: b89d4e4abe6fc910b81657b74431a5c91e500886d677122ff808061ce699eb39
+Size: 34300
+MD5Sum: 11c56675b09f83746894e141de49619e
+SHA256sum: 3c0991b57fad81518975aa4d7f171032b4265590768e078617bc7936ffcc1508
 Description:  Marvell 88W8686 Wireless Driver
 
 Package: kmod-libertas-spi
@@ -7459,11 +7459,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 33191
+Installed-Size: 33192
 Filename: kmod-libertas-spi_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 34100
-MD5Sum: ef6af705fe9beb5917a05882a70e27c9
-SHA256sum: ef88b2b7a9ec6cac18ac91e687fb7547bf8fbd0eb1772eea8a32f1c0758fa755
+Size: 34078
+MD5Sum: 0ada4863141e8579e4d17c08e34e6792
+SHA256sum: f454b752af0365065ebbf02594d5fde93c90ac37cf59c82b8e62518781e43a7d
 Description:  Marvell 88W8686 SPI Wireless Driver
 
 Package: kmod-libertas-usb
@@ -7473,11 +7473,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 31770
+Installed-Size: 31772
 Filename: kmod-libertas-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 32657
-MD5Sum: 8891dbfefaa5a72be4a7f104f4cad0dc
-SHA256sum: 0a045e8fd0713c1bbc52e840b3406b4ca804a59fea68afe44f9ac2c6279fbb22
+Size: 32666
+MD5Sum: a6d09a1025d2a58283ed5e5189ec5f3a
+SHA256sum: 68a0c99510a5e843f52c1cd579bbf11d773b7dd6ed2e555b4b5ab958b75aae5d
 Description:  Marvell 88W8015 Wireless Driver
 
 Package: kmod-libphy
@@ -7532,11 +7532,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 20067
+Installed-Size: 20070
 Filename: kmod-mac80211-hwsim_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 20846
-MD5Sum: d75e3db854ff56fcc76030d3dd3092aa
-SHA256sum: d925ceb4ed6248919089a60aec99732bc26d673ee783adc0fc8e71ccd58bc520
+Size: 20844
+MD5Sum: c000995733ee025416b3983b0b875578
+SHA256sum: 6fb4e6954f57d6076cac162f10ae52f168bd7700f52063ca13d0dd4b0280e0cd
 Description:  mac80211 HW simulation device
 
 Package: kmod-mac80211
@@ -7546,11 +7546,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 235783
+Installed-Size: 235781
 Filename: kmod-mac80211_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 234882
-MD5Sum: d0756d226bb2e455bcc88aa75da54128
-SHA256sum: ac8022c8a708bc1342da24f6983cf55f56802726140447a6d392a267afe41e90
+Size: 234854
+MD5Sum: 646c830ab525c2e5ecefe7ce1eb0f3f0
+SHA256sum: f2bc0f98127ce1d086b7b0202dfed3e3484f694dfda2b727c66fdcdd1f2d487a
 Description:  Generic IEEE 802.11 Networking Stack (mac80211)
 
 Package: kmod-macvlan
@@ -7721,11 +7721,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-mmc-spi, kmo
 Source: package/kernel/mmc_over_gpio
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 4364
+Installed-Size: 4372
 Filename: kmod-mmc-over-gpio_3.18.45-4_ar71xx.ipk
-Size: 5224
-MD5Sum: 12ce16c44370426744a9b1b28b96e7c6
-SHA256sum: f4bdc77a2d0e4d55f8025c4d2361d3feea1c4e38c92ad221125f0eaa0072c022
+Size: 5232
+MD5Sum: 224d1ded93a11dd3b5b6f89fd6785085
+SHA256sum: a471d17563a31e85dc405c43be79347c9a58be58880f2963da2f494b1aaa67df
 Description:  Support for driving an MMC/SD card over GPIO pins via SPI.
 
 Package: kmod-mmc-spi
@@ -7780,11 +7780,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 30522
+Installed-Size: 30518
 Filename: kmod-mt7601u_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 31322
-MD5Sum: 08ca0e72a320194ce3b38bcbb23b0c87
-SHA256sum: e145844cf5ce16505324841336180b035739dcbc53a68909e30544a9aad08eac
+Size: 31312
+MD5Sum: db218ff6869e11fade5cc1385794a751
+SHA256sum: 290da3ca2eb4ffef266e78de286d99aff844ae58163da2bd0964edc52ef558b8
 Description:  MT7601U-based USB dongles Wireless Driver
 
 Package: kmod-mt76
@@ -7795,11 +7795,11 @@ License: GPLv2
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 102063
+Installed-Size: 102067
 Filename: kmod-mt76_3.18.45+2016-03-03-1_ar71xx.ipk
-Size: 103003
-MD5Sum: 0f8d877b2559c34483d0c84b59283dfa
-SHA256sum: d54f34cd09807b302e3d4579bd6aee1354f423055ec47b1186f620af774591e8
+Size: 103026
+MD5Sum: 521258c37238ef3c4857f4990fff7c2e
+SHA256sum: 63dea639084a54813376d0159138689db36e6e9360290628555201df29783aac
 Description:  MediaTek MT76x2 wireless driver
 
 Package: kmod-mtdtests
@@ -7824,11 +7824,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 136494
+Installed-Size: 136487
 Filename: kmod-mwifiex-pcie_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 136631
-MD5Sum: b4b3cfda1286e756aea7b4fb59b40c52
-SHA256sum: 50cd8e4a23097e2b89ef9e31f97b705f6c333b72149b2604aae757ee5fcac1cb
+Size: 136596
+MD5Sum: acfa6859142711aecf6df7c622315fd4
+SHA256sum: 0527dba0f1646890cf57c4060cd3f4343d0092855cc58210c70ad0314b21fcfe
 Description:  Kernel modules for Marvell 802.11n/802.11ac PCIe Wireless cards
 
 Package: kmod-mwl8k
@@ -7840,9 +7840,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 24900
 Filename: kmod-mwl8k_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 25695
-MD5Sum: 8eabb88c49c241a5086bde291699c5d3
-SHA256sum: a784679e832705d845e46e54ca14098acbf9090fbad8bb81d913c13d0f3f0b84
+Size: 25694
+MD5Sum: 9146471cf0043345c42fbd580440dcca
+SHA256sum: 2aa214801eccad687e276fdef3c000cfed0f513afacdb30353925bf50e33b24e
 Description:  Kernel modules for Marvell TOPDOG 802.11 Wireless cards
 
 Package: kmod-natsemi
@@ -8516,11 +8516,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 18814
+Installed-Size: 18811
 Filename: kmod-p54-common_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 19555
-MD5Sum: 4c7513de22fcdaea52c1e17b88071482
-SHA256sum: 5c5705e1f0f0075664264950541e75a74d96491be29e8af75c3cd4002a02e091
+Size: 19547
+MD5Sum: 481c3760e2515758766d841cb1405350
+SHA256sum: a977d146179572714ffabbd391170cc86e3a99ca3bb8bd9d91348e18f252ee45
 Description:  Prism54 Drivers (COMMON)
 
 Package: kmod-p54-pci
@@ -8530,11 +8530,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 28949
+Installed-Size: 28946
 Filename: kmod-p54-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 29805
-MD5Sum: 41e53270a583886162c7f1cb1f9aaaf1
-SHA256sum: 555a1f2158c1169b3f14ecc4d61c560c76155d1dcad08ba579ecef82c5ec6a1e
+Size: 29796
+MD5Sum: 521f0e7becbedc2a4cb677374f494af6
+SHA256sum: 3a56b3939a010a15e9d101ceba5a74efa7845993b4fed0f3b1fc6ce90722a4f2
 Description:  Prism54 Drivers (PCI)
 
 Package: kmod-p54-usb
@@ -8546,9 +8546,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 31657
 Filename: kmod-p54-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 32487
-MD5Sum: 56cf5a348cc67d0bdc16ea9039624c4b
-SHA256sum: c8dfe70eddee42cafa05ea30a619c1abf5436a105c0ce82925fb9c2b3ed964c6
+Size: 32486
+MD5Sum: 96d984f841a557d2b0ce0520a26696d8
+SHA256sum: 7db01554b9856fd03d06ca3d0ffe0c519299f0be7f1856f8af5c51ca794e08e3
 Description:  Prism54 Drivers (USB)
 
 Package: kmod-pcnet32
@@ -8818,11 +8818,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-input-gpio-e
 Source: package/kernel/rotary-gpio-custom
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 1645
+Installed-Size: 1646
 Filename: kmod-rotary-gpio-custom_3.18.45-1_ar71xx.ipk
-Size: 2405
-MD5Sum: e758072f4fa4ccec1acc09784a892dca
-SHA256sum: 34212c32d4804650e53d9aa63d2f86da624d1f98c545750e65b66f573492572d
+Size: 2404
+MD5Sum: c804686d1158df70426a7ef87865a294
+SHA256sum: ae75d0b295edea72a6c68f52a401be57fae64aa41424b5dde7eeda29735737e6
 Description:  Kernel module for register a custom rotary-gpio-encoder platform device.
 
 Package: kmod-rt2400-pci
@@ -8832,11 +8832,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 7115
+Installed-Size: 7114
 Filename: kmod-rt2400-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 7968
-MD5Sum: 3e423a1ee48eab79b51ea59ba4805ffd
-SHA256sum: 7b48ec9dd1ed0c11bf66309c935d44b88088ce8729aa196eab53c34a84fb8082
+Size: 7970
+MD5Sum: 844ef35f77f89a90f6c317e9f089f070
+SHA256sum: d33ccb3ae085656d50fd5ea60d42feafe3cbc9344f1e84010eac3e49e85c8072
 Description:  Ralink Drivers for RT2x00 cards (RT2400 PCI)
 
 Package: kmod-rt2500-pci
@@ -8846,11 +8846,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 8146
+Installed-Size: 8149
 Filename: kmod-rt2500-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 8934
-MD5Sum: 1af4d8be4c1d0918af63363389770896
-SHA256sum: a44675e3bcb99bfd34450380dafd571a60054a082e792d0a6e0fc67a6c068ac9
+Size: 8939
+MD5Sum: 12388de9f1e87b6c4420c8ab0e6e8bd1
+SHA256sum: 503a6eb0253e391633c7f695d20e1fe93ef50a5b1feb601959730795d4ad509f
 Description:  Ralink Drivers for RT2x00 cards (RT2500 PCI)
 
 Package: kmod-rt2500-usb
@@ -8862,9 +8862,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 8914
 Filename: kmod-rt2500-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 9694
-MD5Sum: e57cf9f047d9875fb2826ae58fef6211
-SHA256sum: ce910a6a95ce53a285b3f9d229a0c66ec4942a6300856f04077c100ec9ed3b35
+Size: 9687
+MD5Sum: 869bf033dcfda2158919c2133fe1aa9f
+SHA256sum: 2b5782076b0c5439d9c9ffe3758746ccf5601d4909eae7001f3ce1f9b384f245
 Description:  Ralink Drivers for RT2x00 cards (RT2500 USB)
 
 Package: kmod-rt2800-lib
@@ -8874,11 +8874,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 40234
+Installed-Size: 40235
 Filename: kmod-rt2800-lib_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 40195
-MD5Sum: f28cc837a53f593324f49c4e8d3b31eb
-SHA256sum: 3372c8f2e48f9d10612e3ee283996f56bd66cbab4c23cdff73dd71b99b64eb6a
+Size: 40186
+MD5Sum: 1c827cbab4e02b78ac1bbd87d8966265
+SHA256sum: 1a63bfa3122c763e28b499a874fdaffb72c5939a53795d4c60c628a75dd3a51a
 Description:  Ralink Drivers for RT2x00 cards (rt2800 LIB)
 
 Package: kmod-rt2800-mmio
@@ -8888,11 +8888,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 4257
+Installed-Size: 4256
 Filename: kmod-rt2800-mmio_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 5033
-MD5Sum: 5e05598ba5b0c6ba71208262066a130c
-SHA256sum: 9419f18ea7450e697905d1ab5d98680ffee3259de4835a0b2316329fca6f378a
+Size: 5025
+MD5Sum: 2b7e81c7cd14085bd74369217a40d5df
+SHA256sum: 2ee70ac722d7e32ce384ccdc836d0d1a46d493634c322e70dbb0e6e28d9165a5
 Description:  Ralink Drivers for RT2x00 cards (RT28xx/RT3xxx MMIO)
 
 Package: kmod-rt2800-pci
@@ -8902,11 +8902,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 3650
+Installed-Size: 3651
 Filename: kmod-rt2800-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 4512
-MD5Sum: 8a36c657473f7c4c886dbd7d3fdb43b6
-SHA256sum: 273c3d7918ca747a6faaed51c95494c76caf42970b59a58c5d486f5f7099235b
+Size: 4510
+MD5Sum: 36cb63118dba8f613ee2ad3ab66ea19a
+SHA256sum: 9bf64f6e2004e6d3fa4f9a4d2022049fa28f09f18cf4a1dd4b59c9f1277ccb53
 Description:  Ralink Drivers for RT2x00 cards (RT2860 PCI)
 
 Package: kmod-rt2800-usb
@@ -8916,11 +8916,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 7718
+Installed-Size: 7716
 Filename: kmod-rt2800-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 8593
-MD5Sum: 8442fff41e7e531763a8bfb20b89a274
-SHA256sum: 98d14ad0a57e45ff75c0ee74e748022ec83eadad760028f69ffe9be7a0efa48e
+Size: 8589
+MD5Sum: b499a204a396a6e818c4dc9b8afc5b85
+SHA256sum: 4eac4f7ae79d40c3d10bba1a360f8afd7fe1e875e4260537f5e3248d248be2d6
 Description:  Ralink Drivers for RT2x00 cards (RT2870 USB)
 
 Package: kmod-rt2x00-lib
@@ -8930,11 +8930,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 20198
+Installed-Size: 20192
 Filename: kmod-rt2x00-lib_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 20987
-MD5Sum: 7ca689b8479a1d26ce0eeeee7ae3aace
-SHA256sum: bd9a3a11694a3a3dfdd5db9dacbeacb918531ea8a3e8eabca2af1a6ea30d008c
+Size: 20985
+MD5Sum: bcbdf8072115587d3c3864e941fedf30
+SHA256sum: 6b5bf54174a239225d2796032754fd062b788e03a8a6298a29654be4673bf47b
 Description:  Ralink Drivers for RT2x00 cards (LIB)
 
 Package: kmod-rt2x00-mmio
@@ -8944,11 +8944,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1910
+Installed-Size: 1912
 Filename: kmod-rt2x00-mmio_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 2711
-MD5Sum: d6eb81c286d5f06196822411fe287876
-SHA256sum: 888638f52b5fa8d1c362545cd5f90ef2201cf8c49035b0ada6f88372cccd7436
+Size: 2709
+MD5Sum: 8deff14055574d75dcae1453db4ffcf9
+SHA256sum: 9e84866e6b6edc4e873512af7d3a4962ba25e56516df24fff15aa88616c737d1
 Description:  Ralink Drivers for RT2x00 cards (MMIO)
 
 Package: kmod-rt2x00-pci
@@ -8958,11 +8958,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 1737
+Installed-Size: 1735
 Filename: kmod-rt2x00-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 2596
-MD5Sum: 589798340d66fadf74722618fdfd5591
-SHA256sum: b5b8d1a779b8f98c711ec5c6be2cc38e55cda77b1a78da35463cd511e3c316e2
+Size: 2592
+MD5Sum: 431d1b69e53a90f75994a201d29cda79
+SHA256sum: f380e3326343c4fe60dc75ad21a66d04c82761d3fc0634c822acb92711cbad85
 Description:  Ralink Drivers for RT2x00 cards (PCI)
 
 Package: kmod-rt2x00-usb
@@ -8972,11 +8972,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 5808
+Installed-Size: 5806
 Filename: kmod-rt2x00-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 6658
-MD5Sum: b10c8c6f2181a5e3cce04260592ad589
-SHA256sum: 3abaacc30112770e2b4ccc4b6e3ec8f42f894e293fb2ad8e3f3c1714ba4c7638
+Size: 6663
+MD5Sum: 0dd1b2c411a0d1bdbc49141cffafb74c
+SHA256sum: 02f3a22053b79cf365fc9d027b917f2ca5b262664fec09700af03d366994d150
 Description:  Ralink Drivers for RT2x00 cards (USB)
 
 Package: kmod-rt61-pci
@@ -8988,9 +8988,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 11619
 Filename: kmod-rt61-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 12479
-MD5Sum: 8495a13619f4721ad9e6d0edb8eef7dc
-SHA256sum: 49326663bd6814001917225638cb83e527635a0ec9cdbb82a0727ba1b33ad09c
+Size: 12477
+MD5Sum: 801c12931e5c6ccc3c4664db14962513
+SHA256sum: 3b9dbe1edf578fcac2209e8ba92c39946c16f33eb8eb555e313879efad7fc3d1
 Description:  Ralink Drivers for RT2x00 cards (RT2x61 PCI)
 
 Package: kmod-rt73-usb
@@ -9000,11 +9000,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 11522
+Installed-Size: 11523
 Filename: kmod-rt73-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 12354
-MD5Sum: f94cb11b26827d21c92fe13926114a74
-SHA256sum: 68f31be473ca2de6b71fb56e8b839c4b32af9081258ecfc9db8575ae19f209a0
+Size: 12361
+MD5Sum: 1df5bc269fdf5dcc4be48e7b98e58d1a
+SHA256sum: 7ca120fdca6a9ca4eeea5b92614f4cba849c9a8bda63399331a9d8ecdcd3ae6e
 Description:  Ralink Drivers for RT2x00 cards (RT73 USB)
 
 Package: kmod-rtl8180
@@ -9014,11 +9014,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 19947
+Installed-Size: 19943
 Filename: kmod-rtl8180_3.18.45+2016-01-10-1_ar71xx.ipk
 Size: 20649
-MD5Sum: 1fa8570a76dc46e4d8510e469a4b6cff
-SHA256sum: 2dd7cf60fa31f4d0d751eebcee092609d358a83a9b3c4505bdb8d459af3728db
+MD5Sum: 59af8114d5a4524c3f6e8196306e51a3
+SHA256sum: cd6f5b64d1360b78d39d9814e22bd569ab5469f56b0245d6eb58cedccd6137f1
 Description:  Realtek Drivers for RTL818x devices (RTL8180 PCI)
 
 Package: kmod-rtl8187
@@ -9028,11 +9028,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 22049
+Installed-Size: 22050
 Filename: kmod-rtl8187_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 22802
-MD5Sum: 1913b44b3e0cf9846d06f0bb35e07bbb
-SHA256sum: bb940295a6b48ac77099b25ce9873290973c234de84c858b758dc323f91c3268
+Size: 22803
+MD5Sum: a2ff9297acabc8ec5b1274c4b427939a
+SHA256sum: 20fea9382fc12844e224d816d45b8b261dea822e81acaa82c1050ae35210efec
 Description:  Realtek Drivers for RTL818x devices (RTL8187 USB)
 
 Package: kmod-rtl8192c-common
@@ -9042,11 +9042,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 17451
+Installed-Size: 17453
 Filename: kmod-rtl8192c-common_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 18234
-MD5Sum: 762cd7f35bbef2cd25f91ae02754c261
-SHA256sum: 98d216833f5feadf2d8b9fbffa99b6a229744fdb770a0766a2cefb8a4c9661f8
+Size: 18238
+MD5Sum: 1911b30e15a7604bad0a56244f5fb699
+SHA256sum: 0f98e01a4e0092346127f1e3ee23a291927e51648bb090f06605542ecda74c1c
 Description:  Realtek RTL8192CE/RTL8192CU common support module
 
 Package: kmod-rtl8192ce
@@ -9056,11 +9056,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 22952
+Installed-Size: 22951
 Filename: kmod-rtl8192ce_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 23805
-MD5Sum: e6875b63ce5387f91fa9a249cb12671f
-SHA256sum: a8929a336c0f0c9f6723f991376068f9a216f3bdffe71071b822488f9dc01e99
+Size: 23800
+MD5Sum: 8c95031a0c16da964f46c034cc7a6d27
+SHA256sum: 4dffeecc6790e47c334dea58bba7bf6eca3b8409b6c441f45ac93984ccdc2905
 Description:  Realtek RTL8192CE/RTL8188CE support
 
 Package: kmod-rtl8192cu
@@ -9070,11 +9070,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 26105
+Installed-Size: 26103
 Filename: kmod-rtl8192cu_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 26869
-MD5Sum: d4b904d03dfe83c73cccd5ec52857618
-SHA256sum: 649ba647b5e6dcfc06431f3f3007c6c12c0a9f566606765de65ce36d43734808
+Size: 26853
+MD5Sum: 11e0ba60b02a45521e6b6a90e6b0424e
+SHA256sum: 98b2eeba2492e96e51a81962e0d7fe08109e40363d17a2a65ef8b8aabff5d6ae
 Description:  Realtek RTL8192CU/RTL8188CU support
 
 Package: kmod-rtl8192de
@@ -9084,11 +9084,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 43349
+Installed-Size: 43347
 Filename: kmod-rtl8192de_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 44192
-MD5Sum: 74aac65d634958c7a27dd53d63554da7
-SHA256sum: a33ff5e1ff60a73c50278f8834c92565f5995f8e5ccd19437b136c52e3e2ca25
+Size: 44166
+MD5Sum: 120bc21b788c872c179960a31aa03c00
+SHA256sum: b2e6b060a527460ba1e649037fdfba4304aa127435224d48aa80572f7b284c86
 Description:  Realtek RTL8192DE/RTL8188DE support
 
 Package: kmod-rtl8192se
@@ -9098,11 +9098,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 27649
+Installed-Size: 27647
 Filename: kmod-rtl8192se_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 28467
-MD5Sum: ca60846fa9d8503d8f62a286fbd85016
-SHA256sum: b7cdcae1267971824995a95ee675d19f4f8d4632f2d4618779d597037858f265
+Size: 28461
+MD5Sum: 7a1ef65c54852e0b3f2a0082e30218db
+SHA256sum: 35682a2325994cc46283deb80e4d59862be86d896b7fca910d99d12d5f34ea9b
 Description:  Realtek RTL8192SE/RTL8191SE support
 
 Package: kmod-rtl8xxxu
@@ -9112,11 +9112,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 26808
+Installed-Size: 26809
 Filename: kmod-rtl8xxxu_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 28005
-MD5Sum: 5d62e732a8a0ece559ba501205c47f70
-SHA256sum: 6e3dd8f4a9471b54f943441b965cfe22ba3cc75295aba5f494cadbae3d00f6e3
+Size: 28019
+MD5Sum: f81de881697dd10f14fa243162195b04
+SHA256sum: 9aaf189df2f92d5d2007fc878edb27d597ae6d7c92867642c4b0b10466684523
 Description:  This is an alternative driver for various Realtek RTL8XXX
  parts written to utilize the Linux mac80211 stack.
  The driver is known to work with a number of RTL8723AU,
@@ -9148,9 +9148,9 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
 Installed-Size: 10621
 Filename: kmod-rtlwifi-pci_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 11475
-MD5Sum: 09e0882ef97ecfb0618373ef7e61c15c
-SHA256sum: 3e4c17edd0e654b37c017aff0a5c908b3bd15a54430c8a871aa5323512741509
+Size: 11460
+MD5Sum: dc23c01b96115df2fe3b6b5c775a4dcb
+SHA256sum: be7b0087fac7d7bca74b98d339a6006dca2abf809e7fa100695a48eadca2a99c
 Description:  Realtek common driver part (PCI support)
 
 Package: kmod-rtlwifi-usb
@@ -9160,11 +9160,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 6724
+Installed-Size: 6722
 Filename: kmod-rtlwifi-usb_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 7611
-MD5Sum: 59a1a458dc484aa1bed3a4d43298bd1e
-SHA256sum: 7472c94fa9b236cf758cd63968ae90a093381e6afbcd90712659c0be41fe4d3f
+Size: 7614
+MD5Sum: d83c0bd4833d94fdf790c061b9391c4c
+SHA256sum: 30d3fb92abea064980ae5eddc2a3003381b14c1dd60756e7007b56e8f5a62fe8
 Description:  Realtek common driver part (USB support)
 
 Package: kmod-rtlwifi
@@ -9174,11 +9174,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 26895
+Installed-Size: 26893
 Filename: kmod-rtlwifi_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 27653
-MD5Sum: 3d2a00bcea3c0c867036e3910f6cb94a
-SHA256sum: f8b8b159d96d3753461f9e508050b79740678b519abee226819f32e5e20afedf
+Size: 27657
+MD5Sum: 9fb6777980be1e9c7e89a908fba83153
+SHA256sum: d499d9cdae565d4def78bb37bbef11605843f759e16477444e35e256f20b47e9
 Description:  Realtek common driver part
 
 Package: kmod-sched-connmark
@@ -9586,11 +9586,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-spi-bitbang,
 Source: package/kernel/spi-gpio-custom
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 2492
+Installed-Size: 2490
 Filename: kmod-spi-gpio-custom_3.18.45-1_ar71xx.ipk
-Size: 3255
-MD5Sum: acc458726696ce8926269da479d8e753
-SHA256sum: 9b9fab0c42fede51f08362b3c60ccc79012d9499eb2ca69f55b4c54775f84bf2
+Size: 3253
+MD5Sum: 0fe86f57536799d3e91a91117952079e
+SHA256sum: f0a57a9e2c28f44dfd54655650ffe3b64c47cf30a018fc2c8ddda24d132d8b1b
 Description:  Kernel module for register a custom spi-gpio platform device.
 
 Package: kmod-spi-gpio-old
@@ -9779,11 +9779,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4)
 Source: package/kernel/trelay
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 2930
+Installed-Size: 2917
 Filename: kmod-trelay_3.18.45+0.1-1_ar71xx.ipk
-Size: 3910
-MD5Sum: 50cfb625ff85208fb8784ca378f3a18a
-SHA256sum: dbe2939d3b1046bf086f02ad82b3aac8bedbc8e9059adb2e890edebfd01e8a75
+Size: 3904
+MD5Sum: b5376036ca27f4b3e2938ce9bcc58c27
+SHA256sum: 0629c8314e5c8474a5abbd6213a65fcb377283a1c3a1b4ce9708d85a3046316a
 Description:  trelay relays ethernet packets between two devices (similar to a bridge), but
  without any MAC address checks. This makes it possible to bridge client mode
  or ad-hoc mode wifi devices to ethernet VLANs, assuming the remote end uses
@@ -11577,11 +11577,11 @@ Depends: kernel (=3.18.45-1-ceaeaa0a10b95a09a2865f80a127d4e4), kmod-w1, kmod-w1-
 Source: package/kernel/w1-gpio-custom
 Section: kernel
 Architecture: ar71xx
-Installed-Size: 1635
+Installed-Size: 1634
 Filename: kmod-w1-gpio-custom_3.18.45-3_ar71xx.ipk
 Size: 2391
-MD5Sum: 0b81edad5ce73da8f5c686ea7a2380ad
-SHA256sum: 60123d543663d66c5a59e96f961c5d3d6f944d796b4b27ec4da6ed5f883da685
+MD5Sum: 7515ceae3c48d46a403aef3b28013d2a
+SHA256sum: ad3f3a0472884e8344c7dc46d519da82f824ae26a5cbaafbeca09a2b17ca4387
 Description:  Kernel module to register a custom w1-gpio platform device.
 
 Package: kmod-w1-master-ds2482
@@ -11743,11 +11743,11 @@ Source: package/kernel/mac80211
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ar71xx
-Installed-Size: 37875
+Installed-Size: 37874
 Filename: kmod-zd1211rw_3.18.45+2016-01-10-1_ar71xx.ipk
-Size: 38678
-MD5Sum: 18245a5b105ace3f18425827582d1aba
-SHA256sum: 1ce5fe24ba86cf7e3faeb85464db03aebf9b729a9a68c319fa8b63e499f5c6c7
+Size: 38700
+MD5Sum: e892a640d01cb31bc20a2bf8611d8999
+SHA256sum: e2f1e56cbbd62e580cf2593e169088d7c702009196ecade00608745de4f0c7eb
 Description:  Zydas ZD1211 support
 
 Package: kmod-zram

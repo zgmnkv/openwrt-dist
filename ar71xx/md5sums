@@ -1,3 +1,18 @@
+135dfcacef57fd0eda3422a75a49c619 *openwrt-15.05.1-ar71xx-generic-archer-c5-squashfs-factory.bin
+88205c8781ebded354ebe007608dfe97 *openwrt-15.05.1-ar71xx-generic-archer-c5-squashfs-sysupgrade.bin
+7d1a7721e1aa4e906e125c1ddb4f7f76 *openwrt-15.05.1-ar71xx-generic-archer-c7-v1-squashfs-factory.bin
+03a9d31b73e8f50549ab2f07820fc6ca *openwrt-15.05.1-ar71xx-generic-archer-c7-v1-squashfs-sysupgrade.bin
+1225622c3dee5f5fc1a13d7b4c420fbe *openwrt-15.05.1-ar71xx-generic-archer-c7-v2-squashfs-factory.bin
+5905c508e928d52a56a36c9e19bf9dc5 *openwrt-15.05.1-ar71xx-generic-archer-c7-v2-squashfs-sysupgrade.bin
+f5535eea45bc4c3d765c495674b489c7 *openwrt-15.05.1-ar71xx-generic-root.squashfs
+7527f9c526f7c8f2c88c297bbe0672b4 *openwrt-15.05.1-ar71xx-generic-root.squashfs-64k
+e9053d0d5b602cbc84e5847881f8f6b7 *openwrt-15.05.1-ar71xx-generic-uImage-gzip.bin
+fc7b5daeca5078ac75cd676954a00390 *openwrt-15.05.1-ar71xx-generic-uImage-lzma.bin
+827ed0fdb3aaf24011492e5e7cb1d8b4 *openwrt-15.05.1-ar71xx-generic-vmlinux-lzma.elf
+9af2f65e084671b8dea1413d554f760f *openwrt-15.05.1-ar71xx-generic-vmlinux.bin
+1365de2420bb0163c9d5682d8da0a531 *openwrt-15.05.1-ar71xx-generic-vmlinux.elf
+51f1286da15d6e54fd0c6c7472983892 *openwrt-15.05.1-ar71xx-generic-vmlinux.gz
+21d741af5988cf001c4bfabacf3cf129 *openwrt-15.05.1-ar71xx-generic-vmlinux.lzma
 02a0b4cef815b315fc1ea81570d29349 *openwrt-ar71xx-generic-archer-c5-squashfs-factory.bin
 be3bd5cd85b33d2a0720d388c38b0859 *openwrt-ar71xx-generic-archer-c5-squashfs-sysupgrade.bin
 5aa9a7e01eff3d641df2772e84cdf7f5 *openwrt-ar71xx-generic-archer-c7-v1-squashfs-factory.bin
@@ -14,4 +29,4 @@ ee81f49bc20c246afb4cb6130e775255 *openwrt-ar71xx-generic-vmlinux-lzma.elf
 b8216be29ef788084b313b96eba90ad0 *openwrt-ar71xx-generic-vmlinux.elf
 5c9cbffc290c4d597bc35e0beffd07ff *openwrt-ar71xx-generic-vmlinux.gz
 91aa61778fbb182e92670d5cba653c07 *openwrt-ar71xx-generic-vmlinux.lzma
-b23ceb4985b9b4cafd052b78c2416163 *sha256sums
+5ff1fe97144710b679f4cd546881a577 *sha256sums
