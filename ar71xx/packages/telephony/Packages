@@ -6876,9 +6876,9 @@ Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
 Architecture: ar71xx
 Installed-Size: 2259
 Filename: kmod-dahdi-dummy_3.18.45+2.10.2-2_ar71xx.ipk
-Size: 3154
-MD5Sum: 6a641eb3ad88bfdb05dfe358ea6d8a8e
-SHA256sum: fdfd0d9d9496b351fd98d4b2af4ad255c6f2eb0e23081bed695a9e097ff2e4c4
+Size: 3160
+MD5Sum: 0928f4b5e05c30def91c34ae30746c9d
+SHA256sum: 19b6ca84e4da561df6c0c6f0540ae85495c3c990a4bda63c1028d292544b0370
 Description:  This package contains the dummy DAHDI driver providing only DAHDI timing
  without any real telephony hardware.
 
@@ -6891,11 +6891,11 @@ LicenseFiles: LICENSE
 Section: kernel
 Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
 Architecture: ar71xx
-Installed-Size: 1462
+Installed-Size: 1465
 Filename: kmod-dahdi-echocan-oslec_3.18.45+2.10.2-2_ar71xx.ipk
-Size: 2373
-MD5Sum: 60aa5fd59bdf1822986666d8759cc882
-SHA256sum: dfb5157db399dd025a60eaa235b92059c4be86562015534fa48cb1c1fc092039
+Size: 2375
+MD5Sum: 26d87bab440f0d9bd47eb4e1a8b368f6
+SHA256sum: 88ea2e8bee61364f4b94c8d1cb5ff2d1af657fd3e973d860232a8312023b7419
 Description:  This package contains DAHDI OSLEC echo canceller support.
 
 Package: kmod-dahdi-hfcs
@@ -6909,9 +6909,9 @@ Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
 Architecture: ar71xx
 Installed-Size: 9868
 Filename: kmod-dahdi-hfcs_3.18.45+2.10.2-2_ar71xx.ipk
-Size: 10775
-MD5Sum: fd622559554a999da4fa34132a1ae3a0
-SHA256sum: 345b9dd2b356b4d735f0bb1f2d41a1d1f61fbe0ef74071f112ce53ca9272b1f4
+Size: 10777
+MD5Sum: df8ae97cd9fc18a08201c95a491c3e5e
+SHA256sum: 454dc1119fa8e1fdbfc6c4fa5cdacaa9ae997ce46cbbfc26961ce72617644509
 Description:  This package contains DAHDI driver for HFC-S based PCI BRI adapters.
 
 Package: kmod-dahdi
@@ -6923,11 +6923,11 @@ LicenseFiles: LICENSE
 Section: kernel
 Maintainer: Vittorio Gambaletta <openwrt@vittgam.net>
 Architecture: ar71xx
-Installed-Size: 57732
+Installed-Size: 57736
 Filename: kmod-dahdi_3.18.45+2.10.2-2_ar71xx.ipk
-Size: 58411
-MD5Sum: 6b7008d95484d08d7651378b2c2ce52d
-SHA256sum: 92d0e0484f73eeaac04d53f79878de9c7dd5fc2f6ce54d9b9c78bfa2313e0f7c
+Size: 58426
+MD5Sum: 4fa5fdf0ec04a13bf0b674e31e0de61c
+SHA256sum: acebceb70cf326a5f5d6e41b2575b91779114285e0dd836272bad9ee1cad68bb
 Description:  This package contains DAHDI basic infrastructure.
 
 Package: libiksemel
